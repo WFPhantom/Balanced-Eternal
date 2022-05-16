@@ -1,3 +1,5 @@
+  ## Balanced Eternal 0.1.0
+
   - [Just Enough Resources (JER) (by
     way2muchnoise)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
   - [Shutup Experimental Settings\! (by
