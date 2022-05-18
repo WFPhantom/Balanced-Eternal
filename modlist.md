@@ -1,378 +1,183 @@
-  ## Balanced Eternal 0.1.0
-
-  - [Just Enough Resources (JER) (by
-    way2muchnoise)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
-  - [Shutup Experimental Settings\! (by
-    Corgi\_Taco)](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
-  - [Music Maker Mod (by
-    xerca0)](https://www.curseforge.com/minecraft/mc-mods/music-maker-mod)
-  - [Create (by
-    simibubi)](https://www.curseforge.com/minecraft/mc-mods/create)
-  - [Roots Classic (by
-    Lothrazar)](https://www.curseforge.com/minecraft/mc-mods/roots-classic)
-  - [Ars Elemental (by
-    Alexth99)](https://www.curseforge.com/minecraft/mc-mods/ars-elemental-elemental-spell-foci)
-  - [Macaw's Roofs (by
-    sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
-  - [Bad Wither No Cookie - Reloaded (by
-    Kreezxil)](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
-  - [Tool Stats (by
-    DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/tool-stats)
-  - [Cosmetic Armor Reworked (by
-    LainMI)](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
-  - [Alternate Current (by
-    SpaceWalkerRS)](https://www.curseforge.com/minecraft/mc-mods/alternate-current)
-  - [Sophisticated Core (by
-    P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
-  - [Rubidium (by
-    Asek3)](https://www.curseforge.com/minecraft/mc-mods/rubidium)
-  - [Glassential (by
-    Lykrast)](https://www.curseforge.com/minecraft/mc-mods/glassential)
-  - [Advanced Peripherals (by
-    srrendi)](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)
-  - [Botania (by
-    Vazkii)](https://www.curseforge.com/minecraft/mc-mods/botania)
-  - [Drawers Tooltip (by
-    Snownee\_)](https://www.curseforge.com/minecraft/mc-mods/drawers-tooltip)
-  - [Bedspreads (Forge) (by
-    TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/bedspreads)
-  - [FTB Library (Forge) (by
-    FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
-  - [Snow\! Real Magic\! ⛄ (Forge) (by
-    Snownee\_)](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic)
-  - [Mekanism (by
-    bradyaidanc)](https://www.curseforge.com/minecraft/mc-mods/mekanism)
-  - [spark (by
-    Iucko)](https://www.curseforge.com/minecraft/mc-mods/spark)
-  - [FTB Teams (Forge) (by
-    FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
-  - [Visual Workbench \[Forge\] (by
-    Fuzs\_)](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)
-  - [Occultism (by
-    kli\_kli)](https://www.curseforge.com/minecraft/mc-mods/occultism)
-  - [Inventory Essentials (by
-    BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials)
-  - [Mekanism Generators (by
-    bradyaidanc)](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
-  - [Kiwi 🥝 (Forge) (by
-    Snownee\_)](https://www.curseforge.com/minecraft/mc-mods/kiwi)
-  - [Mekanism Tools (by
-    bradyaidanc)](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
-  - [Sophisticated Backpacks (by
-    P3pp3rF1y)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
-  - [Nether's Delight (by
-    lumpazl)](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
-  - [Simply Light (by
-    Flanks255)](https://www.curseforge.com/minecraft/mc-mods/simply-light)
-  - [Repurposed Structures (Forge) (by
-    telepathicgrunt)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
-  - [Waystones (by
-    BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/waystones)
-  - [Ding (by
-    ohaiiChun)](https://www.curseforge.com/minecraft/mc-mods/ding)
-  - [Comforts (Forge) (by
-    TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/comforts)
-  - [FPS Reducer (by
-    bre2el)](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
-  - [Skin Layers 3D (Fabric/Forge) (by
-    tr9zw)](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
-  - [Placebo (by
-    Shadows\_of\_Fire)](https://www.curseforge.com/minecraft/mc-mods/placebo)
-  - [Flywheel (by
-    jozufozu)](https://www.curseforge.com/minecraft/mc-mods/flywheel)
-  - [MythicBotany (by
-    noeppinoeppi)](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)
-  - [Farming for Blockheads (by
-    BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
-  - [Better Advancements (by
-    way2muchnoise)](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
-  - [Equipment Compare (by
-    Grend\_G)](https://www.curseforge.com/minecraft/mc-mods/equipment-compare)
-  - [Security Craft (by
-    Geforce132)](https://www.curseforge.com/minecraft/mc-mods/security-craft)
-  - [MmmMmmMmmMmm (Target Dummy) (by
-    MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
-  - [Bookshelf (by
-    DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
-  - [KleeSlabs (by
-    BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
-  - [Upgraded Netherite (by
-    Rolfmao25)](https://www.curseforge.com/minecraft/mc-mods/upgraded-netherite)
-  - [CC: Tweaked (by
-    SquidDev)](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
-  - [Passthrough Signs (by
-    Girafi)](https://www.curseforge.com/minecraft/mc-mods/passthrough-signs)
-  - [AIOT Botania (by
-    MelanX)](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
-  - [Jade Addons (by
-    Snownee\_)](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
-  - [More Crafting Tables for Forge\! (by
-    roleunplaying)](https://www.curseforge.com/minecraft/mc-mods/more-crafting-tables-for-forge)
-  - [Catalogue (by
-    MrCrayfish)](https://www.curseforge.com/minecraft/mc-mods/catalogue)
-  - [Lazy DataFixerUpper(LazyDFU) \[FORGE\] (by
-    Corgi\_Taco)](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge)
-  - [Decorative Blocks Compat (by
-    stohun)](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks-compat)
-  - [Create Plus (by
-    Robocraft999)](https://www.curseforge.com/minecraft/mc-mods/create-plus)
-  - [Dark Paintings (by
-    DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/dark-paintings)
-  - [AI Improvements (by
-    QueenOfMissiles)](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
-  - [Diagonal Fences (by
-    Fuzs\_)](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
-  - [JourneyMap Integration (by
-    frankv\_)](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
-  - [Diet (Forge) (by
-    TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/diet)
-  - [Extreme sound muffler (Forge) (by
-    LeoBeliik)](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)
-  - [FTB Ranks (Forge) (by
-    FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge)
-  - [Client Tweaks (by
-    BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
-  - [YUNG's API (Forge) (by
-    YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
-  - [FTB Chunks (Forge) (by
-    FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
-  - [Corpse (by
-    henkelmax)](https://www.curseforge.com/minecraft/mc-mods/corpse)
-  - [Radium Reforged (by
-    Asek3)](https://www.curseforge.com/minecraft/mc-mods/radium-reforged)
-  - [Carry On (by
-    Tschipp)](https://www.curseforge.com/minecraft/mc-mods/carry-on)
-  - [Chipped (by
-    ToadstoolStudios)](https://www.curseforge.com/minecraft/mc-mods/chipped)
-  - [Sushi Go Crafting (by
-    Buuz135)](https://www.curseforge.com/minecraft/mc-mods/sushigocrafting)
-  - [Sit (by
-    bl4ckscor3)](https://www.curseforge.com/minecraft/mc-mods/sit)
-  - [Effortless Building (by
-    Requioss)](https://www.curseforge.com/minecraft/mc-mods/effortless-building)
-  - [Curious Elytra (Forge) (by
-    TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)
-  - [Spice of Life: Carrot Edition (by
-    lordcazsius)](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
-  - [Upgraded Core (by
-    Rolfmao25)](https://www.curseforge.com/minecraft/mc-mods/upgraded-core)
-  - [Magnesium/Rubidium Extras (by
-    TeamDeusVult)](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
-  - [Curios API (Forge) (by
-    TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/curios)
-  - [Dungeon Crawl (by
-    xiroc\_)](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
-  - [ConnectedTexturesMod (by
-    tterrag1098)](https://www.curseforge.com/minecraft/mc-mods/ctm)
-  - [TerraBlender (Forge) (by
-    TheAdubbz)](https://www.curseforge.com/minecraft/mc-mods/terrablender)
-  - [Crafting Tweaks (by
-    BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
-  - [Oh The Biomes You'll Go (by
-    AOCAWOL)](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
-  - [Too Many Glyphs (by
-    derringercubed)](https://www.curseforge.com/minecraft/mc-mods/too-many-glyphs)
-  - [Emojiful (by
-    Buuz135)](https://www.curseforge.com/minecraft/mc-mods/emojiful)
-  - [Macaw's Bridges (by
-    sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
-  - [Farmer's Delight (by
-    vectorwing)](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
-  - [Quark (by
-    Vazkii)](https://www.curseforge.com/minecraft/mc-mods/quark)
-  - [YUNG's Bridges (Forge) (by
-    YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
-  - [AutoRegLib (by
-    Vazkii)](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
-  - [Configured (by
-    MrCrayfish)](https://www.curseforge.com/minecraft/mc-mods/configured)
-  - [Macaw's Furniture (by
-    sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
-  - [Nature's Aura (by
-    Ellpeck)](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
-  - [Paintings ++ (by
-    AbsolemJackdaw)](https://www.curseforge.com/minecraft/mc-mods/paintings)
-  - [Architectury API (Fabric/Forge) (by
-    shedaniel)](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
-  - [Crash Utilities (by
-    Darkere)](https://www.curseforge.com/minecraft/mc-mods/crash-utilities)
-  - [MrCrayfish's Furniture Mod (by
-    MrCrayfish)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
-  - [Valhelsia Core (by
-    ValhelsiaTeam)](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core)
-  - [Puzzles Lib \[Forge\] (by
-    Fuzs\_)](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
-  - [Biomes O' Plenty (by
-    Forstride)](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
-  - [Controlling (by
-    Jaredlll08)](https://www.curseforge.com/minecraft/mc-mods/controlling)
-  - [FlickerFix (by
-    MutantGumdrop)](https://www.curseforge.com/minecraft/mc-mods/flickerfix)
-  - [Macaw's Paintings (by
-    sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)
-  - [Ars Creo (by
-    baileyholl2)](https://www.curseforge.com/minecraft/mc-mods/ars-creo)
-  - [YUNG's Better Mineshafts (Forge) (by
-    YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
-  - [Enchantment Descriptions (by
-    DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-  - [FTB Quests (Forge) (by
-    FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)
-  - [Cooking for Blockheads (by
-    BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
-  - [AttributeFix (by
-    DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/attributefix)
-  - [Lootr (Forge) (by
-    Noobanidus)](https://www.curseforge.com/minecraft/mc-mods/lootr)
-  - [FerriteCore (Forge) (by
-    malte0811)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
-  - [LibX (by
-    noeppinoeppi)](https://www.curseforge.com/minecraft/mc-mods/libx)
-  - [Doggy Talents (by
-    percivalalb)](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
-  - [Selene Lib (by
-    MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/selene)
-  - [Just Enough Effect Descriptions (JEED) (by
-    MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)
-  - [Culinary Construct (by
-    TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/culinary-construct)
-  - [Ars Nouveau (by
-    baileyholl2)](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
-  - [FastWorkbench (by
-    Shadows\_of\_Fire)](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
-  - [Gauges and Switches (by
-    wilechaote)](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
-  - [AppleSkin (by
-    squeek502)](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-  - [More Overlays Updated (by
-    RiDGo8)](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
-  - [Framed Compacting Drawers (by
-    Eutropium)](https://www.curseforge.com/minecraft/mc-mods/framed-compacting-drawers)
-  - [Apotheosis (by
-    Shadows\_of\_Fire)](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
-  - [Guard Villagers (by
-    almightytallestred)](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)
-  - [Balm (Forge Edition) (by
-    BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/balm)
-  - [Just Enough Items (JEI) (by
-    mezz)](https://www.curseforge.com/minecraft/mc-mods/jei)
-  - [Ars Arsenal (by
-    ToxicMintTea)](https://www.curseforge.com/minecraft/mc-mods/ars-arsenal)
-  - [Upgraded Netherite : Ultimerite (by
-    Rolfmao25)](https://www.curseforge.com/minecraft/mc-mods/upgraded-netherite-ultimerite)
-  - [Convenient Curios Container (by
-    LeoBeliik)](https://www.curseforge.com/minecraft/mc-mods/convenient-curios-container)
-  - [Macaw's Windows (by
-    sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
-  - [Entity Culling Fabric/Forge (by
-    tr9zw)](https://www.curseforge.com/minecraft/mc-mods/entityculling)
-  - [Lava Clear View (Forge) (by
-    Snownee\_)](https://www.curseforge.com/minecraft/mc-mods/lava-clear-view)
-  - [Caelus API (Forge) (by
-    TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/caelus)
-  - [Dark Mode Everywhere (by
-    Buuz135)](https://www.curseforge.com/minecraft/mc-mods/dark-mode-everywhere)
-  - [Create Crafts & Additions (by
-    MRHminer)](https://www.curseforge.com/minecraft/mc-mods/createaddition)
-  - [ReAuth (by
-    TechnicianLP)](https://www.curseforge.com/minecraft/mc-mods/reauth)
-  - [Patchouli (by
-    Vazkii)](https://www.curseforge.com/minecraft/mc-mods/patchouli)
-  - [Notes (by
-    Chaosyr)](https://www.curseforge.com/minecraft/mc-mods/notes)
-  - [Aquaculture 2 (by
-    Shadowclaimer)](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-  - [Iceberg (by
-    Grend\_G)](https://www.curseforge.com/minecraft/mc-mods/iceberg)
-  - [FastFurnace (by
-    Shadows\_of\_Fire)](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
-  - [YUNG's Better Dungeons (Forge) (by
-    YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
-  - [Trading Post \[Forge\] (by
-    Fuzs\_)](https://www.curseforge.com/minecraft/mc-mods/trading-post)
-  - [Plonk (by
-    BlueAgent)](https://www.curseforge.com/minecraft/mc-mods/plonk)
-  - [Macaw's Doors (by
-    sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
-  - [Macaw's Trapdoors (by
-    sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
-  - [Just Enough Professions (JEP) (by
-    Mrbysco)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep)
-  - [Alex's Mobs (by
-    sbom\_xela)](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
-  - [Bee Fix (by
-    MacTso)](https://www.curseforge.com/minecraft/mc-mods/bee-fix)
-  - [Supplementaries (by
-    MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
-  - [Game Menu Mod Option \[Forge\] (by
-    morimori0317)](https://www.curseforge.com/minecraft/mc-mods/gamemenumodoption)
-  - [Connected Glass (by
-    SuperMartijn642)](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
-  - [Valhelsia Structures (by
-    ValhelsiaTeam)](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures)
-  - [Server Tab Info (by
-    black\_dog20)](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
-  - [Windowlogging (by
-    mc\_Grimmauld)](https://www.curseforge.com/minecraft/mc-mods/windowlogging)
-  - [Decorative Blocks (by
-    stohun)](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
-  - [Cake Chomps (Forge) (by
-    TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/cake-chomps)
-  - [YUNG's Better Strongholds (Forge) (by
-    YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
-  - [Toast Control (by
-    Shadows\_of\_Fire)](https://www.curseforge.com/minecraft/mc-mods/toast-control)
-  - [Akashic Tome (by
-    Vazkii)](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
-  - [Titanium (by
-    Buuz135)](https://www.curseforge.com/minecraft/mc-mods/titanium)
-  - [Starlight (Forge) (by
-    Spottedstar)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
-  - [Mouse Tweaks (by
-    YaLTeR)](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
-  - [Storage Drawers (by
-    Texelsaur)](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
-  - [Curio of Undying (Forge) (by
-    TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/curio-of-undying)
-  - [Chisels & Bits - For Forge (by
-    AlgorithmX2)](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
-  - [GeckoLib (by
-    ThanosGecko)](https://www.curseforge.com/minecraft/mc-mods/geckolib)
-  - [FramedBlocks (by
-    XFactHD)](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
-  - [Actually Compatible (by
-    starmun)](https://www.curseforge.com/minecraft/mc-mods/actually-compatible)
-  - [Hexerei (by
-    JoeFoxe)](https://www.curseforge.com/minecraft/mc-mods/hexerei)
-  - [Redstone Pen (by
-    wilechaote)](https://www.curseforge.com/minecraft/mc-mods/redstone-pen)
-  - [Macaw's Lights and Lamps (by
-    sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)
-  - [Fix Experience Bug (now with FABRIC and FORGE versions) (by
-    MacTso)](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
-  - [Citadel (by
-    sbom\_xela)](https://www.curseforge.com/minecraft/mc-mods/citadel)
-  - [TrashSlot (by
-    BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/trashslot)
-  - [JourneyMap (by
-    techbrew)](https://www.curseforge.com/minecraft/mc-mods/journeymap)
-  - [Nature's Compass (by
-    Chaosyr)](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
-  - [Macaw's Fences and Walls (by
-    sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
-  - [Curious Armor Stands (by
-    ochotonida)](https://www.curseforge.com/minecraft/mc-mods/curious-armor-stands)
-  - [Feature NBT Deadlock Be Gone (by
-    telepathicgrunt)](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone)
-  - [Item Filters (by
-    LatvianModder)](https://www.curseforge.com/minecraft/mc-mods/item-filters)
-  - [Game Menu Remove GFARB \[Forge\] (by
-    morimori0317)](https://www.curseforge.com/minecraft/mc-mods/game-menu-remove-gfarb)
-  - [Jade 🔍 (by
-    Snownee\_)](https://www.curseforge.com/minecraft/mc-mods/jade)
-  - [Save Your Pets (by
-    MacTso)](https://www.curseforge.com/minecraft/mc-mods/save-your-pets)
-  - [More Dragon Eggs (by
-    Darkere)](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs)
-  - [Friendly Fire (by
-    DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/friendly-fire)
+## balanced-eternal - 0.1.1
+- [actuallycompatible-0.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/actually-compatible/files/3623984) (by [starmun](https://www.curseforge.com/members/starmun/projects))
+- [AdditionalBanners-Forge-1.18.2-7.0.4.jar](https://www.curseforge.com/minecraft/mc-mods/additional-banners/files/3750652) (by [DarkhaxDev](https://www.curseforge.com/members/darkhaxdev/projects))
+- [advancedperipherals-1.18.2-0.7.14b.jar](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals/files/3771652) (by [srrendi](https://www.curseforge.com/members/srrendi/projects))
+- [AI-Improvements-1.18-0.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/3543562) (by [QueenOfMissiles](https://www.curseforge.com/members/queenofmissiles/projects))
+- [AIOTBotania-1.18.2-2.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/aiot-botania/files/3741339) (by [MelanX](https://www.curseforge.com/members/melanx/projects))
+- [AkashicTome-1.5-20.jar](https://www.curseforge.com/minecraft/mc-mods/akashic-tome/files/3740180) (by [Vazkii](https://www.curseforge.com/members/vazkii/projects))
+- [alexsmobs-1.18.3.jar](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3785938) (by [sbom_xela](https://www.curseforge.com/members/sbom_xela/projects))
+- [alternate-current-mc1.18-1.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/alternate-current/files/3789218) (by [SpaceWalkerRS](https://www.curseforge.com/members/spacewalkerrs/projects))
+- [Apotheosis-1.18.2-5.3.5.jar](https://www.curseforge.com/minecraft/mc-mods/apotheosis/files/3781524) (by [Shadows_of_Fire](https://www.curseforge.com/members/shadows_of_fire/projects))
+- [appleskin-forge-mc1.18-2.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3686482) (by [squeek502](https://www.curseforge.com/members/squeek502/projects))
+- [Aquaculture-1.18.2-2.3.6.jar](https://www.curseforge.com/minecraft/mc-mods/aquaculture/files/3750710) (by [Shadowclaimer](https://www.curseforge.com/members/shadowclaimer/projects))
+- [architectury-4.4.60.jar](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/3786591) (by [shedaniel](https://www.curseforge.com/members/shedaniel/projects))
+- [arsarsenal-1.1-1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/ars-arsenal/files/3769207) (by [ToxicMintTea](https://www.curseforge.com/members/toxicminttea/projects))
+- [ars_creo-1.18.2-1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/ars-creo/files/3776248) (by [baileyholl2](https://www.curseforge.com/members/baileyholl2/projects))
+- [ars_elemental-1.18.2-0.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/ars-elemental-elemental-spell-foci/files/3791098) (by [Alexth99](https://www.curseforge.com/members/alexth99/projects))
+- [ars_nouveau-1.18.2-2.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau/files/3790901) (by [baileyholl2](https://www.curseforge.com/members/baileyholl2/projects))
+- [AttributeFix-Forge-1.18.2-14.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/attributefix/files/3683609) (by [DarkhaxDev](https://www.curseforge.com/members/darkhaxdev/projects))
+- [AutoRegLib-1.7-53.jar](https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/3642382) (by [Vazkii](https://www.curseforge.com/members/vazkii/projects))
+- [bwncr-3.12.20.jar](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded/files/3794773) (by [Kreezxil](https://www.curseforge.com/members/kreezxil/projects))
+- [balm-3.0.3+0.jar](https://www.curseforge.com/minecraft/mc-mods/balm/files/3767671) (by [BlayTheNinth](https://www.curseforge.com/members/blaytheninth/projects))
+- [bedspreads-forge-1.18.1-5.1.0.5.jar](https://www.curseforge.com/minecraft/mc-mods/bedspreads/files/3625032) (by [TheIllusiveC4](https://www.curseforge.com/members/theillusivec4/projects))
+- [BeeFix-1.18-1.0.0.5.jar](https://www.curseforge.com/minecraft/mc-mods/bee-fix/files/3695736) (by [MacTso](https://www.curseforge.com/members/mactso/projects))
+- [BetterAdvancements-1.18.2-0.2.0.129.jar](https://www.curseforge.com/minecraft/mc-mods/better-advancements/files/3749537) (by [way2muchnoise](https://www.curseforge.com/members/way2muchnoise/projects))
+- [BiomesOPlenty-1.18.2-16.0.0.111-universal.jar](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3794487) (by [Forstride](https://www.curseforge.com/members/forstride/projects))
+- [Bookshelf-Forge-1.18.2-13.0.13.jar](https://www.curseforge.com/minecraft/mc-mods/bookshelf/files/3753798) (by [DarkhaxDev](https://www.curseforge.com/members/darkhaxdev/projects))
+- [Botania-1.18.2-432.jar](https://www.curseforge.com/minecraft/mc-mods/botania/files/3789677) (by [Vazkii](https://www.curseforge.com/members/vazkii/projects))
+- [caelus-forge-1.18.1-3.0.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/caelus/files/3650485) (by [TheIllusiveC4](https://www.curseforge.com/members/theillusivec4/projects))
+- [cakechomps-forge-1.18-5.1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/cake-chomps/files/3555957) (by [TheIllusiveC4](https://www.curseforge.com/members/theillusivec4/projects))
+- [carryon-1.18.2-1.17.0.8.jar](https://www.curseforge.com/minecraft/mc-mods/carry-on/files/3674344) (by [Tschipp](https://www.curseforge.com/members/tschipp/projects))
+- [catalogue-1.6.1-1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/catalogue/files/3721991) (by [MrCrayfish](https://www.curseforge.com/members/mrcrayfish/projects))
+- [cc-tweaked-1.18.2-1.100.5.jar](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked/files/3770724) (by [SquidDev](https://www.curseforge.com/members/squiddev/projects))
+- [chipped-1.18.2-1.2.1-forge.jar](https://www.curseforge.com/minecraft/mc-mods/chipped/files/3748664) (by [ToadstoolStudios](https://www.curseforge.com/members/toadstoolstudios/projects))
+- [ChiselsBits-forge-1.18.2-1.2.87-universal.jar](https://www.curseforge.com/minecraft/mc-mods/chisels-bits/files/3775218) (by [AlgorithmX2](https://www.curseforge.com/members/algorithmx2/projects))
+- [citadel-1.11.3-1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/citadel/files/3783096) (by [sbom_xela](https://www.curseforge.com/members/sbom_xela/projects))
+- [clienttweaks-forge-1.18.1-7.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/client-tweaks/files/3666468) (by [BlayTheNinth](https://www.curseforge.com/members/blaytheninth/projects))
+- [comforts-forge-1.18.2-5.0.0.4.jar](https://www.curseforge.com/minecraft/mc-mods/comforts/files/3682307) (by [TheIllusiveC4](https://www.curseforge.com/members/theillusivec4/projects))
+- [configured-1.5.3-1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/configured/files/3721946) (by [MrCrayfish](https://www.curseforge.com/members/mrcrayfish/projects))
+- [connectedglass-1.1.3-mc1.18.jar](https://www.curseforge.com/minecraft/mc-mods/connected-glass/files/3759797) (by [SuperMartijn642](https://www.curseforge.com/members/supermartijn642/projects))
+- [CTM-1.18.2-1.1.4+4.jar](https://www.curseforge.com/minecraft/mc-mods/ctm/files/3737369) (by [tterrag1098](https://www.curseforge.com/members/tterrag1098/projects))
+- [Controlling-forge-1.18.2-9.0+19.jar](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3758406) (by [Jaredlll08](https://www.curseforge.com/members/jaredlll08/projects))
+- [convenientcurioscontainer-1.2-1.18.jar](https://www.curseforge.com/minecraft/mc-mods/convenient-curios-container/files/3748505) (by [LeoBeliik](https://www.curseforge.com/members/leobeliik/projects))
+- [corpse-1.18.2-1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/corpse/files/3694258) (by [henkelmax](https://www.curseforge.com/members/henkelmax/projects))
+- [CosmeticArmorReworked-1.18.2-v2.jar](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/3738144) (by [LainMI](https://www.curseforge.com/members/lainmi/projects))
+- [craftingtweaks-forge-1.18.1-14.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks/files/3584842) (by [BlayTheNinth](https://www.curseforge.com/members/blaytheninth/projects))
+- [crashutilities-4.0.jar](https://www.curseforge.com/minecraft/mc-mods/crash-utilities/files/3585022) (by [Darkere](https://www.curseforge.com/members/darkere/projects))
+- [create-mc1.18.2_v0.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/create/files/3737418) (by [simibubi](https://www.curseforge.com/members/simibubi/projects))
+- [createaddition-1.18.2-20220517a.jar](https://www.curseforge.com/minecraft/mc-mods/createaddition/files/3794929) (by [MRHminer](https://www.curseforge.com/members/mrhminer/projects))
+- [createplus-1.18.2_v0.4.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/create-plus/files/3763686) (by [Robocraft999](https://www.curseforge.com/members/robocraft999/projects))
+- [curioofundying-forge-1.18-5.3.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/curio-of-undying/files/3553486) (by [TheIllusiveC4](https://www.curseforge.com/members/theillusivec4/projects))
+- [curios-forge-1.18.2-5.0.7.0.jar](https://www.curseforge.com/minecraft/mc-mods/curios/files/3748873) (by [TheIllusiveC4](https://www.curseforge.com/members/theillusivec4/projects))
+- [curious-armor-stands-1.18.1-4.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/curious-armor-stands/files/3579775) (by [ochotonida](https://www.curseforge.com/members/ochotonida/projects))
+- [curiouselytra-forge-1.18.1-5.0.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/curious-elytra/files/3601975) (by [TheIllusiveC4](https://www.curseforge.com/members/theillusivec4/projects))
+- [DarkModeEverywhere-1.18.1-1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/dark-mode-everywhere/files/3630075) (by [Buuz135](https://www.curseforge.com/members/buuz135/projects))
+- [DarkPaintings-Forge-1.18.2-10.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/dark-paintings/files/3683664) (by [DarkhaxDev](https://www.curseforge.com/members/darkhaxdev/projects))
+- [Decorative Blocks-forge-1.18.2-2.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks/files/3697638) (by [stohun](https://www.curseforge.com/members/stohun/projects))
+- [Decorative Blocks Compat-forge-1.18.2-2.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks-compat/files/3723285) (by [stohun](https://www.curseforge.com/members/stohun/projects))
+- [DiagonalFences-v3.1.0-1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences/files/3777811) (by [Fuzs_](https://www.curseforge.com/members/fuzs_/projects))
+- [diet-forge-1.18.2-1.3.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/diet/files/3758891) (by [TheIllusiveC4](https://www.curseforge.com/members/theillusivec4/projects))
+- [Ding-1.18-1.3.0.jar](https://www.curseforge.com/minecraft/mc-mods/ding/files/3548400) (by [ohaiiChun](https://www.curseforge.com/members/ohaiichun/projects))
+- [DoggyTalents-1.18.2-2.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/doggy-talents/files/3705819) (by [percivalalb](https://www.curseforge.com/members/percivalalb/projects))
+- [DrawersTooltip-1.18.2-forge-5.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/drawers-tooltip/files/3695464) (by [Snownee_](https://www.curseforge.com/members/snownee_/projects))
+- [DungeonCrawl-1.18.2-2.3.8.jar](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl/files/3766138) (by [xiroc_](https://www.curseforge.com/members/xiroc_/projects))
+- [effortlessbuilding-1.18-2.34.jar](https://www.curseforge.com/minecraft/mc-mods/effortless-building/files/3704104) (by [Requioss](https://www.curseforge.com/members/requioss/projects))
+- [emojiful-1.18.2-3.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/emojiful/files/3732908) (by [Buuz135](https://www.curseforge.com/members/buuz135/projects))
+- [EnchantmentDescriptions-Forge-1.18.2-10.0.3.jar](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/files/3754812) (by [DarkhaxDev](https://www.curseforge.com/members/darkhaxdev/projects))
+- [entityculling-forge-mc1.18-1.5.1.jar](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/3743929) (by [tr9zw](https://www.curseforge.com/members/tr9zw/projects))
+- [EquipmentCompare-1.18.1-1.2.12.jar](https://www.curseforge.com/minecraft/mc-mods/equipment-compare/files/3654272) (by [Grend_G](https://www.curseforge.com/members/grend_g/projects))
+- [extremeSoundMuffler-3.24_Forge-1.18.1.jar](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/3648159) (by [LeoBeliik](https://www.curseforge.com/members/leobeliik/projects))
+- [FarmersDelight-1.18.2-1.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/3784851) (by [vectorwing](https://www.curseforge.com/members/vectorwing/projects))
+- [FastFurnace-1.18.2-6.0.3.jar](https://www.curseforge.com/minecraft/mc-mods/fastfurnace/files/3717883) (by [Shadows_of_Fire](https://www.curseforge.com/members/shadows_of_fire/projects))
+- [FastWorkbench-1.18.2-6.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/fastworkbench/files/3717873) (by [Shadows_of_Fire](https://www.curseforge.com/members/shadows_of_fire/projects))
+- [feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone/files/3669114) (by [telepathicgrunt](https://www.curseforge.com/members/telepathicgrunt/projects))
+- [ferritecore-4.2.1-forge.jar](https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/3767288) (by [malte0811](https://www.curseforge.com/members/malte0811/projects))
+- [ExperienceBugFix-1.18-1.38.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug/files/3555587) (by [MacTso](https://www.curseforge.com/members/mactso/projects))
+- [flickerfix-2.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/flickerfix/files/3544460) (by [MutantGumdrop](https://www.curseforge.com/members/mutantgumdrop/projects))
+- [flywheel-forge-1.18-0.6.2.jar](https://www.curseforge.com/minecraft/mc-mods/flywheel/files/3737402) (by [jozufozu](https://www.curseforge.com/members/jozufozu/projects))
+- [FpsReducer2-forge-1.18.2-2.0.jar](https://www.curseforge.com/minecraft/mc-mods/fps-reducer/files/3680770) (by [bre2el](https://www.curseforge.com/members/bre2el/projects))
+- [framedcompactdrawers-1.18-4.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/framed-compacting-drawers/files/3629913) (by [Eutropium](https://www.curseforge.com/members/eutropium/projects))
+- [FramedBlocks-5.1.1-hotfix.jar](https://www.curseforge.com/minecraft/mc-mods/framedblocks/files/3768896) (by [XFactHD](https://www.curseforge.com/members/xfacthd/projects))
+- [FriendlyFire-Forge-1.18.2-11.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/friendly-fire/files/3764167) (by [DarkhaxDev](https://www.curseforge.com/members/darkhaxdev/projects))
+- [ftb-chunks-forge-1802.3.6-build.145.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge/files/3787348) (by [FTB](https://www.curseforge.com/members/ftb/projects))
+- [ftb-library-forge-1802.3.6-build.119.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/files/3794623) (by [FTB](https://www.curseforge.com/members/ftb/projects))
+- [ftb-quests-forge-1802.3.8-build.101.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge/files/3725771) (by [FTB](https://www.curseforge.com/members/ftb/projects))
+- [ftb-ranks-forge-1802.1.7-build.27.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge/files/3725556) (by [FTB](https://www.curseforge.com/members/ftb/projects))
+- [ftb-teams-forge-1802.2.6-build.51.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge/files/3725501) (by [FTB](https://www.curseforge.com/members/ftb/projects))
+- [GameMenuModOption-1.18-Forge-1.14.jar](https://www.curseforge.com/minecraft/mc-mods/gamemenumodoption/files/3599103) (by [morimori0317](https://www.curseforge.com/members/morimori0317/projects))
+- [GameMenuRemoveGFARB-1.18-Forge-1.4.jar](https://www.curseforge.com/minecraft/mc-mods/game-menu-remove-gfarb/files/3599106) (by [morimori0317](https://www.curseforge.com/members/morimori0317/projects))
+- [rsgauges-1.18.2-1.2.16.jar](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches/files/3773568) (by [wilechaote](https://www.curseforge.com/members/wilechaote/projects))
+- [geckolib-1.18-forge-3.0.18.jar](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3785773) (by [ThanosGecko](https://www.curseforge.com/members/thanosgecko/projects))
+- [glassential-forge-1.18.2-1.2.3.jar](https://www.curseforge.com/minecraft/mc-mods/glassential/files/3759157) (by [Lykrast](https://www.curseforge.com/members/lykrast/projects))
+- [guardvillagers-1.18.2.1.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/guard-villagers/files/3694899) (by [almightytallestred](https://www.curseforge.com/members/almightytallestred/projects))
+- [hexerei-0.1.19.jar](https://www.curseforge.com/minecraft/mc-mods/hexerei/files/3785792) (by [JoeFoxe](https://www.curseforge.com/members/joefoxe/projects))
+- [Iceberg-1.18.2-1.0.40.jar](https://www.curseforge.com/minecraft/mc-mods/iceberg/files/3675774) (by [Grend_G](https://www.curseforge.com/members/grend_g/projects))
+- [inventoryessentials-forge-1.18-4.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials/files/3584942) (by [BlayTheNinth](https://www.curseforge.com/members/blaytheninth/projects))
+- [item-filters-forge-1802.2.7-build.27.jar](https://www.curseforge.com/minecraft/mc-mods/item-filters/files/3787857) (by [LatvianModder](https://www.curseforge.com/members/latvianmodder/projects))
+- [JadeAddons-1.18.2-2.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/jade-addons/files/3771721) (by [Snownee_](https://www.curseforge.com/members/snownee_/projects))
+- [Jade-1.18.2-5.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/jade/files/3761542) (by [Snownee_](https://www.curseforge.com/members/snownee_/projects))
+- [journeymap-1.18.2-5.8.3-forge.jar](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/3779281) (by [techbrew](https://www.curseforge.com/members/techbrew/projects))
+- [jmi-1.18.2-0.9-49.jar](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration/files/3734478) (by [frankv_](https://www.curseforge.com/members/frankv_/projects))
+- [jeed-1.18.2-1.10.jar](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed/files/3736071) (by [MehVahdJukaar](https://www.curseforge.com/members/mehvahdjukaar/projects))
+- [jei-1.18.2-9.7.0.195.jar](https://www.curseforge.com/minecraft/mc-mods/jei/files/3788739) (by [mezz](https://www.curseforge.com/members/mezz/projects))
+- [JustEnoughProfessions-1.18.2-1.2.2.jar](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep/files/3670345) (by [Mrbysco](https://www.curseforge.com/members/mrbysco/projects))
+- [JustEnoughResources-1.18.2-0.14.1.167.jar](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/3760449) (by [way2muchnoise](https://www.curseforge.com/members/way2muchnoise/projects))
+- [Kiwi-1.18.2-forge-6.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/kiwi/files/3755791) (by [Snownee_](https://www.curseforge.com/members/snownee_/projects))
+- [kleeslabs-forge-1.18.1-11.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/3666478) (by [BlayTheNinth](https://www.curseforge.com/members/blaytheninth/projects))
+- [LavaClearView-1.18.2-forge-4.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/lava-clear-view/files/3717893) (by [Snownee_](https://www.curseforge.com/members/snownee_/projects))
+- [lazydfu-1.0-1.18+.jar](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge/files/3544496) (by [Corgi_Taco](https://www.curseforge.com/members/corgi_taco/projects))
+- [LibX-1.18.2-3.2.15.jar](https://www.curseforge.com/minecraft/mc-mods/libx/files/3755838) (by [noeppinoeppi](https://www.curseforge.com/members/noeppinoeppi/projects))
+- [lootr-1.18.2-0.2.16.52.jar](https://www.curseforge.com/minecraft/mc-mods/lootr/files/3771320) (by [Noobanidus](https://www.curseforge.com/members/noobanidus/projects))
+- [mcw-bridges-2.0.3-mc1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges/files/3793697) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
+- [mcw-doors-1.0.6-mc1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-doors/files/3683708) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
+- [mcw-fences-1.0.4-mc1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls/files/3755729) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
+- [mcw-furniture-3.0.0-mc1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture/files/3724480) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
+- [mcw-lights-1.0.3-mc1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps/files/3683040) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
+- [mcw-paintings-1.0.3-mc1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings/files/3696704) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
+- [mcw-roofs-2.1.2-mc1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs/files/3760192) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
+- [mcw-trapdoors-1.0.5-mc1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors/files/3682901) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
+- [mcw-windows-2.0.3-mc1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-windows/files/3712019) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
+- [rubidium_extras-1.18.2_v1.3.1.jar](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras/files/3771366) (by [TeamDeusVult](https://www.curseforge.com/members/teamdeusvult/projects))
+- [Mekanism-1.18.2-10.2.0.459.jar](https://www.curseforge.com/minecraft/mc-mods/mekanism/files/3743835) (by [bradyaidanc](https://www.curseforge.com/members/bradyaidanc/projects))
+- [MekanismGenerators-1.18.2-10.2.0.459.jar](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/3743837) (by [bradyaidanc](https://www.curseforge.com/members/bradyaidanc/projects))
+- [MekanismTools-1.18.2-10.2.0.459.jar](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/3743838) (by [bradyaidanc](https://www.curseforge.com/members/bradyaidanc/projects))
+- [MmmMmmMmmMmm-1.18-1.5.1.jar](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm/files/3641681) (by [MehVahdJukaar](https://www.curseforge.com/members/mehvahdjukaar/projects))
+- [MoreCraftingTables+1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/more-crafting-tables-for-forge/files/3725777) (by [roleunplaying](https://www.curseforge.com/members/roleunplaying/projects))
+- [moredragoneggs-3.1.jar](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs/files/3545748) (by [Darkere](https://www.curseforge.com/members/darkere/projects))
+- [moreoverlays-1.20.5-mc1.18.1.jar](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated/files/3639155) (by [RiDGo8](https://www.curseforge.com/members/ridgo8/projects))
+- [MouseTweaks-forge-mc1.18-2.21.jar](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/3578801) (by [YaLTeR](https://www.curseforge.com/members/yalter/projects))
+- [cfm-7.0.0-pre29-1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/files/3683524) (by [MrCrayfish](https://www.curseforge.com/members/mrcrayfish/projects))
+- [MythicBotany-1.18.2-2.1.4.jar](https://www.curseforge.com/minecraft/mc-mods/mythicbotany/files/3760713) (by [noeppinoeppi](https://www.curseforge.com/members/noeppinoeppi/projects))
+- [NaturesAura-36.0.jar](https://www.curseforge.com/minecraft/mc-mods/natures-aura/files/3672128) (by [Ellpeck](https://www.curseforge.com/members/ellpeck/projects))
+- [NaturesCompass-1.18.2-1.9.5-forge.jar](https://www.curseforge.com/minecraft/mc-mods/natures-compass/files/3684917) (by [Chaosyr](https://www.curseforge.com/members/chaosyr/projects))
+- [NethersDelight-1.18.2-2.2.0.jar](https://www.curseforge.com/minecraft/mc-mods/nethers-delight/files/3756127) (by [lumpazl](https://www.curseforge.com/members/lumpazl/projects))
+- [Notes-1.18.2-1.2.4.jar](https://www.curseforge.com/minecraft/mc-mods/notes/files/3712112) (by [Chaosyr](https://www.curseforge.com/members/chaosyr/projects))
+- [occultism-1.18.2-1.33.3.jar](https://www.curseforge.com/minecraft/mc-mods/occultism/files/3781844) (by [kli_kli](https://www.curseforge.com/members/kli_kli/projects))
+- [Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4-RC-15-all.jar](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go/files/3794456) (by [AOCAWOL](https://www.curseforge.com/members/aocawol/projects))
+- [Paintings-forge-1.18.2-9.1.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/paintings/files/3788082) (by [AbsolemJackdaw](https://www.curseforge.com/members/absolemjackdaw/projects))
+- [PassthroughSigns-1.18-2.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/passthrough-signs/files/3546561) (by [Girafi](https://www.curseforge.com/members/girafi/projects))
+- [Patchouli-1.18.2-67.jar](https://www.curseforge.com/minecraft/mc-mods/patchouli/files/3729975) (by [Vazkii](https://www.curseforge.com/members/vazkii/projects))
+- [Placebo-1.18.2-6.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/placebo/files/3781199) (by [Shadows_of_Fire](https://www.curseforge.com/members/shadows_of_fire/projects))
+- [plonk-1.18.2-10.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/plonk/files/3687629) (by [BlueAgent](https://www.curseforge.com/members/blueagent/projects))
+- [PuzzlesLib-v3.3.3-1.18.2-Forge.jar](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/3773679) (by [Fuzs_](https://www.curseforge.com/members/fuzs_/projects))
+- [Quark-3.2-356.jar](https://www.curseforge.com/minecraft/mc-mods/quark/files/3787172) (by [Vazkii](https://www.curseforge.com/members/vazkii/projects))
+- [radium-0.7.10.jar](https://www.curseforge.com/minecraft/mc-mods/radium-reforged/files/3707226) (by [Asek3](https://www.curseforge.com/members/asek3/projects))
+- [ReAuth-1.18-Forge-4.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/reauth/files/3679966) (by [TechnicianLP](https://www.curseforge.com/members/technicianlp/projects))
+- [redstonepen-1.18.2-1.0.10-b2.jar](https://www.curseforge.com/minecraft/mc-mods/redstone-pen/files/3773582) (by [wilechaote](https://www.curseforge.com/members/wilechaote/projects))
+- [repurposed_structures_forge-5.1.8+1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures/files/3794325) (by [telepathicgrunt](https://www.curseforge.com/members/telepathicgrunt/projects))
+- [RootsClassic-1.18.2-1.1.23.jar](https://www.curseforge.com/minecraft/mc-mods/roots-classic/files/3784717) (by [Lothrazar](https://www.curseforge.com/members/lothrazar/projects))
+- [rubidium-0.5.2a.jar](https://www.curseforge.com/minecraft/mc-mods/rubidium/files/3749094) (by [Asek3](https://www.curseforge.com/members/asek3/projects))
+- [SaveYourPets-1.18-1.0.0.7.jar](https://www.curseforge.com/minecraft/mc-mods/save-your-pets/files/3626457) (by [MacTso](https://www.curseforge.com/members/mactso/projects))
+- [[1.18.2] SecurityCraft v1.9.1.jar](https://www.curseforge.com/minecraft/mc-mods/security-craft/files/3696873) (by [Geforce132](https://www.curseforge.com/members/geforce132/projects))
+- [selene-1.18.2-1.15.8.jar](https://www.curseforge.com/minecraft/mc-mods/selene/files/3778802) (by [MehVahdJukaar](https://www.curseforge.com/members/mehvahdjukaar/projects))
+- [ServerTabInfo-1.18.2-1.3.5.jar](https://www.curseforge.com/minecraft/mc-mods/server-tab-info/files/3697613) (by [black_dog20](https://www.curseforge.com/members/black_dog20/projects))
+- [shutupexperimentalsettings-1.0.5.jar](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings/files/3759881) (by [Corgi_Taco](https://www.curseforge.com/members/corgi_taco/projects))
+- [simplylight-1.18.2-1.4.2-build.31.jar](https://www.curseforge.com/minecraft/mc-mods/simply-light/files/3741435) (by [Flanks255](https://www.curseforge.com/members/flanks255/projects))
+- [sit-1.18.2-1.3.2.jar](https://www.curseforge.com/minecraft/mc-mods/sit/files/3723461) (by [bl4ckscor3](https://www.curseforge.com/members/bl4ckscor3/projects))
+- [3dskinlayers-forge-1.4.4-mc1.18.2.jar](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/3772834) (by [tr9zw](https://www.curseforge.com/members/tr9zw/projects))
+- [SnowRealMagic-1.18.2-forge-4.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic/files/3680622) (by [Snownee_](https://www.curseforge.com/members/snownee_/projects))
+- [sophisticatedbackpacks-1.18.2-3.16.1.579.jar](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/3793584) (by [P3pp3rF1y](https://www.curseforge.com/members/p3pp3rf1y/projects))
+- [sophisticatedcore-1.18.2-0.1.0.19.jar](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core/files/3793531) (by [P3pp3rF1y](https://www.curseforge.com/members/p3pp3rf1y/projects))
+- [spark-1.9.1-forge.jar](https://www.curseforge.com/minecraft/mc-mods/spark/files/3767286) (by [Iucko](https://www.curseforge.com/members/iucko/projects))
+- [SoL-Carrot-1.18.1-1.12.0.jar](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition/files/3571539) (by [lordcazsius](https://www.curseforge.com/members/lordcazsius/projects))
+- [starlight-1.0.2+forge.546ae87.jar](https://www.curseforge.com/minecraft/mc-mods/starlight-forge/files/3706539) (by [Spottedstar](https://www.curseforge.com/members/spottedstar/projects))
+- [StorageDrawers-1.18.2-10.2.0.jar](https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files/3693181) (by [Texelsaur](https://www.curseforge.com/members/texelsaur/projects))
+- [supplementaries-1.18.2-1.3.7.jar](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/3763517) (by [MehVahdJukaar](https://www.curseforge.com/members/mehvahdjukaar/projects))
+- [sushigocrafting-1.18.2-0.3.4.jar](https://www.curseforge.com/minecraft/mc-mods/sushigocrafting/files/3758195) (by [Buuz135](https://www.curseforge.com/members/buuz135/projects))
+- [TerraBlender-forge-1.18.2-1.1.0.99.jar](https://www.curseforge.com/minecraft/mc-mods/terrablender/files/3725996) (by [TheAdubbz](https://www.curseforge.com/members/theadubbz/projects))
+- [titanium-1.18.2-3.5.0-32.jar](https://www.curseforge.com/minecraft/mc-mods/titanium/files/3707558) (by [Buuz135](https://www.curseforge.com/members/buuz135/projects))
+- [ToastControl-1.18.2-6.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/toast-control/files/3717855) (by [Shadows_of_Fire](https://www.curseforge.com/members/shadows_of_fire/projects))
+- [toomanyglyphs-1.18.1-2.0.7.15321.jar](https://www.curseforge.com/minecraft/mc-mods/too-many-glyphs/files/3721969) (by [derringercubed](https://www.curseforge.com/members/derringercubed/projects))
+- [ToolStats-Forge-1.18.2-9.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/tool-stats/files/3697308) (by [DarkhaxDev](https://www.curseforge.com/members/darkhaxdev/projects))
+- [TradingPost-v3.2.0-1.18.2-Forge.jar](https://www.curseforge.com/minecraft/mc-mods/trading-post/files/3671421) (by [Fuzs_](https://www.curseforge.com/members/fuzs_/projects))
+- [trashslot-forge-1.18.1-11.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/trashslot/files/3658064) (by [BlayTheNinth](https://www.curseforge.com/members/blaytheninth/projects))
+- [valhelsia_core-1.18.2-0.3.1.jar](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core/files/3768769) (by [ValhelsiaTeam](https://www.curseforge.com/members/valhelsiateam/projects))
+- [valhelsia_structures-forge-1.18.2-0.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures/files/3708292) (by [ValhelsiaTeam](https://www.curseforge.com/members/valhelsiateam/projects))
+- [VisualWorkbench-v3.3.0-1.18.2-Forge.jar](https://www.curseforge.com/minecraft/mc-mods/visual-workbench/files/3773750) (by [Fuzs_](https://www.curseforge.com/members/fuzs_/projects))
+- [waystones-forge-1.18.2-10.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/waystones/files/3684732) (by [BlayTheNinth](https://www.curseforge.com/members/blaytheninth/projects))
+- [windowlogging-mc1.18.2_v0.0.9.jar](https://www.curseforge.com/minecraft/mc-mods/windowlogging/files/3776203) (by [mc_Grimmauld](https://www.curseforge.com/members/mc_grimmauld/projects))
+- [YungsApi-1.18.2-Forge-2.0.8.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-api/files/3779088) (by [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung/projects))
+- [YungsBetterDungeons-1.18.2-Forge-2.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons/files/3777934) (by [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung/projects))
+- [YungsBetterMineshafts-1.18.2-Forge-2.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge/files/3793994) (by [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung/projects))
+- [YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds/files/3778231) (by [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung/projects))
+- [YungsBridges-1.18.2-Forge-2.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges/files/3777944) (by [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung/projects))
