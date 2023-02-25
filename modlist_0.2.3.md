@@ -1,4 +1,4 @@
-## balanced-eternal - 0.2.3
+## balanced-eternal - 0.2.2a
 
   * [AdditionalBanners-Forge-1.19.2-10.1.6.jar](https://www.curseforge.com/minecraft/mc-mods/additional-banners/files/4068893) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
   * [AdvancedPeripherals-0.7.22b.jar](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals/files/4131803) (by [srrendi](https://www.curseforge.com/members/srrendi/projects))
