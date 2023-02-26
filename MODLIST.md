@@ -1,4 +1,4 @@
-## balanced-eternal - 0.2.2a
+## balanced-eternal - 0.2.3
 
   * [AdditionalBanners-Forge-1.19.2-10.1.6.jar](https://www.curseforge.com/minecraft/mc-mods/additional-banners/files/4068893) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
   * [AdvancedPeripherals-0.7.22b.jar](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals/files/4131803) (by [srrendi](https://www.curseforge.com/members/srrendi/projects))
@@ -56,7 +56,7 @@
   * [DoggyTalents-1.19.2-2.6.10.jar](https://www.curseforge.com/minecraft/mc-mods/doggy-talents/files/4318535) (by [percivalalb](https://www.curseforge.com/members/percivalalb/projects))
   * [DrawersTooltip-1.19-forge-6.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/drawers-tooltip/files/3881193) (by [Snownee_](https://www.curseforge.com/members/Snownee_/projects))
   * [DungeonCrawl-1.19-2.3.11.jar](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl/files/3875588) (by [xiroc_](https://www.curseforge.com/members/xiroc_/projects))
-  * [effortlessbuilding-1.19-2.40.jar](https://www.curseforge.com/minecraft/mc-mods/effortless-building/files/4369798) (by [Requioss](https://www.curseforge.com/members/Requioss/projects))
+  * [effortlessbuilding-1.19.2-3.0.jar](https://www.curseforge.com/minecraft/mc-mods/effortless-building/files/4388111) (by [Requioss](https://www.curseforge.com/members/Requioss/projects))
   * [elytraslot-forge-6.1.0+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/elytra-slot/files/4375449) (by [TheIllusiveC4](https://www.curseforge.com/members/TheIllusiveC4/projects))
   * [Emojiful-Forge-1.19.2-4.0.3-all.jar](https://www.curseforge.com/minecraft/mc-mods/emojiful/files/4056363) (by [Buuz135](https://www.curseforge.com/members/Buuz135/projects))
   * [EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/files/4277356) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
@@ -177,7 +177,7 @@
   * [valhelsia_core-forge-1.19.2-0.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core/files/4181245) (by [ValhelsiaTeam](https://www.curseforge.com/members/ValhelsiaTeam/projects))
   * [valhelsia_furniture-forge-1.19.2-1.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/valhelsia-furniture/files/4085201) (by [ValhelsiaTeam](https://www.curseforge.com/members/ValhelsiaTeam/projects))
   * [valhelsia_structures-forge-1.19.2-1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures/files/4299201) (by [ValhelsiaTeam](https://www.curseforge.com/members/ValhelsiaTeam/projects))
-  * [VisualWorkbench-v4.2.2-1.19.2-Forge.jar](https://www.curseforge.com/minecraft/mc-mods/visual-workbench/files/4390204) (by [Fuzs_](https://www.curseforge.com/members/Fuzs_/projects))
+  * [VisualWorkbench-v4.2.3-1.19.2-Forge.jar](https://www.curseforge.com/minecraft/mc-mods/visual-workbench/files/4411536) (by [Fuzs_](https://www.curseforge.com/members/Fuzs_/projects))
   * [waystones-forge-1.19-11.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/waystones/files/3901921) (by [BlayTheNinth](https://www.curseforge.com/members/BlayTheNinth/projects))
   * [YungsApi-1.19.2-Forge-3.8.7.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-api/files/4408064) (by [YUNGNICKYOUNG](https://www.curseforge.com/members/YUNGNICKYOUNG/projects))
   * [YungsBetterDungeons-1.19.2-Forge-3.2.2.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons/files/4073204) (by [YUNGNICKYOUNG](https://www.curseforge.com/members/YUNGNICKYOUNG/projects))
