@@ -40,3 +40,10 @@ config/bettermineshafts/README.txt
 **/*.log
 /.mixin.out
 README.md
+
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta
+setup.bat
