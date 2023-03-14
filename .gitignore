@@ -40,6 +40,7 @@ config/bettermineshafts/README.txt
 **/*.log
 /.mixin.out
 README.md
+LICENSE
 
 # Instance Sync
 **/*.jar
