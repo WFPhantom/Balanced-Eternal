@@ -40,3 +40,13 @@ config/bettermineshafts/README.txt
 **/*.log
 /.mixin.out
 README.md
+LICENSE
+chiselsandbits/clipboard.dat
+config/byg/backups/last_working_configs_backup.zip
+
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta
+setup.bat
