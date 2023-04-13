@@ -46,6 +46,9 @@
     "mob_spawner": true,
     "redstone": true
   },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
   },
@@ -83,24 +86,11 @@
     "ench": true,
     "spawner": true
   },
-  "waystones": {
-    "waystone": true
-  },
   "lootr": {
     "info": true
   },
   "corpse": {
     "corpse": true
-  },
-  "securitycraft": {
-    "spoof_block_name": true,
-    "showowner": true,
-    "showmodules": true,
-    "showpasswords": true,
-    "spoof_mod_name": true,
-    "spoof_block_icon": true,
-    "info": true,
-    "showcustomname": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
