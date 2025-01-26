@@ -1,0 +1,12 @@
+{
+  "states": {
+    "hovered": {
+      "frame_rate_target": 200,
+      "show_toasts": false
+    },
+    "unplugged": {
+      "frame_rate_target": 200,
+      "enable_vsync": false
+    }
+  }
+}
