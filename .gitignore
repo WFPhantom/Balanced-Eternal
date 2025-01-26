@@ -46,3 +46,6 @@ patchouli_data.json
 /local
 /fancymenu_data
 shaderpacks/ComplementaryReimagined_r5.3.zip
+config/ars_nouveau/search_index
+config/roughlyenoughitems/favorites.json5
+**/*.bak
