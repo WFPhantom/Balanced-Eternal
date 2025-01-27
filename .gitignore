@@ -20,7 +20,6 @@
 /downloads
 /resourcepacks
 .curseclient
-options.txt
 /mods
 command_history.txt
 usernamecache.json
@@ -45,7 +44,12 @@ patchouli_data.json
 /global_packs
 /local
 /fancymenu_data
-shaderpacks/ComplementaryReimagined_r5.3.zip
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1.zip
 config/ars_nouveau/search_index
 config/roughlyenoughitems/favorites.json5
 **/*.bak
+config/fabric/indigo-renderer.properties
+/screenshots
+options.txt
+Notes.txt
+/backups
