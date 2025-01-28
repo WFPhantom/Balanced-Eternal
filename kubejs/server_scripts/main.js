@@ -68,6 +68,10 @@ RecipeViewerEvents.removeRecipes(event => {
     event.remove('mctb:bop_maple_crafting_table')
     event.remove('mctb:bop_pine_crafting_table')
     event.remove('mctb:fir_crafting_table')
+    event.remove('ars_nouveau:creative_spell_book')
+    event.remove('ars_nouveau:creative_source_jar')
+    event.remove('ae2:creative_storage_cell')
+    event.remove('ae2:creative_energy_cell')
 })
 
 ServerEvents.recipes(event => {
@@ -139,6 +143,10 @@ ServerEvents.recipes(event => {
     event.remove({output: 'mctb:bop_maple_crafting_table'})
     event.remove({output: 'mctb:bop_pine_crafting_table'})
     event.remove({output: 'mctb:fir_crafting_table'})
+    event.remove({output: 'ars_nouveau:creative_spell_book'})
+    event.remove({output: 'ars_nouveau:creative_source_jar'})
+    event.remove({output: 'ae2:creative_storage_cell'})
+    event.remove({output: 'ae2:creative_energy_cell'})
 })
 
 
