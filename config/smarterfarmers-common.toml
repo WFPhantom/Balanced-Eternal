@@ -9,3 +9,5 @@
 	time_to_harvest = 40
 	#If true, will render debug info for farmers. Only works in single player
 	debug_renderer = false
+	#If true, farmers will plant crops on dirt blocks by tilling them
+	plant_on_dirt = false

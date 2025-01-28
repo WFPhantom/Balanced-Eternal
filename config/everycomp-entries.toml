@@ -78,9 +78,6 @@
 			golden_apple_oak = true
 			golden_apple_spruce = true
 
-		[types.leaves_type.croptopia]
-			cinnamon = true
-
 		[types.leaves_type.ars_elemental]
 			yellow_archwood = true
 
@@ -384,25 +381,8 @@
 			ceiling_fan_light = true
 			tiki_torch = true
 
-		[entries.wood_type.another_furniture]
-			bench = true
-			flower_box = true
-			shutter = true
-			drawer = true
-			shelf = true
-			table = true
-			chair = true
-
 		[entries.wood_type.mctb]
 			crafting_table = true
-
-		[entries.wood_type.valhelsia_furniture]
-			hay_chair = true
-			desk = true
-			chair = true
-			table = true
-			desk_drawer = true
-			stool = true
 
 		[entries.wood_type.mcwstairs]
 			terrace_stairs = true
