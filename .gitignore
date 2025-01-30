@@ -44,7 +44,8 @@ patchouli_data.json
 /global_packs
 /local
 /fancymenu_data
-shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1.zip
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2
+shaderpacks/ComplementaryReimagined_r5.4.zip
 config/ars_nouveau/search_index
 config/roughlyenoughitems/favorites.json5
 **/*.bak
