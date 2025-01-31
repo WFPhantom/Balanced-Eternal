@@ -56,7 +56,7 @@
 	"appearance": {
 		"recipeScreenType": "ORIGINAL",
 		// Declares the appearance of REI windows.
-		"theme": "LIGHT",
+		"theme": "DARK",
 		"layout": {
 			// Declares the position of the search field.
 			"searchFieldLocation": "CENTER",
@@ -191,9 +191,15 @@
 					"ae2:ae2.entropy_manipulator",
 					"chipped:workbench",
 					"roughlyenoughitems:plugins/information",
-					"minecraft:plugins/tag"
+					"minecraft:plugins/tag",
+					"jeed:effects",
+					"justenoughbreeding:breeding",
+					"sawmill:effects",
+					"roughlyenoughprofessions:plugins/profession"
 				],
-				"hiddenCategories": []
+				"hiddenCategories": [
+					"minecraft:plugins/tag"
+				]
 			}
 		},
 		"filtering": {
