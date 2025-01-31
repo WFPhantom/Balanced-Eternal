@@ -39,7 +39,9 @@ patchouli_data.json
 /blueprints
 /.cache
 /emojiful
-/journeymap
+/journeymap/data
+/journeymap/icon
+/journeymap/server
 /kiwipacks
 /global_packs
 /local
