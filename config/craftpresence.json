@@ -135,7 +135,8 @@
     },
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
-      "BE": "https://i.imgur.com/lycXFWw.png"
+      "BE": "https://i.imgur.com/lycXFWw.png",
+      "WFPhantom": "https://mc-heads.net/avatar/637e69c830a64f409fd41b6710fdb7f6"
     },
     "dynamicVariables": {
       "default": "Example Text",
