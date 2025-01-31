@@ -83,4 +83,8 @@ RecipeViewerEvents.removeEntries('item', event => {
     event.remove('immersive_portals:portal_helper')
     event.remove('immersive_portals:portal_wand')
     event.remove('immersive_portals:command_stick')
+    event.remove('minecraft:light')
+    event.remove('minecraft:barrier')
+    event.remove('minecraft:structure_void')
+    event.remove('minecraft:structure_block')
 })

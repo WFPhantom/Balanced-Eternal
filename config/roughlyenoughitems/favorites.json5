@@ -1,5 +1,9 @@
 {
-	"favorites": [],
+	"favorites": [
+		"{data:{count:1,id:\"minecraft:gray_glazed_terracotta\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{components:{\"computercraft:pocket_upgrade\":{id:\"advancedperipherals:geoscanner_pocket\"}},count:1,id:\"computercraft:pocket_computer_normal\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"mcwstairs:spruce_compact_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+	],
 	"hiddenFavorites": [],
 	"displays": []
 }

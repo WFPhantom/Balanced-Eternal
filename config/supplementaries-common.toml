@@ -153,7 +153,7 @@
 		require_taming = true
 
 	[functional.safe]
-		enabled = true
+		enabled = false
 		#Makes safes only breakable by their owner or by a player in creative
 		prevent_breaking = false
 		#Make safes simpler so they do not require keys:
@@ -348,13 +348,13 @@
 		#Burnable blocks will have a chance to create ash layers when burned. Greater this number the greater the chance will be
 		# Default: 1.0
 		# Range: 0.0 ~ 1.0
-		ash_from_fire_chance = 1.0
+		ash_from_fire_chance = 0
 		#Burning mobs will drop ash when they die
-		ash_from_burning_mobs = true
+		ash_from_burning_mobs = false
 		#Allows rain to wash away ash layers overtime
 		rain_wash_ash = true
 		#Use a datapack to tweak rarity
-		basalt_ash = true
+		basalt_ash = false
 
 	[building.flag]
 		enabled = true
@@ -418,9 +418,9 @@
 		unbreakable = false
 
 [tools]
-	candy = true
+	candy = false
 	stasis = true
-	altimeter = true
+	altimeter = false
 	confetti_popper = true
 
 	[tools.quiver]
@@ -498,11 +498,11 @@
 		bound_distance = 64
 
 	[tools.bomb]
-		enabled = true
+		enabled = false
 		#Bomb explosion radius (damage depends on this)
 		# Default: 2.0
 		# Range: 0.1 ~ 10.0
-		explosion_radius = 2.0
+		explosion_radius = 0.1
 		#Do bombs break blocks like tnt?
 		#Allowed Values: ALL, WEAK, NONE
 		break_blocks = "WEAK"
@@ -517,7 +517,7 @@
 			#Bomb explosion radius (damage depends on this)
 			# Default: 5.15
 			# Range: 0.1 ~ 10.0
-			explosion_radius = 5.15
+			explosion_radius = 0.1
 			#Do bombs break blocks like tnt?
 			#Allowed Values: ALL, WEAK, NONE
 			break_blocks = "WEAK"
@@ -571,7 +571,7 @@
 	#slightly increase this or decrease this number to tweak the red merchant spawn chance. Won't spawn at 0 and will spawn twice as often on 2
 	# Default: 1.0
 	# Range: 0.0 ~ 10.0
-	red_merchant_spawn_multiplier = 1.0
+	red_merchant_spawn_multiplier = 0.0
 	#Disable startup messages and sanity check that the mod performs to inform of possible detected crashes that might occur due to issues
 	sanity_checks_messages = true
 
