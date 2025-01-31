@@ -80,4 +80,7 @@ RecipeViewerEvents.removeEntries('item', event => {
     event.remove('minecraft:debug_stick')
     event.remove('ars_nouveau:debug')
     event.remove('sophisticatedcore_xp_bucket')
+    event.remove('immersive_portals:portal_helper')
+    event.remove('immersive_portals:portal_wand')
+    event.remove('immersive_portals:command_stick')
 })
