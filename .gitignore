@@ -56,3 +56,6 @@ config/fabric/indigo-renderer.properties
 options.txt
 Notes.txt
 /backups
+config/voicechat/username-cache.json
+servers.dat_old
+servers.dat
