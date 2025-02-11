@@ -85,7 +85,7 @@
 	# Range: 0.0 ~ 1.0
 	shortGrassWeight = 1.0
 	#Enable generation of natural cobwebs
-	enableNaturalCobwebs = true
+	enableNaturalCobwebs = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	naturalCobwebsWeight = 1.0

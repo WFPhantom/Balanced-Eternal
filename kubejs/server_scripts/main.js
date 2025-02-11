@@ -38,8 +38,8 @@ ServerEvents.recipes(event => {
 
 ServerEvents.tags("worldgen/biome", (event) => {
     event.get("ae2:has_meteorites").removeAll()
-    event.get("terralith:skylands_autumn").removeAll()
-    event.get("terralith:skylands_spring").removeAll()
-    event.get("terralith:skylands_summer").removeAll()
-    event.get("terralith:skylands_winter").removeAll()
+    // event.get("terralith:skylands_autumn").removeAll()
+    // event.get("terralith:skylands_spring").removeAll()
+    // event.get("terralith:skylands_summer").removeAll()
+    // event.get("terralith:skylands_winter").removeAll()
   })
