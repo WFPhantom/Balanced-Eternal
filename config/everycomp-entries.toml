@@ -294,6 +294,28 @@
 			pillar_trim = true
 			nightstand = true
 
+		[entries.wood_type.refurbished_furniture]
+			storage_cabinet = true
+			desk = true
+			cutting_board = true
+			lattice_fence = true
+			basin = true
+			kitchen_drawer = true
+			kitchen_cabinetry = true
+			chair = true
+			light_ceiling_fan = true
+			table = true
+			mail_box = true
+			kitchen_storage_cabinet = true
+			storage_jar = true
+			drawer = true
+			kitchen_sink = true
+			toilet = true
+			crate = true
+			dark_ceiling_fan = true
+			lattice_fence_gate = true
+			bath = true
+
 		[entries.wood_type.mcwdoors]
 			japanese2_door = true
 			tropical_door = true
@@ -343,6 +365,16 @@
 			mystic_trapdoor = true
 			barrel_trapdoor = true
 
+		[entries.wood_type.mcwstairs]
+			terrace_stairs = true
+			balcony = true
+			loft_stairs = true
+			railing = true
+			skyline_stairs = true
+			compact_stairs = true
+			platform = true
+			bulk_stairs = true
+
 		[entries.wood_type.mcwpaths]
 			planks_path = true
 
@@ -383,38 +415,6 @@
 
 		[entries.wood_type.mctb]
 			crafting_table = true
-
-		[entries.wood_type.mcwstairs]
-			terrace_stairs = true
-			balcony = true
-			loft_stairs = true
-			railing = true
-			skyline_stairs = true
-			compact_stairs = true
-			platform = true
-			bulk_stairs = true
-
-		[entries.wood_type.refurbished_furniture]
-			storage_cabinet = true
-			desk = true
-			cutting_board = true
-			lattice_fence = true
-			basin = true
-			kitchen_drawer = true
-			kitchen_cabinetry = true
-			chair = true
-			light_ceiling_fan = true
-			table = true
-			mail_box = true
-			kitchen_storage_cabinet = true
-			storage_jar = true
-			drawer = true
-			kitchen_sink = true
-			toilet = true
-			crate = true
-			dark_ceiling_fan = true
-			lattice_fence_gate = true
-			bath = true
 
 		[entries.leaves_type.mcwfences]
 			hedge = true

@@ -19,7 +19,6 @@
 /saves
 /downloads
 /resourcepacks
-.curseclient
 /mods
 command_history.txt
 usernamecache.json
@@ -39,11 +38,7 @@ patchouli_data.json
 /blueprints
 /.cache
 /emojiful
-/journeymap/data
-/journeymap/icon
-/journeymap/server
 /kiwipacks
-/global_packs
 /local
 /fancymenu_data
 shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2
@@ -55,17 +50,16 @@ config/fabric/indigo-renderer.properties
 /screenshots
 options.txt
 Notes.txt
-/backups
 config/voicechat/username-cache.json
 servers.dat_old
 servers.dat
 config/konkrete/locals/
 config/NoChatReports/README.md
-journeymap/config/6.0/journeymap.webmap.config
 /.bobby
 config/xaeropatreon.txt
 /xaero
 /XaeroWaypoints_BACKUP240807
+/configtest
 
 # Prism stuff
 icon.png
