@@ -4,21 +4,11 @@ about: Create a report to help us improve
 title: "[BUG]"
 labels: bug
 assignees: WFPhantom
-
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Info**
+A clear and concise description of what the bug is, Modpack Version, Environment, etc
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. 
-2. 
-3. 
-4. 
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
@@ -28,6 +18,3 @@ If applicable, add screenshots to help explain your problem.
 **debug.log (if applicable)**
 
 **crash-report (if applicable)**
-
-**Additional context**
-Add any other context about the problem here. (Has the modpack been modified, Modpack Version, Did you encounter this in singleplayer or in a server)
