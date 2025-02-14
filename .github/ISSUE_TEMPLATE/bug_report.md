@@ -7,11 +7,10 @@ assignees: WFPhantom
 ---
 
 **Info**
-A clear and concise description of what the bug is, Modpack Version, Environment, etc
+A clear and concise description of what the bug is, Modpack Version, Environment, Modifications to Modpack, etc
 
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots (if applicable)**
 
 **latest.log (if applicable)**
 
