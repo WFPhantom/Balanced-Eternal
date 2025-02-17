@@ -3,7 +3,6 @@
 !InstanceSync*.jar
 **/*.jar.disabled
 **/*.jar.meta
-ModpackStuff/devsetup.bat
 
 !Modpackstuff/**
 /ModpackStuff/secrets.ps1
@@ -66,3 +65,4 @@ config/xaeropatreon.txt
 
 # Prism stuff
 icon.png
+ModpackStuff/devsetup.bat
