@@ -1,58 +1,58 @@
 
 {
 	"dark_forest_settlements": {
-		"dark_forest_settlement": true
+		"dark_forest_settlement": false
 	},
 	"campsites": {
-		"campsite": true
+		"campsite": false
 	},
 	"taverns": {
-		"tavern": true
+		"tavern": false
 	},
 	"desert_shrines": {
-		"desert_shrine": true
+		"desert_shrine": false
 	},
 	"ruins": {
-		"ruins": true
+		"ruins": false
 	},
 	"mausoleums": {
-		"mausoleum": true
+		"mausoleum": false
 	},
 	"watchtowers": {
 		"watchtower": {
-			"plains": true,
-			"taiga": true,
-			"savanna": true
+			"plains": false,
+			"taiga": false,
+			"savanna": false
 		}
 	},
 	"supply_caches": {
 		"supply_cache": {
-			"birch": true,
-			"dark": true,
-			"desert": true,
-			"forest": true,
-			"jungle": true,
-			"mangrove": true,
-			"taiga": true
+			"birch": false,
+			"dark": false,
+			"desert": false,
+			"forest": false,
+			"jungle": false,
+			"mangrove": false,
+			"taiga": false
 		}
 	},
 	"badlands_pyramids": {
-		"badlands_pyramid": true
+		"badlands_pyramid": false
 	},
 	"black_spirals": {
 		"black_spiral": true
 	},
 	"mangrove_huts": {
-		"mangrove_hut": true
+		"mangrove_hut": false
 	},
 	"farmsteads": {
-		"farmstead": true
+		"farmstead": false
 	},
 	"guide_posts": {
-		"guide_post_cold": true,
-		"guide_post_warm": true
+		"guide_post_cold": false,
+		"guide_post_warm": false
 	},
 	"end_shipwrecks": {
-		"end_shipwreck": true
+		"end_shipwreck": false
 	}
 }
