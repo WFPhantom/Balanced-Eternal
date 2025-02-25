@@ -83,6 +83,9 @@
   "lootr": {
     "info": true
   },
+  "balm": {
+    "jade": true
+  },
   "apothic_enchanting": {
     "ench": true
   },

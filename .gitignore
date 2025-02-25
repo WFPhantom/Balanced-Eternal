@@ -58,6 +58,7 @@ config/xaeropatreon.txt
 /configtest
 /debug
 /config/paxi
+/cache
 
 # Prism stuff
 icon.png

@@ -42,7 +42,7 @@
   "entityEffects": {
     "entityEffectRange": 24,
     "enableBowPull": true,
-    "enableBreathEffect": true,
+    "enableBreathEffect": false,
     "enablePlayerToolbarEffect": true,
     "enableToolbarBlockSounds": false,
     "enableSwingEffect": true,
@@ -59,7 +59,7 @@
   },
   "compassAndClockOptions": {
     "enableClock": true,
-    "enableCompass": true,
+    "enableCompass": false,
     "compassStyle": "TRANSPARENT_WITH_INDICATOR",
     "scale": 1.0
   },
@@ -70,6 +70,6 @@
     "enableWeatherFog": false
   },
   "otherOptions": {
-    "playRandomSoundOnStartup": true
+    "playRandomSoundOnStartup": false
   }
 }

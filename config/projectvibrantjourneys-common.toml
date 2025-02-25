@@ -15,7 +15,7 @@
 	# Range: 0.0 ~ 1.0
 	fallenLeavesWeight = 1.0
 	#Enable generation of bones
-	enableBones = true
+	enableBones = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	bonesWeight = 1.0
@@ -60,7 +60,7 @@
 	# Range: 0.0 ~ 1.0
 	beachGrassWeight = 1.0
 	#Enable generation of bark mushrooms
-	enableBarkMushrooms = true
+	enableBarkMushrooms = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	barkMushroomsWeight = 1.0
@@ -90,12 +90,12 @@
 	# Range: 0.0 ~ 1.0
 	naturalCobwebsWeight = 1.0
 	#Enable generation of small cacti
-	enableSmallCacti = true
+	enableSmallCacti = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	smallCactiWeight = 1.0
 	#Enable generation of prickly bushes
-	enablePricklyBush = true
+	enablePricklyBush = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	pricklyBushWeight = 1.0
