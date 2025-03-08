@@ -27,7 +27,7 @@
 
 	[Peripherals.Energy_Detector]
 		#Enable the Energy Detector or not.
-		enableEnergyDetector = true
+		enableEnergyDetector = false
 		#Defines the maximum energy flow of the energy detector.
 		# Default: 2147483647
 		# Range: > 1
@@ -73,7 +73,7 @@
 
 	[Peripherals.ME_Bridge]
 		#Enable the Me Bridge or not.
-		enableMeBridge = true
+		enableMeBridge = false
 		#Power consumption per tick.
 		# Default: 10
 		# Range: > 0
@@ -81,7 +81,7 @@
 
 	[Peripherals.RS_Bridge]
 		#Enable the Rs Bridge or not.
-		enableRsBridge = true
+		enableRsBridge = false
 		#Power consumption per tick.
 		# Default: 10
 		# Range: > 0
@@ -113,7 +113,7 @@
 
 	[Peripherals.Colony_Integrator]
 		#Enable the colony integrator or not.
-		enableColonyIntegrator = true
+		enableColonyIntegrator = false
 
 	[Peripherals.Compass_Turtle]
 		#Enable the compass turtle or not.

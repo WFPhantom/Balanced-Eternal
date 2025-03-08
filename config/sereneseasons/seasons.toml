@@ -1,6 +1,6 @@
 [aesthetic_settings]
 	#Change the foliage colour based on the current season
-	change_foliage_color = true
+	change_foliage_color = false
 	#Change the grass color based on the current season
 	change_grass_color = true
 	#Change the birch colour based on the current season

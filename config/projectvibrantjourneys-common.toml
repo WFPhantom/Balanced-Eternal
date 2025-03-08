@@ -50,7 +50,7 @@
 	# Range: 0.0 ~ 1.0
 	seaOatsWeight = 1.0
 	#Enable generation of cattails
-	enableCattails = true
+	enableCattails = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	cattailsWeight = 1.0
@@ -70,12 +70,12 @@
 	# Range: 0.0 ~ 1.0
 	glowcapWeight = 1.0
 	#Enable generation of cindercane
-	enableCindercane = true
+	enableCindercane = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	cindercaneWeight = 1.0
 	#Enable generation of nether nettles
-	enableNetherNettles = true
+	enableNetherNettles = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	netherNettlesWeight = 1.0
@@ -215,12 +215,12 @@
 	# Range: 0.0 ~ 1.0
 	wildflowersWeight = 1.0
 	#Enable generation of bogged remains
-	enableBoggedRemains = true
+	enableBoggedRemains = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	boggedRemainsWeight = 1.0
 	#Enable generation of slime nodules
-	enableSlimeNodules = true
+	enableSlimeNodules = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	slimeNodulesWeight = 1.0
@@ -236,7 +236,7 @@
 
 ["Feature Options"]
 	#Allow bogged to spawn from bogged remains
-	allowBoggedFromBoggedRemains = true
+	allowBoggedFromBoggedRemains = false
 	#Chance for a bogged to spawn from bogged remains
 	# Default: 0.15
 	# Range: 0.0 ~ 1.0
