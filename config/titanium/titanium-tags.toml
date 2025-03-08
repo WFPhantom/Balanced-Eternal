@@ -1,3 +1,0 @@
-[TagConfig]
-	#A list of mod ids sorted by preference when getting an Item for a tag
-	ITEM_PREFERENCE = ["pedestals", "emendatusenigmatica", "create", "mekanism", "kubejs", "appliedenergistics2", "tmechworks", "quark", "pedestals"]

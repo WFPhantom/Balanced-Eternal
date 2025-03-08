@@ -185,7 +185,7 @@
     "fileid": "5813117"
   },
   {
-    "filename": "[neoforge]ctov-3.5.6.jar",
+    "filename": "[neoforge]ctov-3.5.6.jar.disabled",
     "fileid": "6250703"
   },
   {
@@ -258,7 +258,7 @@
     "fileid": "6157525"
   },
   {
-    "filename": "cristellib-neoforge-1.2.8.jar",
+    "filename": "cristellib-neoforge-1.2.8.jar.disabled",
     "fileid": "5692888"
   },
   {
@@ -399,8 +399,8 @@
     "fileid": "6270263"
   },
   {
-    "filename": "FramedBlocks-10.3.0.jar",
-    "fileid": "6272775"
+    "filename": "FramedBlocks-10.3.1.jar",
+    "fileid": "6280708"
   },
   {
     "filename": "framework-neoforge-1.21.1-0.9.4.jar",
@@ -489,10 +489,6 @@
   {
     "filename": "kubejs-neoforge-2101.7.1-build.181.jar",
     "fileid": "5810100"
-  },
-  {
-    "filename": "LegendaryTooltips-1.21-neoforge-1.4.11.jar",
-    "fileid": "5591027"
   },
   {
     "filename": "lithium-neoforge-0.14.8+mc1.21.1.jar",
@@ -643,10 +639,6 @@
     "fileid": "5836410"
   },
   {
-    "filename": "Prism-1.21-neoforge-1.0.9.jar",
-    "fileid": "5625115"
-  },
-  {
     "filename": "projectvibrantjourneys-1.21.1-7.0.6.jar",
     "fileid": "6200769"
   },
@@ -712,7 +704,7 @@
     "fileid": "6173038"
   },
   {
-    "filename": "SnowRealMagic-1.21.1-NeoForge-11.1.0.jar",
+    "filename": "SnowRealMagic-1.21.1-NeoForge-11.1.0.jar.disabled",
     "fileid": "6269900"
   },
   {
@@ -732,10 +724,6 @@
     "fileid": "6100815"
   },
   {
-    "filename": "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
-    "fileid": "6041601"
-  },
-  {
     "filename": "sodium-shadowy-path-blocks-neoforge-4.0.0.jar",
     "fileid": "5964065"
   },
@@ -750,10 +738,6 @@
   {
     "filename": "sound-physics-remastered-neoforge-1.21.1-1.4.8.jar",
     "fileid": "5991573"
-  },
-  {
-    "filename": "supplementaries-1.21-3.0.39-beta-neoforge.jar",
-    "fileid": "6252054"
   },
   {
     "filename": "tcdcommons-3.12.5+fabric-1.21.jar",
@@ -771,10 +755,6 @@
   {
     "filename": "tipsmod-neoforge-1.21.1-21.1.2.jar",
     "fileid": "5844057"
-  },
-  {
-    "filename": "titanium-1.21-4.0.34.jar",
-    "fileid": "6155132"
   },
   {
     "filename": "ToastControl-1.21-9.0.0.jar",
@@ -810,7 +790,7 @@
     "fileid": "5622968"
   },
   {
-    "filename": "wwoo-2.3.4.jar",
+    "filename": "wwoo-2.3.4.jar.disabled",
     "fileid": "5486498"
   },
   {
