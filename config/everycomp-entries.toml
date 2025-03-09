@@ -220,22 +220,6 @@
 			damaged_log = true
 			nailed_log = true
 
-		[entries.wood_type.mcwroofs]
-			top_roof = true
-			lower_roof = true
-			planks_roof = true
-			steep_roof = true
-			planks_top_roof = true
-			planks_upper_steep_roof = true
-			upper_steep_roof = true
-			upper_lower_roof = true
-			attic_roof = true
-			planks_upper_lower_roof = true
-			roof = true
-			planks_attic_roof = true
-			planks_steep_roof = true
-			planks_lower_roof = true
-
 		[entries.wood_type.mcwfurnitures]
 			stripped_glass_table = true
 			end_table = true
