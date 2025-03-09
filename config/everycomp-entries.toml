@@ -220,62 +220,6 @@
 			damaged_log = true
 			nailed_log = true
 
-		[entries.wood_type.mcwfurnitures]
-			stripped_glass_table = true
-			end_table = true
-			stool_chair = true
-			stripped_drawer_counter = true
-			stripped_counter = true
-			covered_desk = true
-			stripped_modern_wardrobe = true
-			stripped_covered_desk = true
-			stripped_cupboard_counter = true
-			stripped_triple_drawer = true
-			stripped_chair = true
-			stripped_modern_desk = true
-			stripped_bookshelf_cupboard = true
-			modern_wardrobe = true
-			striped_chair = true
-			stripped_large_drawer = true
-			wardrobe = true
-			modern_desk = true
-			stripped_end_table = true
-			drawer = true
-			chair = true
-			stripped_table = true
-			double_drawer_counter = true
-			drawer_counter = true
-			counter = true
-			table = true
-			stripped_double_drawer = true
-			lower_triple_drawer = true
-			bookshelf = true
-			stripped_wardrobe = true
-			large_drawer = true
-			stripped_desk = true
-			stripped_lower_triple_drawer = true
-			bookshelf_drawer = true
-			double_drawer = true
-			stripped_coffee_table = true
-			stripped_striped_chair = true
-			stripped_stool_chair = true
-			cupboard_counter = true
-			coffee_table = true
-			glass_table = true
-			stripped_double_drawer_counter = true
-			lower_bookshelf_drawer = true
-			stripped_lower_bookshelf_drawer = true
-			stripped_bookshelf_drawer = true
-			stripped_bookshelf = true
-			modern_chair = true
-			stripped_modern_chair = true
-			bookshelf_cupboard = true
-			desk = true
-			stripped_double_wardrobe = true
-			triple_drawer = true
-			double_wardrobe = true
-			stripped_drawer = true
-
 		[entries.wood_type.handcrafted]
 			fancy_bed = true
 			dining_bench = true
@@ -315,65 +259,6 @@
 			lattice_fence_gate = true
 			bath = true
 
-		[entries.wood_type.mcwdoors]
-			japanese2_door = true
-			tropical_door = true
-			barn_glass_door = true
-			four_panel_door = true
-			waffle_door = true
-			cottage_door = true
-			swamp_door = true
-			barn_door = true
-			classic_door = true
-			beach_door = true
-			japanese_door = true
-			stable_door = true
-			modern_door = true
-			nether_door = true
-			stable_head_door = true
-			western_door = true
-			paper_door = true
-			bamboo_door = true
-			glass_door = true
-			mystic_door = true
-			bark_glass_door = true
-
-		[entries.wood_type.mcwbridges]
-			bridge_pier = true
-			rope_bridge = true
-			log_bridge_middle = true
-			log_bridge_stair = true
-			rope_bridge_stair = true
-			rail_bridge = true
-
-		[entries.wood_type.mcwtrpdoors]
-			swamp_trapdoor = true
-			cottage_trapdoor = true
-			classic_trapdoor = true
-			bamboo_trapdoor = true
-			barn_trapdoor = true
-			four_panel_trapdoor = true
-			barred_trapdoor = true
-			ranch_trapdoor = true
-			beach_trapdoor = true
-			glass_trapdoor = true
-			blossom_trapdoor = true
-			tropical_trapdoor = true
-			paper_trapdoor = true
-			bark_trapdoor = true
-			mystic_trapdoor = true
-			barrel_trapdoor = true
-
-		[entries.wood_type.mcwstairs]
-			terrace_stairs = true
-			balcony = true
-			loft_stairs = true
-			railing = true
-			skyline_stairs = true
-			compact_stairs = true
-			platform = true
-			bulk_stairs = true
-
 		[entries.wood_type.mcwpaths]
 			planks_path = true
 
@@ -396,21 +281,8 @@
 			window = true
 			shutter = true
 
-		[entries.wood_type.mcwfences]
-			picket_fence = true
-			wired_fence = true
-			pyramid_gate = true
-			highley_gate = true
-			stockade_fence = true
-			horse_fence = true
-
 		[entries.wood_type.farmersdelight]
 			cabinet = true
-
-		[entries.wood_type.mcwlights]
-			soul_tiki_torch = true
-			ceiling_fan_light = true
-			tiki_torch = true
 
 		[entries.wood_type.mctb]
 			crafting_table = true
@@ -426,9 +298,6 @@
 
 		[entries.wood_type.create]
 			window_pane = true
-
-		[entries.leaves_type.mcwfences]
-			hedge = true
 
 		[entries.leaves_type.refurbished_furniture]
 			hedge = true
