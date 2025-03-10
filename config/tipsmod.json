@@ -28,5 +28,6 @@
       "color": "yellow",
       "bold": true
     }
-  }
+  },
+  "ignoredScreens": ["net.minecraft.client.gui.screens.PauseScreen"]
 }

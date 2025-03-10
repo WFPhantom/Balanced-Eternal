@@ -123,8 +123,8 @@
     "version": "XJ8bws2t"
   },
   {
-    "filename": "blockprints-merged-1.21.1-2.1.1.jar",
-    "fileid": "6232132"
+    "filename": "blockprints-merged-1.21.1-2.1.2.jar",
+    "fileid": "6288520"
   },
   {
     "filename": "BoatBreakFix-Universal-1.0.2.jar.disabled",
@@ -511,10 +511,6 @@
     "fileid": "5635643"
   },
   {
-    "filename": "mcw-paths-1.1.0neoforge-mc1.21.1.jar",
-    "fileid": "6244049"
-  },
-  {
     "filename": "mcw-windows-2.3.0-mc1.21.1neoforge.jar",
     "fileid": "5635576"
   },
@@ -721,7 +717,7 @@
     "fileid": "6090387"
   },
   {
-    "filename": "tipsmod-neoforge-1.21.1-21.1.2.jar",
+    "filename": "tipsmod-neoforge-1.21.1-21.1.2.jar.disabled",
     "fileid": "5844057"
   },
   {

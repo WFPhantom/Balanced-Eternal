@@ -56,6 +56,12 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
   "apothic_spawners": {
     "spawner": true
   },
@@ -83,34 +89,13 @@
   "lootr": {
     "info": true
   },
+  "corpse": {
+    "corpse": true
+  },
   "balm": {
     "jade": true
   },
   "apothic_enchanting": {
     "ench": true
-  },
-  "ae2": {
-    "part_icon": true,
-    "charger": true,
-    "debug": true,
-    "part_tooltip": true,
-    "grid_node_state": true,
-    "pattern_provider": true,
-    "part_mod_name": true,
-    "power_storage": true,
-    "crafting_monitor": true,
-    "part_name": true
-  },
-  "ars_nouveau": {
-    "mob_jar": true
-  },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
-  "supplementaries": {
-    "hat_stand": true
-  },
-  "corpse": {
-    "corpse": true
   }
 }

@@ -259,9 +259,6 @@
 			lattice_fence_gate = true
 			bath = true
 
-		[entries.wood_type.mcwpaths]
-			planks_path = true
-
 		[entries.wood_type.mcwwindows]
 			plank_four_window = true
 			window2 = true
