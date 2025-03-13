@@ -298,4 +298,4 @@
 			window = true
 
 		[entries.leaves_type.refurbished_furniture]
-			hedge = true
+			hedge = false
