@@ -4,8 +4,8 @@
     "fileid": "5970934"
   },
   {
-    "filename": "accessories-neoforge-1.1.0-beta.28+1.21.1.jar",
-    "fileid": "6194513"
+    "filename": "accessories-neoforge-1.1.0-beta.29+1.21.1.jar",
+    "fileid": "6301715"
   },
   {
     "filename": "accessories_tclayer-3.10.0-beta.21+1.21.1.jar.disabled",
@@ -307,6 +307,10 @@
     "fileid": "6205506"
   },
   {
+    "filename": "EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+    "fileid": "6231426"
+  },
+  {
     "filename": "elytraslot-neoforge-9.0.2+1.21.1.jar",
     "fileid": "5778461"
   },
@@ -407,8 +411,8 @@
     "fileid": "5911998"
   },
   {
-    "filename": "geckolib-neoforge-1.21.1-4.7.4.1.jar",
-    "fileid": "6295052"
+    "filename": "geckolib-neoforge-1.21.1-4.7.5.jar",
+    "fileid": "6300797"
   },
   {
     "filename": "Geophilic v3.2 f15-61.jar",
@@ -463,16 +467,20 @@
     "fileid": "6007770"
   },
   {
-    "filename": "jeed-1.21-2.2.16.jar.disabled",
-    "fileid": "6197134"
+    "filename": "jeed-1.21-2.2.17.jar",
+    "fileid": "6301947"
+  },
+  {
+    "filename": "jei-1.21.1-neoforge-19.21.0.247.jar",
+    "fileid": "5846880"
   },
   {
     "filename": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
     "fileid": "6290230"
   },
   {
-    "filename": "Kiwi-1.21.1-NeoForge-15.4.0.jar",
-    "fileid": "6300320"
+    "filename": "Kiwi-1.21.1-NeoForge-15.4.1.jar",
+    "fileid": "6301757"
   },
   {
     "filename": "kleeslabs-neoforge-1.21.1-21.1.3.jar",
@@ -579,7 +587,7 @@
     "fileid": "5537850"
   },
   {
-    "filename": "Patchouli-1.21-88-NEOFORGE.jar.disabled",
+    "filename": "Patchouli-1.21-88-NEOFORGE.jar",
     "fileid": "6164617"
   },
   {
@@ -626,10 +634,6 @@
   {
     "filename": "rhino-2101.2.7-build.74.jar",
     "fileid": "6184623"
-  },
-  {
-    "filename": "RoughlyEnoughProfessions-neoforge-1.21.1-4.0.3.jar.disabled",
-    "fileid": "5805943"
   },
   {
     "filename": "seamless-loading-screen-2.2.1+1.21-neoforge.jar",
@@ -776,8 +780,8 @@
     "fileid": "5954804"
   },
   {
-    "filename": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.1.jar",
-    "fileid": "5812513"
+    "filename": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+    "fileid": "6300968"
   },
   {
     "filename": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
