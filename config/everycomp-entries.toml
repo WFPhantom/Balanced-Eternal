@@ -81,12 +81,6 @@
 			golden_apple_oak = true
 			golden_apple_spruce = true
 
-		[types.leaves_type.ars_elemental]
-			yellow_archwood = true
-
-		[types.leaves_type.deeperdarker]
-			echo = true
-
 		[types.leaves_type.mcwholidays]
 			yellow_oak = true
 			orange_oak = true
@@ -95,6 +89,12 @@
 			mixed_oak = true
 			snowy_oak = true
 			snowy_spruce = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
+
+		[types.leaves_type.ars_elemental]
+			yellow_archwood = true
 
 #Disables specific entries
 [entries]
@@ -237,28 +237,6 @@
 			pillar_trim = true
 			nightstand = true
 
-		[entries.wood_type.refurbished_furniture]
-			storage_cabinet = true
-			desk = true
-			cutting_board = true
-			lattice_fence = true
-			basin = true
-			kitchen_drawer = true
-			kitchen_cabinetry = true
-			chair = true
-			light_ceiling_fan = true
-			table = true
-			mail_box = true
-			kitchen_storage_cabinet = true
-			storage_jar = true
-			drawer = true
-			kitchen_sink = true
-			toilet = true
-			crate = true
-			dark_ceiling_fan = true
-			lattice_fence_gate = true
-			bath = true
-
 		[entries.wood_type.mcwwindows]
 			plank_four_window = true
 			window2 = true
@@ -296,6 +274,3 @@
 		[entries.wood_type.create]
 			window_pane = true
 			window = true
-
-		[entries.leaves_type.refurbished_furniture]
-			hedge = false

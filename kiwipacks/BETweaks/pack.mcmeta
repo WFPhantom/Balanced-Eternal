@@ -1,0 +1,34 @@
+{
+    "pack": {
+        "description": "Tweaks for Balanced Eternal",
+        "pack_format": 48
+    },
+    "filter": {
+        "block": [
+        {
+            "namespace": "minecraft",
+            "path": "recipe/crafter"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "recipe/spyglass"
+        },
+        {
+            "namespace": "redstonepen",
+            "path": "recipe/remote_recipe"
+        },
+        {
+            "namespace": "redstonepen",
+            "path": "recipe/basic_gauge_recipe"
+        },
+        {
+            "namespace": "computercraft",
+            "path": "recipe/computer_command"
+        },
+        {
+            "namespace": "framedblocks",
+            "path": "recipe/framed_wrench"
+        }
+    ]
+  }
+}
