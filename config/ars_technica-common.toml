@@ -12,3 +12,11 @@
 	schematicCannonSpeedBoostEnabled = true
 	#Range for above-mentioned perk, if enabled.
 	schematicCannonSpeedBoostRange = 8.0
+
+#Logic related to Fuse
+["Glyph - Fuse"]
+	fluidCanBePlaced = true
+	fluidSourcesCanBePlaced = true
+	# Default: 16
+	# Range: 1 ~ 256
+	fluidMaxPlacementsPerFuse = 16

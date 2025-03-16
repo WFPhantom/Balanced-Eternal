@@ -24,6 +24,9 @@
     "item:create:creative_motor",
     "item:create:creative_fluid_tank",
     "item:create:creative_crate",
-    "item:create:creative_blaze_cake"
+    "item:create:creative_blaze_cake",
+    "item:lootr:trophy",
+    "item:framedblocks:framed_tank",
+    "item:framedblocks:framed_wrench"
   ]
 }
