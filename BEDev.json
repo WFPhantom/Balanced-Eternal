@@ -60,8 +60,8 @@
     "fileid": "6302725"
   },
   {
-    "filename": "ars_nouveau-1.21.1-5.7.0-all.jar",
-    "fileid": "6314274"
+    "filename": "ars_nouveau-1.21.1-5.7.1-all.jar",
+    "fileid": "6316304"
   },
   {
     "filename": "arsdelight-2.1.5.jar",
@@ -722,11 +722,6 @@
     "fileid": "6077668"
   },
   {
-    "filename": "traverse-8.0.1.jar",
-    "mod-id": "kXygSBVI",
-    "version": "lU1jMlpL"
-  },
-  {
     "filename": "UniLib-1.0.5+1.21.1-neoforge.jar",
     "fileid": "6087904"
   },
@@ -740,8 +735,8 @@
     "version": "4m0Fd6Fa"
   },
   {
-    "filename": "watut-neoforge-1.21.0-1.1.4.jar",
-    "fileid": "5622968"
+    "filename": "watut-neoforge-1.21.0-1.2.3.jar",
+    "fileid": "6315277"
   },
   {
     "filename": "wwoo-2.3.4.jar",
@@ -794,8 +789,8 @@
     "fileid": "5812532"
   },
   {
-    "filename": "yet_another_config_lib_v3-3.6.3+1.21.1-neoforge.jar",
-    "fileid": "6236526"
+    "filename": "yet_another_config_lib_v3-3.6.5+1.21.1-neoforge.jar",
+    "fileid": "6315634"
   },
   {
     "filename": "e4mc_minecraft-neoforge-5.3.0.jar",
