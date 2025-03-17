@@ -56,11 +56,15 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
-  },
-  "jadeaddons": {
-    "equipment_requirement": ""
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
   },
   "apothic_spawners": {
     "spawner": true
@@ -86,16 +90,22 @@
   "apotheosis": {
     "adventure": true
   },
-  "lootr": {
-    "info": true
-  },
-  "corpse": {
-    "corpse": true
-  },
   "balm": {
     "jade": true
   },
   "apothic_enchanting": {
     "ench": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
+  },
+  "corpse": {
+    "corpse": true
   }
 }

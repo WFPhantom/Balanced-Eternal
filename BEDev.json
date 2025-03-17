@@ -4,8 +4,8 @@
     "fileid": "5970934"
   },
   {
-    "filename": "accessories-neoforge-1.1.0-beta.29+1.21.1.jar",
-    "fileid": "6301715"
+    "filename": "accessories-neoforge-1.1.0-beta.31+1.21.1.jar",
+    "fileid": "6313314"
   },
   {
     "filename": "accessories_tclayer-3.10.0-beta.21+1.21.1.jar.disabled",
@@ -60,12 +60,16 @@
     "fileid": "6302725"
   },
   {
-    "filename": "ars_nouveau-1.21.1-5.6.0-all.jar",
-    "fileid": "6286951"
+    "filename": "ars_nouveau-1.21.1-5.7.0-all.jar",
+    "fileid": "6314274"
   },
   {
     "filename": "arsdelight-2.1.5.jar",
     "fileid": "6291461"
+  },
+  {
+    "filename": "arsnumerichud-1.0.1.jar",
+    "fileid": "6315218"
   },
   {
     "filename": "ars_technica-1.21.1-2.0.0-a4.jar",
@@ -204,6 +208,11 @@
     "filename": "chunksfadein-neoforge-2.0.3-1.21.jar",
     "mod-id": "JaNmzvA8",
     "version": "M5qDBlDo"
+  },
+  {
+    "filename": "cinderscapes-5.0.2.jar.disabled",
+    "mod-id": "QC4wcUXZ",
+    "version": "4kIdaOel"
   },
   {
     "filename": "clienttweaks-neoforge-1.21.1-21.1.4.jar",
@@ -451,8 +460,8 @@
     "fileid": "6291517"
   },
   {
-    "filename": "JadeAddons-1.21.1-NeoForge-6.0.1.jar",
-    "fileid": "5829251"
+    "filename": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+    "fileid": "6315149"
   },
   {
     "filename": "justenoughbreeding-neoforge-1.21-1.21.1-1.5.0.jar",
@@ -644,8 +653,8 @@
     "fileid": "6173038"
   },
   {
-    "filename": "SnowRealMagic-1.21.1-NeoForge-11.1.0.jar.disabled",
-    "fileid": "6269900"
+    "filename": "SnowRealMagic-1.21.1-NeoForge-11.1.1.jar",
+    "fileid": "6312238"
   },
   {
     "filename": "sodium-neoforge-0.6.9+mc1.21.1.jar",
@@ -711,6 +720,11 @@
   {
     "filename": "trashslot-neoforge-1.21.1-21.1.2.jar",
     "fileid": "6077668"
+  },
+  {
+    "filename": "traverse-8.0.1.jar",
+    "mod-id": "kXygSBVI",
+    "version": "lU1jMlpL"
   },
   {
     "filename": "UniLib-1.0.5+1.21.1-neoforge.jar",
@@ -788,8 +802,8 @@
     "fileid": "6224394"
   },
   {
-    "filename": "owo-lib-neoforge-0.12.15-beta.12+1.21.jar",
-    "fileid": "5945693"
+    "filename": "owo-lib-neoforge-0.12.15.1-beta.2+1.21.jar",
+    "fileid": "6314117"
   },
   {
     "filename": "spark-1.10.124-neoforge.jar",
