@@ -20,3 +20,10 @@
 	# Default: 16
 	# Range: 1 ~ 256
 	fluidMaxPlacementsPerFuse = 16
+
+#Adjust these variables for block settings
+[Blocks]
+	#Determines the multiplier used in the cost for generating rotation, defaults to 4.0
+	# Default: 4.0
+	# Range: 0.0 ~ 100.0
+	sourceMotorSpeedToSourceMultiplier = 4.0
