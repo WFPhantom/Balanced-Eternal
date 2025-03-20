@@ -27,3 +27,12 @@
 	# Default: 4.0
 	# Range: 0.0 ~ 100.0
 	sourceMotorSpeedToSourceMultiplier = 4.0
+
+#Entity tweakable (Wrench) cooldown settings for source relays and spell runes
+["Entity cooldown"]
+	# Default: 5
+	# Range: 0 ~ 40
+	runeMinCooldown = 5
+	# Default: 600
+	# Range: 40 ~ 6000
+	runeMaxCooldown = 600
