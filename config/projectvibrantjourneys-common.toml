@@ -10,7 +10,7 @@
 	# Range: 0.0 ~ 1.0
 	twigsWeight = 1.0
 	#Enable generation of fallen leaves
-	enableFallenLeaves = true
+	enableFallenLeaves = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	fallenLeavesWeight = 1.0
@@ -40,7 +40,7 @@
 	# Range: 0.0 ~ 1.0
 	seashellsWeight = 1.0
 	#Enable generation of fallen trees
-	enableFallenTrees = true
+	enableFallenTrees = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	fallenTreesWeight = 1.0
