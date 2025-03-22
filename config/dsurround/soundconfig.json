@@ -1,5 +1,17 @@
 [
   {
+    "block": true,
+    "soundEventId": "ambientsounds:animals.crow"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:crow"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:raptor"
+  },
+  {
     "startup": true,
     "soundEventId": "minecraft:ambient.underwater.exit"
   },

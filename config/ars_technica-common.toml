@@ -36,3 +36,9 @@
 	# Default: 600
 	# Range: 40 ~ 6000
 	runeMaxCooldown = 600
+	# Default: 5
+	# Range: 0 ~ 40
+	relayMinCooldown = 5
+	# Default: 600
+	# Range: 40 ~ 6000
+	relayMaxCooldown = 600
