@@ -56,8 +56,8 @@
     "fileid": "6330933"
   },
   {
-    "filename": "ars_nouveau-1.21.1-5.7.1-all.jar",
-    "fileid": "6316304"
+    "filename": "ars_nouveau-1.21.1-5.7.2-all.jar",
+    "fileid": "6333245"
   },
   {
     "filename": "arsdelight-2.1.5.jar",
@@ -68,8 +68,8 @@
     "fileid": "6315218"
   },
   {
-    "filename": "ars_technica-1.21.1-2.0.0-a7.jar",
-    "fileid": "6331321"
+    "filename": "ars_technica-1.21.1-2.0.0-b1.jar",
+    "fileid": "6335162"
   },
   {
     "filename": "athena-neoforge-1.21-4.0.1.jar",
@@ -512,10 +512,6 @@
     "fileid": "5635643"
   },
   {
-    "filename": "mcw-windows-2.3.0-mc1.21.1neoforge.jar",
-    "fileid": "5635576"
-  },
-  {
     "filename": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
     "fileid": "5824111"
   },
@@ -558,10 +554,6 @@
   {
     "filename": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
     "fileid": "5650508"
-  },
-  {
-    "filename": "not_enough_glyphs-1.21.1-4.0.6.jar",
-    "fileid": "6068790"
   },
   {
     "filename": "Not Enough Recipe Book-NEOFORGE-0.4.1.jar",
@@ -752,7 +744,7 @@
     "version": "DHYXuO0J"
   },
   {
-    "filename": "XaerosWorldMap_1.39.4_NeoForge_1.21.jar.disabled",
+    "filename": "XaerosWorldMap_1.39.4_NeoForge_1.21.jar",
     "mod-id": "NcUtCpym",
     "version": "JlPz5UbU"
   },

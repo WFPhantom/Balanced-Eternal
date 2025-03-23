@@ -1,17 +1,11 @@
 #Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
 [types]
 
-		[types.wood_type.ars_nouveau]
-			archwood = true
-
 		[types.wood_type.deeperdarker]
 			echo = true
 
-		[types.leaves_type.ars_nouveau]
-			blue_archwood = true
-			green_archwood = true
-			purple_archwood = true
-			red_archwood = true
+		[types.wood_type.ars_nouveau]
+			archwood = true
 
 		[types.leaves_type.chipped]
 			apple_acacia = true
@@ -92,6 +86,12 @@
 
 		[types.leaves_type.deeperdarker]
 			echo = true
+
+		[types.leaves_type.ars_nouveau]
+			blue_archwood = true
+			green_archwood = true
+			purple_archwood = true
+			red_archwood = true
 
 		[types.leaves_type.ars_elemental]
 			yellow_archwood = true
@@ -236,25 +236,6 @@
 			cupboard = true
 			pillar_trim = true
 			nightstand = true
-
-		[entries.wood_type.mcwwindows]
-			plank_four_window = true
-			window2 = true
-			stripped_log_window = true
-			plank_window2 = true
-			louvered_shutter = true
-			plank_pane_window = true
-			stripped_log_window2 = true
-			log_parapet = true
-			stripped_log_four_window = true
-			plank_window = true
-			pane_window = true
-			stripped_pane_window = true
-			four_window = true
-			plank_parapet = true
-			blinds = true
-			window = true
-			shutter = true
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true
