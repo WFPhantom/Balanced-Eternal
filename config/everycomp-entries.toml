@@ -75,15 +75,6 @@
 			golden_apple_oak = true
 			golden_apple_spruce = true
 
-		[types.leaves_type.mcwholidays]
-			yellow_oak = true
-			orange_oak = true
-			red_oak = true
-			brown_oak = true
-			mixed_oak = true
-			snowy_oak = true
-			snowy_spruce = true
-
 		[types.leaves_type.deeperdarker]
 			echo = true
 
