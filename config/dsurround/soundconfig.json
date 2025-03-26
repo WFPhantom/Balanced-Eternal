@@ -28,6 +28,10 @@
     "soundEventId": "minecraft:entity.chicken.egg"
   },
   {
+    "block": true,
+    "soundEventId": "minecraft:entity.cod.ambient"
+  },
+  {
     "cull": true,
     "soundEventId": "minecraft:entity.cow.ambient"
   },
@@ -49,8 +53,24 @@
     "soundEventId": "minecraft:entity.pig.ambient"
   },
   {
+    "block": true,
+    "soundEventId": "minecraft:entity.puffer_fish.ambient"
+  },
+  {
+    "block": true,
+    "soundEventId": "minecraft:entity.salmon.ambient"
+  },
+  {
     "cull": true,
     "soundEventId": "minecraft:entity.sheep.ambient"
+  },
+  {
+    "block": true,
+    "soundEventId": "minecraft:entity.snow_golem.ambient"
+  },
+  {
+    "block": true,
+    "soundEventId": "minecraft:entity.tropical_fish.ambient"
   },
   {
     "cull": true,

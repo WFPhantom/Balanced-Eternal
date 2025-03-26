@@ -8,8 +8,8 @@
     "fileid": "6329579"
   },
   {
-    "filename": "accessories_tclayer-3.10.0-beta.21+1.21.1.jar.disabled",
-    "fileid": "6262023"
+    "filename": "accessories_tclayer-3.10.0-beta.25+1.21.1.jar.disabled",
+    "fileid": "6333238"
   },
   {
     "filename": "AmbientSounds_NEOFORGE_v6.1.6_mc1.21.1.jar",
@@ -68,8 +68,8 @@
     "fileid": "6315218"
   },
   {
-    "filename": "ars_technica-1.21.1-2.0.0-b2.jar",
-    "fileid": "6337107"
+    "filename": "ars_technica-1.21.1-2.0.0.jar",
+    "fileid": "6347808"
   },
   {
     "filename": "athena-neoforge-1.21-4.0.1.jar",
@@ -105,17 +105,9 @@
     "fileid": "6306575"
   },
   {
-    "filename": "better-end-21.0.11.jar.disabled",
-    "fileid": "5680728"
-  },
-  {
-    "filename": "better-nether-21.0.11.jar.disabled",
-    "fileid": "5616564"
-  },
-  {
-    "filename": "betterstats-3.13.8+fabric-1.21.jar",
+    "filename": "betterstats-3.13.9+fabric-1.21.jar",
     "mod-id": "n6PXGAoM",
-    "version": "9jyK0AmF"
+    "version": "YDvjPyKn"
   },
   {
     "filename": "BetterThirdPerson-neoforge-1.9.0.jar",
@@ -299,8 +291,8 @@
     "fileid": "6172531"
   },
   {
-    "filename": "dynamic-fps-3.9.0+minecraft-1.21.0-neoforge.jar",
-    "fileid": "6250877"
+    "filename": "dynamic-fps-3.9.2+minecraft-1.21.0-neoforge.jar",
+    "fileid": "6347438"
   },
   {
     "filename": "dynamicsurroundings-neoforge-1.21.1-0.4.2.jar",
@@ -327,8 +319,8 @@
     "fileid": "5614609"
   },
   {
-    "filename": "enchdesc-neoforge-1.21.1-21.1.5.jar",
-    "fileid": "5824116"
+    "filename": "enchdesc-neoforge-1.21.1-21.1.7.jar",
+    "fileid": "6348560"
   },
   {
     "filename": "endrem-neoforge-1.21.X-6.0.2.jar",
@@ -420,8 +412,8 @@
     "fileid": "6304958"
   },
   {
-    "filename": "Geophilic v3.2 f15-61.jar",
-    "fileid": "6096722"
+    "filename": "Geophilic v3.3 f15-71.jar",
+    "fileid": "6347320"
   },
   {
     "filename": "handcrafted-neoforge-1.21.1-4.0.3.jar",
@@ -576,6 +568,10 @@
     "fileid": "6337156"
   },
   {
+    "filename": "plonk-1.21.1-10.0.6-neo.jar",
+    "fileid": "6343120"
+  },
+  {
     "filename": "plushies-neoforge-1.5.1.jar",
     "fileid": "5786351"
   },
@@ -601,8 +597,8 @@
     "version": "Ad77N3iX"
   },
   {
-    "filename": "resourcefullib-neoforge-1.21-3.0.11.jar",
-    "fileid": "5793500"
+    "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
+    "fileid": "5973188"
   },
   {
     "filename": "seamless-loading-screen-2.2.1+1.21-neoforge.jar",
@@ -633,8 +629,8 @@
     "fileid": "6173038"
   },
   {
-    "filename": "SnowRealMagic-1.21.1-NeoForge-11.2.0.jar.disabled",
-    "fileid": "6330143"
+    "filename": "SnowRealMagic-1.21.1-NeoForge-11.1.1.jar.disabled",
+    "fileid": "6312238"
   },
   {
     "filename": "sodium-neoforge-0.6.9+mc1.21.1.jar",
@@ -673,9 +669,9 @@
     "fileid": "6302697"
   },
   {
-    "filename": "tcdcommons-3.12.5+fabric-1.21.jar",
+    "filename": "tcdcommons-3.12.7+fabric-1.21.jar",
     "mod-id": "Eldc1g37",
-    "version": "u5IY2Agn"
+    "version": "RvXDhazY"
   },
   {
     "filename": "tectonic-neoforge-1.21.1-2.4.3.jar",
@@ -725,10 +721,6 @@
   {
     "filename": "wwoo-2.3.4.jar",
     "fileid": "5486498"
-  },
-  {
-    "filename": "worldweaver-21.0.13.jar.disabled",
-    "fileid": "5616543"
   },
   {
     "filename": "Xaeros_Minimap_25.2.0_NeoForge_1.21.jar",
