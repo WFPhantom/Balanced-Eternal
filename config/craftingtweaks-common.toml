@@ -11,6 +11,6 @@
 	hideVanillaCraftingGuide = false
 	#Set to 'DEFAULT' to enable both buttons and hotkeys. Set to 'BUTTONS' to enable buttons only. Set to 'HOTKEYS' to enable hotkeys only. Set to 'DISABLED' to disable completely.
 	#Allowed Values: DEFAULT, BUTTONS, HOTKEYS, DISABLED
-	mode = "DEFAULT"
+	mode = "BUTTONS"
 	#Add mod ids here of mods that you wish to disable Crafting Tweaks support for.
 	disabledAddons = []

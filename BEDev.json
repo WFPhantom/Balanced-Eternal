@@ -4,8 +4,8 @@
     "fileid": "5970934"
   },
   {
-    "filename": "accessories-neoforge-1.1.0-beta.34+1.21.1.jar",
-    "fileid": "6329579"
+    "filename": "accessories-neoforge-1.1.0-beta.35+1.21.1.jar",
+    "fileid": "6353741"
   },
   {
     "filename": "accessories_tclayer-3.10.0-beta.25+1.21.1.jar.disabled",
@@ -68,8 +68,8 @@
     "fileid": "6315218"
   },
   {
-    "filename": "ars_technica-1.21.1-2.0.0.jar",
-    "fileid": "6347808"
+    "filename": "ars_technica-1.21.1-2.0.1.jar",
+    "fileid": "6352030"
   },
   {
     "filename": "athena-neoforge-1.21-4.0.1.jar",
@@ -88,8 +88,8 @@
     "fileid": "6172735"
   },
   {
-    "filename": "balm-neoforge-1.21.1-21.0.36.jar",
-    "fileid": "6338302"
+    "filename": "balm-neoforge-1.21.1-21.0.37.jar",
+    "fileid": "6355145"
   },
   {
     "filename": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
@@ -114,8 +114,8 @@
     "fileid": "5833474"
   },
   {
-    "filename": "BetterGrassify-1.5.2+neoforge.1.21.1.jar",
-    "fileid": "6322515"
+    "filename": "BetterGrassify-1.6.0+neoforge.1.21.1.jar",
+    "fileid": "6351921"
   },
   {
     "filename": "biomereplacer-2.0-hippo-neo.jar",
@@ -188,18 +188,9 @@
     "fileid": "5632200"
   },
   {
-    "filename": "chunksfadein-neoforge-2.0.3-1.21.jar",
-    "mod-id": "JaNmzvA8",
-    "version": "M5qDBlDo"
-  },
-  {
     "filename": "cinderscapes-5.0.2.jar.disabled",
     "mod-id": "QC4wcUXZ",
     "version": "4kIdaOel"
-  },
-  {
-    "filename": "clienttweaks-neoforge-1.21.1-21.1.4.jar",
-    "fileid": "6224946"
   },
   {
     "filename": "cloth-config-15.0.140-neoforge.jar",
@@ -238,8 +229,8 @@
     "fileid": "6121250"
   },
   {
-    "filename": "CraftPresence-2.5.3+1.21.1-neoforge.jar",
-    "fileid": "6088612"
+    "filename": "CraftPresence-2.5.4+1.21.1-neoforge.jar",
+    "fileid": "6354253"
   },
   {
     "filename": "craftingtweaks-neoforge-1.21.1-21.1.5.jar",
@@ -335,8 +326,8 @@
     "fileid": "5982151"
   },
   {
-    "filename": "entityculling-neoforge-1.7.3-mc1.21.jar",
-    "fileid": "6236200"
+    "filename": "entityculling-neoforge-1.7.4-mc1.21.jar",
+    "fileid": "6355874"
   },
   {
     "filename": "EquipmentCompare-1.21-neoforge-1.3.12.jar",
@@ -440,10 +431,6 @@
     "fileid": "5962249"
   },
   {
-    "filename": "inventoryessentials-neoforge-1.21.1-21.1.2.jar",
-    "fileid": "6179258"
-  },
-  {
     "filename": "iris-neoforge-1.8.8+mc1.21.1.jar",
     "fileid": "6213632"
   },
@@ -496,8 +483,8 @@
     "fileid": "6201869"
   },
   {
-    "filename": "lootr-neoforge-1.21-1.10.35.90.jar",
-    "fileid": "6294335"
+    "filename": "lootr-neoforge-1.21-1.10.35.91.jar",
+    "fileid": "6354238"
   },
   {
     "filename": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
@@ -528,7 +515,7 @@
     "fileid": "5637846"
   },
   {
-    "filename": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
+    "filename": "netherportalfix-neoforge-1.21.1-21.1.1.jar.disabled",
     "fileid": "5623547"
   },
   {
@@ -554,6 +541,10 @@
   {
     "filename": "OctoLib-NEOFORGE-0.5.0.1.jar",
     "fileid": "6011408"
+  },
+  {
+    "filename": "open-parties-and-claims-neoforge-1.21.1-0.24.0.jar",
+    "fileid": "6242909"
   },
   {
     "filename": "overloadedarmorbar-neoforge-1.21-2.jar",
@@ -629,8 +620,8 @@
     "fileid": "6173038"
   },
   {
-    "filename": "SnowRealMagic-1.21.1-NeoForge-11.1.1.jar.disabled",
-    "fileid": "6312238"
+    "filename": "SnowRealMagic-1.21.1-NeoForge-12.0.1.jar",
+    "fileid": "6354969"
   },
   {
     "filename": "sodium-neoforge-0.6.9+mc1.21.1.jar",
@@ -657,12 +648,12 @@
     "fileid": "6303380"
   },
   {
-    "filename": "sophisticatedcore-1.21.1-1.3.3.903.jar",
-    "fileid": "6317050"
+    "filename": "sophisticatedcore-1.21.1-1.3.4.904.jar",
+    "fileid": "6354738"
   },
   {
-    "filename": "sound-physics-remastered-neoforge-1.21.1-1.4.8.jar",
-    "fileid": "5991573"
+    "filename": "sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",
+    "fileid": "6352946"
   },
   {
     "filename": "starbunclemania-1.21.1-1.3.3.0.jar",
@@ -696,10 +687,6 @@
   {
     "filename": "TradingPost-v21.1.0-1.21.1-NeoForge.jar",
     "fileid": "5733847"
-  },
-  {
-    "filename": "trashslot-neoforge-1.21.1-21.1.4.jar",
-    "fileid": "6319145"
   },
   {
     "filename": "UniLib-1.0.5+1.21.1-neoforge.jar",

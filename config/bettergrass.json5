@@ -27,7 +27,7 @@
 		"minecraft:sculk_catalyst"
 	],
 	/* -> Better Snow
-	   OFF/OPTIFINE/LAMBDA (default: OPTIFINE)
+	   OFF/OPTIFINE/LAMBDA (default: LAMBDA)
 	*/
 	"betterSnowMode": "LAMBDA",
 	"snowLayers": [
