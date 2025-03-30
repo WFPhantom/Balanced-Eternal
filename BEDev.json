@@ -84,17 +84,17 @@
     "fileid": "6172735"
   },
   {
-    "filename": "balm-neoforge-1.21.1-21.0.37.jar",
-    "fileid": "6355145"
+    "filename": "balm-neoforge-1.21.1-21.0.38.jar",
+    "fileid": "6362518"
   },
   {
     "filename": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
     "fileid": "5850587"
   },
   {
-    "filename": "betterbiomereblend-1.5.1.jar",
+    "filename": "betterbiomereblend-1.5.2.jar",
     "mod-id": "Xh8hkQmD",
-    "version": "vRg6Xr6A"
+    "version": "W5KITjTe"
   },
   {
     "filename": "bcc-21.1.3+mc1.21.1.jar",
@@ -116,10 +116,6 @@
   {
     "filename": "biomereplacer-2.0-hippo-neo.jar",
     "fileid": "6317243"
-  },
-  {
-    "filename": "BoatBreakFix-Universal-1.0.2.jar.disabled",
-    "fileid": "4791722"
   },
   {
     "filename": "bobby-5.2.4+mc1.21.jar",
@@ -277,8 +273,8 @@
     "fileid": "6063191"
   },
   {
-    "filename": "emi-1.1.20+1.21.1+neoforge.jar",
-    "fileid": "6205506"
+    "filename": "emi-1.1.21+1.21.1+neoforge.jar",
+    "fileid": "6361997"
   },
   {
     "filename": "EMIProfessions-neoforge-1.21.1-1.0.3.jar",
@@ -390,8 +386,8 @@
     "fileid": "6304958"
   },
   {
-    "filename": "Geophilic v3.3 f15-71.jar",
-    "fileid": "6347320"
+    "filename": "Geophilic Snap 3.4-b f15-71.jar",
+    "fileid": "6363714"
   },
   {
     "filename": "handcrafted-neoforge-1.21.1-4.0.3.jar",
@@ -402,16 +398,12 @@
     "fileid": "6118329"
   },
   {
-    "filename": "ImmediatelyFast-NeoForge-1.6.2+1.21.1.jar",
-    "fileid": "6312324"
+    "filename": "ImmediatelyFast-NeoForge-1.6.3+1.21.1.jar",
+    "fileid": "6366661"
   },
   {
     "filename": "immersive_portals-6.0.6.jar.disabled",
     "fileid": "6013197"
-  },
-  {
-    "filename": "incontrol-1.21-10.0.5.jar",
-    "fileid": "5932871"
   },
   {
     "filename": "Incendium_1.21.x_v5.4.4.jar",
@@ -438,8 +430,8 @@
     "fileid": "6320523"
   },
   {
-    "filename": "Kiwi-1.21.1-NeoForge-15.4.2.jar",
-    "fileid": "6312085"
+    "filename": "Kiwi-1.21.1-NeoForge-15.5.0.jar",
+    "fileid": "6367362"
   },
   {
     "filename": "kleeslabs-neoforge-1.21.1-21.1.3.jar",
@@ -591,10 +583,6 @@
     "fileid": "6237027"
   },
   {
-    "filename": "sit-1.21-1.3.5.jar",
-    "fileid": "5427947"
-  },
-  {
     "filename": "smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
     "fileid": "5937999"
   },
@@ -603,8 +591,8 @@
     "fileid": "6173038"
   },
   {
-    "filename": "SnowRealMagic-1.21.1-NeoForge-12.0.1.jar",
-    "fileid": "6354969"
+    "filename": "SnowRealMagic-1.21.1-NeoForge-12.0.2.jar",
+    "fileid": "6363563"
   },
   {
     "filename": "sodium-neoforge-0.6.9+mc1.21.1.jar",
@@ -631,8 +619,8 @@
     "fileid": "6303380"
   },
   {
-    "filename": "sophisticatedcore-1.21.1-1.3.6.906.jar",
-    "fileid": "6357548"
+    "filename": "sophisticatedcore-1.21.1-1.3.7.910.jar",
+    "fileid": "6364504"
   },
   {
     "filename": "sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",

@@ -11,6 +11,7 @@ snowReduceFallDamage: true
 sustainGrassIfLayerMoreThanOne: true
 sneakSnowball: true
 fancySnowOnUpperSlab: true
+rightClickToggleFancySnow: true
 mobSpawningMaxLayers: 8
 snow-cover:
   restoreOriginalBlocks: false

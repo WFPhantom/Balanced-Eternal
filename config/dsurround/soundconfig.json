@@ -1,6 +1,10 @@
 [
   {
     "block": true,
+    "soundEventId": "ambientsounds:animals.bird-ambience-spooky"
+  },
+  {
+    "block": true,
     "soundEventId": "ambientsounds:animals.crow"
   },
   {
@@ -12,8 +16,8 @@
     "soundEventId": "dsurround:raptor"
   },
   {
-    "startup": true,
-    "soundEventId": "minecraft:ambient.underwater.exit"
+    "block": true,
+    "soundEventId": "minecraft:ambient.cave"
   },
   {
     "block": true,
@@ -22,10 +26,6 @@
   {
     "cull": true,
     "soundEventId": "minecraft:entity.chicken.ambient"
-  },
-  {
-    "startup": true,
-    "soundEventId": "minecraft:entity.chicken.egg"
   },
   {
     "block": true,
@@ -39,10 +39,6 @@
     "cull": true,
     "soundEventId": "minecraft:entity.ender_dragon.death",
     "volumeScale": 10
-  },
-  {
-    "startup": true,
-    "soundEventId": "minecraft:entity.experience_orb.pickup"
   },
   {
     "cull": true,
