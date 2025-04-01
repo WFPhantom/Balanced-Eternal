@@ -3,17 +3,17 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1740443255110
+  last_edited_time = 1743500078476
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:4220968b-ae7e-4374-9350-adf3aef8e95c-1740443204530] = [groups:][instances:]
+  [loading_requirement_container_meta:633b1514-1a1e-412e-85f8-927ab4fa01fb-1743500048585] = [groups:][instances:]
 }
 
 menu_background {
-  color = #313338
+  color = #000000
   background_type = drippy_color_background
 }
 
