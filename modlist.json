@@ -204,8 +204,8 @@
     "fileid": "5981335"
   },
   {
-    "filename": "Controlling-neoforge-1.21.1-19.0.4.jar",
-    "fileid": "6085646"
+    "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
+    "fileid": "6368976"
   },
   {
     "filename": "coroutil-neoforge-1.21.0-1.3.8.jar",
@@ -374,8 +374,8 @@
     "fileid": "5424859"
   },
   {
-    "filename": "forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar",
-    "fileid": "6289153"
+    "filename": "forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar",
+    "fileid": "6370322"
   },
   {
     "filename": "FramedBlocks-10.3.1.jar",
@@ -398,8 +398,8 @@
     "fileid": "6118329"
   },
   {
-    "filename": "ImmediatelyFast-NeoForge-1.6.3+1.21.1.jar",
-    "fileid": "6366661"
+    "filename": "ImmediatelyFast-NeoForge-1.6.4+1.21.1.jar",
+    "fileid": "6368702"
   },
   {
     "filename": "immersive_portals-6.0.6.jar.disabled",
@@ -474,8 +474,8 @@
     "fileid": "6125147"
   },
   {
-    "filename": "moonlight-1.21-2.17.37-neoforge.jar",
-    "fileid": "6324921"
+    "filename": "moonlight-1.21-2.18.2-neoforge.jar",
+    "fileid": "6372808"
   },
   {
     "filename": "More Crafting Tables-neoforge-1.21-7.0.2.jar",
@@ -558,11 +558,6 @@
     "fileid": "6091021"
   },
   {
-    "filename": "remove-terralith-intro-message-1.1.jar",
-    "mod-id": "sk4iFZGy",
-    "version": "Ad77N3iX"
-  },
-  {
     "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
     "fileid": "5973188"
   },
@@ -619,8 +614,8 @@
     "fileid": "6303380"
   },
   {
-    "filename": "sophisticatedcore-1.21.1-1.3.7.910.jar",
-    "fileid": "6364504"
+    "filename": "sophisticatedcore-1.21.1-1.3.9.913.jar",
+    "fileid": "6370541"
   },
   {
     "filename": "sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",
@@ -638,14 +633,6 @@
   {
     "filename": "tectonic-neoforge-1.21.1-2.4.3.jar",
     "fileid": "6201964"
-  },
-  {
-    "filename": "Terralith_1.21.x_v2.5.8.jar",
-    "fileid": "6090387"
-  },
-  {
-    "filename": "Terraphilic v1.2.0.jar",
-    "fileid": "6158601"
   },
   {
     "filename": "ToastControl-1.21-9.0.0.jar",
