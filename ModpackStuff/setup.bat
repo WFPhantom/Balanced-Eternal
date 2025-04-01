@@ -1,7 +1,7 @@
 @echo off
 
 cd ..
-set MODLIST=BEDev.json
+set MODLIST=modlist.json
 
 type NUL > .git/hooks/post-merge
 echo #!/bin/sh > .git/hooks/post-merge
