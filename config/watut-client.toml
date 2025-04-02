@@ -62,3 +62,5 @@
 	dontSendDetailedGUIInfo = false
 	#Privacy setting, if you dont want to show the items you are transferring to and from yourself and containers, set this to true
 	dontSendItemInfo = false
+	#Set to false if you dont want watut to sho your own dynamic guis in 3rd person
+	showGuisForYourOwnPlayerIn3rdPerson = true
