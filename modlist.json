@@ -48,12 +48,12 @@
     "fileid": "6279953"
   },
   {
-    "filename": "ars_elemental-1.21.1-0.7.2.7.jar",
-    "fileid": "6330933"
+    "filename": "ars_elemental-1.21.1-0.7.2.8.jar",
+    "fileid": "6381044"
   },
   {
-    "filename": "ars_nouveau-1.21.1-5.7.2-all.jar",
-    "fileid": "6333245"
+    "filename": "ars_nouveau-1.21.1-5.8.0-all.jar",
+    "fileid": "6379806"
   },
   {
     "filename": "arsdelight-2.1.5.jar",
@@ -232,6 +232,10 @@
     "fileid": "5692888"
   },
   {
+    "filename": "cwb-neoforge-3.0.0+mc1.21.jar",
+    "fileid": "5855532"
+  },
+  {
     "filename": "accessories_cclayer-9.3.1-beta.26+1.21.1-neoforge.jar",
     "fileid": "6327614"
   },
@@ -317,8 +321,8 @@
     "fileid": "6375501"
   },
   {
-    "filename": "everycomp-1.21-2.9.6-neoforge.jar",
-    "fileid": "6324587"
+    "filename": "everycomp-1.21-2.9.7-neoforge.jar",
+    "fileid": "6381889"
   },
   {
     "filename": "expanded_ecosphere-neoforge-3.4.1.1.jar.disabled",
@@ -386,20 +390,20 @@
     "fileid": "6304958"
   },
   {
-    "filename": "Geophilic Snap 3.4-b f15-71.jar",
-    "fileid": "6363714"
+    "filename": "Geophilic Snap 3.4-c f15-71.mod.jar",
+    "fileid": "6377889"
   },
   {
     "filename": "handcrafted-neoforge-1.21.1-4.0.3.jar",
     "fileid": "6330030"
   },
   {
-    "filename": "Iceberg-1.21.1-neoforge-1.3.0.jar",
-    "fileid": "6375480"
+    "filename": "Iceberg-1.21.1-neoforge-1.3.1.jar",
+    "fileid": "6379432"
   },
   {
-    "filename": "ImmediatelyFast-NeoForge-1.6.4+1.21.1.jar",
-    "fileid": "6368702"
+    "filename": "ImmediatelyFast-NeoForge-1.6.5+1.21.1.jar",
+    "fileid": "6376910"
   },
   {
     "filename": "immersive_portals-6.0.6.jar.disabled",
@@ -446,6 +450,10 @@
     "fileid": "5978393"
   },
   {
+    "filename": "language-reload-1.7.3+1.21.1.jar",
+    "fileid": "6348638"
+  },
+  {
     "filename": "lithium-neoforge-0.15.0+mc1.21.1.jar",
     "fileid": "6290413"
   },
@@ -474,8 +482,8 @@
     "fileid": "6125147"
   },
   {
-    "filename": "moonlight-1.21-2.18.2-neoforge.jar",
-    "fileid": "6372808"
+    "filename": "moonlight-1.21-2.18.4-neoforge.jar",
+    "fileid": "6380678"
   },
   {
     "filename": "More Crafting Tables-neoforge-1.21-7.0.2.jar",
@@ -494,10 +502,6 @@
     "fileid": "5885735"
   },
   {
-    "filename": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar.disabled",
-    "fileid": "5650508"
-  },
-  {
     "filename": "Not Enough Recipe Book-NEOFORGE-0.4.1.jar",
     "fileid": "5632777"
   },
@@ -514,8 +518,8 @@
     "fileid": "6011408"
   },
   {
-    "filename": "ok_zoomer-neo-10.0.0-beta.8.jar",
-    "fileid": "5993094"
+    "filename": "ok_zoomer-neo-10.0.0-beta.9.jar",
+    "fileid": "6381142"
   },
   {
     "filename": "open-parties-and-claims-neoforge-1.21.1-0.24.0.jar",
@@ -554,10 +558,6 @@
     "fileid": "6102752"
   },
   {
-    "filename": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
-    "fileid": "6091021"
-  },
-  {
     "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
     "fileid": "5973188"
   },
@@ -582,48 +582,36 @@
     "fileid": "5937999"
   },
   {
-    "filename": "snowundertrees-1.21.1-1.4.9.jar",
-    "fileid": "6173038"
+    "filename": "snowundertrees-1.21.1-1.4.10.jar",
+    "fileid": "6378651"
   },
   {
     "filename": "SnowRealMagic-1.21.1-NeoForge-12.0.4.jar",
     "fileid": "6374202"
   },
   {
-    "filename": "sodium-neoforge-0.6.9+mc1.21.1.jar",
-    "fileid": "6211307"
-  },
-  {
-    "filename": "sodiumextras-neoforge-1.0.7-1.21.1.jar",
-    "fileid": "6041699"
-  },
-  {
-    "filename": "sodiumleafculling-neoforge-1.0.0-1.21.1.jar",
-    "fileid": "5656469"
-  },
-  {
-    "filename": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-    "fileid": "6100815"
+    "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+    "fileid": "6382651"
   },
   {
     "filename": "sodium-shadowy-path-blocks-neoforge-4.0.0.jar",
     "fileid": "5964065"
   },
   {
-    "filename": "sophisticatedbackpacks-1.21.1-3.24.1.1212.jar",
-    "fileid": "6303380"
+    "filename": "sophisticatedbackpacks-1.21.1-3.24.3.1216.jar",
+    "fileid": "6377608"
   },
   {
-    "filename": "sophisticatedcore-1.21.1-1.3.13.922.jar",
-    "fileid": "6375811"
+    "filename": "sophisticatedcore-1.21.1-1.3.17.931.jar",
+    "fileid": "6382199"
   },
   {
     "filename": "sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",
     "fileid": "6352946"
   },
   {
-    "filename": "starbunclemania-1.21.1-1.3.3.0.jar",
-    "fileid": "6302697"
+    "filename": "starbunclemania-1.21.1-1.3.3.1.jar",
+    "fileid": "6381049"
   },
   {
     "filename": "tcdcommons-3.12.7+fabric-1.21.jar",

@@ -3,6 +3,7 @@
 
 		[types.wood_type.deeperdarker]
 			echo = true
+			bloom = true
 
 		[types.wood_type.ars_nouveau]
 			archwood = true

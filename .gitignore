@@ -49,6 +49,7 @@ config/xaeropatreon.txt
 options.txt
 !/config/drippyloadingscreen/options.txt
 !/config/fancymenu/options.txt
+command_history.txt
 
 # Prism stuff
 icon.png
