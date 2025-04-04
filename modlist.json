@@ -1,720 +1,897 @@
 [
   {
     "filename": "skinlayers3d-neoforge-1.7.5-mc1.21.jar",
-    "fileid": "6356182"
+    "fileid": "6356182",
+    "side": "both"
   },
   {
     "filename": "accessories-neoforge-1.1.0-beta.35+1.21.1.jar",
-    "fileid": "6353741"
+    "fileid": "6353741",
+    "side": "both"
   },
   {
     "filename": "AmbientSounds_NEOFORGE_v6.1.7_mc1.21.1.jar",
-    "fileid": "6374691"
+    "fileid": "6374691",
+    "side": "client"
   },
   {
     "filename": "amendments-1.21-1.2.24-neoforge.jar",
-    "fileid": "6332372"
+    "fileid": "6332372",
+    "side": "both"
   },
   {
     "filename": "another_furniture-neoforge-4.0.0.jar",
-    "fileid": "5850327"
+    "fileid": "5850327",
+    "side": "both"
   },
   {
     "filename": "Apotheosis-1.21.1-8.2.1.jar",
-    "fileid": "6302343"
+    "fileid": "6302343",
+    "side": "both"
   },
   {
     "filename": "ApothicAttributes-1.21.1-2.7.0.jar",
-    "fileid": "6302334"
+    "fileid": "6302334",
+    "side": "both"
   },
   {
     "filename": "ApothicEnchanting-1.21.1-1.3.2.jar",
-    "fileid": "6084297"
+    "fileid": "6084297",
+    "side": "both"
   },
   {
     "filename": "ApothicSpawners-1.21.1-1.2.1.jar",
-    "fileid": "6148923"
+    "fileid": "6148923",
+    "side": "both"
   },
   {
     "filename": "appleskin-neoforge-mc1.21-3.0.5.jar",
-    "fileid": "5586600"
+    "fileid": "5586600",
+    "side": "both"
   },
   {
     "filename": "architectury-13.0.8-neoforge.jar",
-    "fileid": "5786327"
+    "fileid": "5786327",
+    "side": "both"
   },
   {
     "filename": "ars_creo-1.21.1-5.1.0.jar",
-    "fileid": "6279953"
+    "fileid": "6279953",
+    "side": "both"
   },
   {
     "filename": "ars_elemental-1.21.1-0.7.2.8.jar",
-    "fileid": "6381044"
+    "fileid": "6381044",
+    "side": "both"
   },
   {
     "filename": "ars_nouveau-1.21.1-5.8.0-all.jar",
-    "fileid": "6379806"
+    "fileid": "6379806",
+    "side": "both"
   },
   {
     "filename": "arsdelight-2.1.5.jar",
-    "fileid": "6291461"
+    "fileid": "6291461",
+    "side": "both"
   },
   {
     "filename": "arsnumerichud-1.0.1.jar",
-    "fileid": "6315218"
+    "fileid": "6315218",
+    "side": "client"
   },
   {
     "filename": "ars_technica-1.21.1-2.0.1.jar",
-    "fileid": "6352030"
+    "fileid": "6352030",
+    "side": "both"
   },
   {
     "filename": "athena-neoforge-1.21-4.0.1.jar",
-    "fileid": "5629395"
+    "fileid": "5629395",
+    "side": "both"
   },
   {
     "filename": "attributefix-neoforge-1.21.1-21.1.2.jar",
-    "fileid": "5824104"
+    "fileid": "5824104",
+    "side": "both"
   },
   {
     "filename": "AutochefsDelight-1.21.1-NeoForge-2.0.2.jar",
-    "fileid": "6158604"
+    "fileid": "6158604",
+    "side": "both"
   },
   {
     "filename": "bwncr-neoforge-1.21.1-3.20.3.jar",
-    "fileid": "6172735"
+    "fileid": "6172735",
+    "side": "client"
   },
   {
     "filename": "balm-neoforge-1.21.1-21.0.38.jar",
-    "fileid": "6362518"
+    "fileid": "6362518",
+    "side": "both"
   },
   {
     "filename": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
-    "fileid": "5850587"
+    "fileid": "5850587",
+    "side": "both"
   },
   {
     "filename": "betterbiomereblend-1.5.2.jar",
     "mod-id": "Xh8hkQmD",
-    "version": "W5KITjTe"
+    "version": "W5KITjTe",
+    "side": "both"
   },
   {
     "filename": "bcc-21.1.3+mc1.21.1.jar",
-    "fileid": "6306575"
+    "fileid": "6306575",
+    "side": "both"
   },
   {
     "filename": "betterstats-3.13.9+fabric-1.21.jar",
     "mod-id": "n6PXGAoM",
-    "version": "YDvjPyKn"
+    "version": "YDvjPyKn",
+    "side": "both"
   },
   {
     "filename": "BetterThirdPerson-neoforge-1.9.0.jar",
-    "fileid": "5833474"
+    "fileid": "5833474",
+    "side": "client"
   },
   {
     "filename": "BetterGrassify-1.6.0+neoforge.1.21.1.jar",
-    "fileid": "6351921"
+    "fileid": "6351921",
+    "side": "both"
   },
   {
     "filename": "biomereplacer-2.0-hippo-neo.jar",
-    "fileid": "6317243"
+    "fileid": "6317243",
+    "side": "both"
   },
   {
     "filename": "bobby-5.2.4+mc1.21.jar",
     "mod-id": "M08ruV16",
-    "version": "oeSOphtG"
+    "version": "oeSOphtG",
+    "side": "client"
   },
   {
     "filename": "bookshelf-neoforge-1.21.1-21.1.51.jar",
-    "fileid": "6376353"
+    "fileid": "6376353",
+    "side": "both"
   },
   {
     "filename": "cc-tweaked-1.21.1-forge-1.115.1.jar",
     "mod-id": "gu7yAYhd",
-    "version": "h6qYZ1UT"
+    "version": "h6qYZ1UT",
+    "side": "both"
   },
   {
     "filename": "caelus-neoforge-7.0.1+1.21.1.jar",
-    "fileid": "5694215"
+    "fileid": "5694215",
+    "side": "both"
   },
   {
     "filename": "cakechomps-neoforge-10.0.1+1.21.1.jar",
-    "fileid": "5846507"
+    "fileid": "5846507",
+    "side": "both"
   },
   {
     "filename": "cant_sleep_clowns_will_eat_me-1.21-2.0.0.0.jar",
-    "fileid": "5530236"
+    "fileid": "5530236",
+    "side": "server"
   },
   {
     "filename": "CarbonConfig-Neoforge-1.21-1.2.9.3.jar",
-    "fileid": "6276195"
+    "fileid": "6276195",
+    "side": "both"
   },
   {
     "filename": "carryon-neoforge-1.21.1-2.2.2.11.jar",
-    "fileid": "5649344"
+    "fileid": "5649344",
+    "side": "both"
   },
   {
     "filename": "catjammies-1.21-1.7.1.jar",
-    "fileid": "5806687"
+    "fileid": "5806687",
+    "side": "client"
   },
   {
     "filename": "catalogue-neoforge-1.21.1-1.11.0.jar",
-    "fileid": "5893750"
+    "fileid": "5893750",
+    "side": "both"
   },
   {
     "filename": "charmofundying-neoforge-9.1.0+1.21.1.jar",
-    "fileid": "5846603"
+    "fileid": "5846603",
+    "side": "both"
   },
   {
     "filename": "chat_heads-0.13.13-neoforge-1.21.jar",
-    "fileid": "6171103"
+    "fileid": "6171103",
+    "side": "both"
   },
   {
     "filename": "chipped-neoforge-1.21.1-4.0.2.jar",
-    "fileid": "5813117"
+    "fileid": "5813117",
+    "side": "both"
   },
   {
     "filename": "[neoforge]ctov-3.5.6.jar",
-    "fileid": "6250703"
+    "fileid": "6250703",
+    "side": "both"
   },
   {
     "filename": "Chunk-Pregenerator-Neoforge-1.21-4.4.5.jar",
-    "fileid": "5632200"
+    "fileid": "5632200",
+    "side": "both"
   },
   {
     "filename": "cloth-config-15.0.140-neoforge.jar",
-    "fileid": "5729127"
+    "fileid": "5729127",
+    "side": "both"
   },
   {
     "filename": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
-    "fileid": "5623731"
+    "fileid": "5623731",
+    "side": "both"
   },
   {
     "filename": "colorfulhearts-neoforge-1.21.1-10.3.8.jar",
-    "fileid": "5746319"
+    "fileid": "5746319",
+    "side": "client"
   },
   {
     "filename": "comforts-neoforge-9.0.3+1.21.1.jar",
-    "fileid": "5821146"
+    "fileid": "5821146",
+    "side": "both"
   },
   {
     "filename": "configured-neoforge-1.21.1-2.6.0.jar",
-    "fileid": "5873783"
+    "fileid": "5873783",
+    "side": "both"
   },
   {
     "filename": "continuity-3.0.0+1.21.neoforge.jar",
-    "fileid": "5981335"
+    "fileid": "5981335",
+    "side": "client"
   },
   {
     "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
-    "fileid": "6368976"
+    "fileid": "6368976",
+    "side": "both"
   },
   {
     "filename": "coroutil-neoforge-1.21.0-1.3.8.jar",
-    "fileid": "5622966"
+    "fileid": "5622966",
+    "side": "both"
   },
   {
     "filename": "corpse-neoforge-1.21.1-1.1.5.jar",
-    "fileid": "6121250"
+    "fileid": "6121250",
+    "side": "both"
   },
   {
     "filename": "CraftPresence-2.5.4+1.21.1-neoforge.jar",
-    "fileid": "6354253"
+    "fileid": "6354253",
+    "side": "client"
   },
   {
     "filename": "create-1.21.1-6.0.4.jar",
-    "fileid": "6323264"
+    "fileid": "6323264",
+    "side": "both"
   },
   {
     "filename": "CreativeCore_NEOFORGE_v2.13.0_mc1.21.1.jar",
-    "fileid": "6374688"
+    "fileid": "6374688",
+    "side": "both"
   },
   {
     "filename": "cristellib-neoforge-1.2.8.jar.disabled",
-    "fileid": "5692888"
+    "fileid": "5692888",
+    "side": "both"
   },
   {
     "filename": "cwb-neoforge-3.0.0+mc1.21.jar",
-    "fileid": "5855532"
+    "fileid": "5855532",
+    "side": "both"
   },
   {
     "filename": "accessories_cclayer-9.3.1-beta.26+1.21.1-neoforge.jar",
-    "fileid": "6327614"
+    "fileid": "6327614",
+    "side": "both"
   },
   {
     "filename": "deeperdarker-neoforge-1.21-1.3.4.jar",
-    "fileid": "5908863"
+    "fileid": "5908863",
+    "side": "both"
   },
   {
     "filename": "DiagonalFences-v21.1.1-1.21.1-NeoForge.jar",
-    "fileid": "5918197"
+    "fileid": "5918197",
+    "side": "both"
   },
   {
     "filename": "DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar",
-    "fileid": "5918894"
+    "fileid": "5918894",
+    "side": "both"
   },
   {
     "filename": "DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar",
-    "fileid": "5918192"
+    "fileid": "5918192",
+    "side": "both"
   },
   {
     "filename": "DisableAccessibilityScreen-1.0.1.jar",
     "mod-id": "DohVVqgL",
-    "version": "OFLKtuug"
+    "version": "OFLKtuug",
+    "side": "client"
   },
   {
     "filename": "do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
-    "fileid": "6189476"
+    "fileid": "6189476",
+    "side": "both"
   },
   {
     "filename": "drippyloadingscreen_neoforge_3.0.11_MC_1.21.1.jar",
-    "fileid": "6172531"
+    "fileid": "6172531",
+    "side": "both"
   },
   {
     "filename": "dynamic-fps-3.9.2+minecraft-1.21.0-neoforge.jar",
-    "fileid": "6347438"
+    "fileid": "6347438",
+    "side": "client"
   },
   {
     "filename": "dynamicsurroundings-neoforge-1.21.1-0.4.2.jar",
-    "fileid": "6063191"
+    "fileid": "6063191",
+    "side": "client"
   },
   {
     "filename": "emi-1.1.21+1.21.1+neoforge.jar",
-    "fileid": "6361997"
+    "fileid": "6361997",
+    "side": "both"
   },
   {
     "filename": "EMIProfessions-neoforge-1.21.1-1.0.3.jar",
-    "fileid": "6231426"
+    "fileid": "6231426",
+    "side": "both"
   },
   {
     "filename": "elytraslot-neoforge-9.0.2+1.21.1.jar",
-    "fileid": "5778461"
+    "fileid": "5778461",
+    "side": "both"
   },
   {
     "filename": "elytratrims-neoforge-3.5.8+1.21.jar",
-    "fileid": "6196569"
+    "fileid": "6196569",
+    "side": "both"
   },
   {
     "filename": "Emojiful-Neoforge-1.21-5.1.5-all.jar",
-    "fileid": "5614609"
+    "fileid": "5614609",
+    "side": "both"
   },
   {
     "filename": "enchdesc-neoforge-1.21.1-21.1.7.jar",
-    "fileid": "6348560"
+    "fileid": "6348560",
+    "side": "client"
   },
   {
     "filename": "endrem-neoforge-1.21.X-6.0.2.jar",
-    "fileid": "5625392"
+    "fileid": "5625392",
+    "side": "both"
   },
   {
     "filename": "entity_model_features_neoforge_1.21.1-2.4.1.jar",
-    "fileid": "6001147"
+    "fileid": "6001147",
+    "side": "client"
   },
   {
     "filename": "entity_texture_features_neoforge_1.21.1-6.2.9.jar",
-    "fileid": "5982151"
+    "fileid": "5982151",
+    "side": "client"
   },
   {
     "filename": "entityculling-neoforge-1.7.4-mc1.21.jar",
-    "fileid": "6355874"
+    "fileid": "6355874",
+    "side": "both"
   },
   {
     "filename": "EquipmentCompare-1.21.1-neoforge-1.3.13.jar",
-    "fileid": "6375501"
+    "fileid": "6375501",
+    "side": "client"
   },
   {
     "filename": "everycomp-1.21-2.9.7-neoforge.jar",
-    "fileid": "6381889"
+    "fileid": "6381889",
+    "side": "both"
   },
   {
     "filename": "expanded_ecosphere-neoforge-3.4.1.1.jar.disabled",
-    "fileid": "5909040"
+    "fileid": "5909040",
+    "side": "both"
   },
   {
     "filename": "ExtremeSoundMuffler-3.49_NeoForge-1.21.jar",
-    "fileid": "6279169"
+    "fileid": "6279169",
+    "side": "client"
   },
   {
     "filename": "fallingleaves-1.21.1-2.5.1.jar",
-    "fileid": "6240977"
+    "fileid": "6240977",
+    "side": "both"
   },
   {
     "filename": "fancymenu_neoforge_3.4.6_MC_1.21.1.jar",
-    "fileid": "6231147"
+    "fileid": "6231147",
+    "side": "both"
   },
   {
     "filename": "FarmersDelight-1.21.1-1.2.7.jar",
-    "fileid": "6154807"
+    "fileid": "6154807",
+    "side": "both"
   },
   {
     "filename": "FastSuite-1.21.1-6.0.2.jar",
-    "fileid": "6322692"
+    "fileid": "6322692",
+    "side": "both"
   },
   {
     "filename": "FastWorkbench-1.21-9.1.2.jar",
-    "fileid": "5670423"
+    "fileid": "5670423",
+    "side": "both"
   },
   {
     "filename": "FastFurnace-1.21.1-9.0.0.jar",
-    "fileid": "5751546"
+    "fileid": "5751546",
+    "side": "both"
   },
   {
     "filename": "fastleafdecay-35.jar",
-    "fileid": "5849090"
+    "fileid": "5849090",
+    "side": "both"
   },
   {
     "filename": "ferritecore-7.0.2-neoforge.jar",
-    "fileid": "5850121"
+    "fileid": "5850121",
+    "side": "both"
   },
   {
     "filename": "Flashback-0.20.1-for-MC1.21.1.jar.disabled",
     "mod-id": "4das1Fjq",
-    "version": "OJJaw9FV"
+    "version": "OJJaw9FV",
+    "side": "client"
   },
   {
     "filename": "flatbedrock-neoforge-87.0.0.jar",
-    "fileid": "5443976"
+    "fileid": "5443976",
+    "side": "both"
   },
   {
     "filename": "flickerfix-1.21.0.jar",
-    "fileid": "5424859"
+    "fileid": "5424859",
+    "side": "both"
   },
   {
     "filename": "forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar",
-    "fileid": "6370322"
+    "fileid": "6370322",
+    "side": "both"
   },
   {
     "filename": "FramedBlocks-10.3.1.jar",
-    "fileid": "6280708"
+    "fileid": "6280708",
+    "side": "both"
   },
   {
     "filename": "geckolib-neoforge-1.21.1-4.7.5.1.jar",
-    "fileid": "6304958"
+    "fileid": "6304958",
+    "side": "both"
   },
   {
     "filename": "Geophilic Snap 3.4-c f15-71.mod.jar",
-    "fileid": "6377889"
+    "fileid": "6377889",
+    "side": "both"
   },
   {
     "filename": "handcrafted-neoforge-1.21.1-4.0.3.jar",
-    "fileid": "6330030"
+    "fileid": "6330030",
+    "side": "both"
   },
   {
     "filename": "Iceberg-1.21.1-neoforge-1.3.1.jar",
-    "fileid": "6379432"
+    "fileid": "6379432",
+    "side": "both"
   },
   {
     "filename": "ImmediatelyFast-NeoForge-1.6.5+1.21.1.jar",
-    "fileid": "6376910"
+    "fileid": "6376910",
+    "side": "client"
   },
   {
     "filename": "immersive_portals-6.0.6.jar.disabled",
-    "fileid": "6013197"
+    "fileid": "6013197",
+    "side": "both"
   },
   {
     "filename": "Incendium_1.21.x_v5.4.4.jar",
-    "fileid": "5962249"
+    "fileid": "5962249",
+    "side": "both"
   },
   {
     "filename": "iris-neoforge-1.8.8+mc1.21.1.jar",
-    "fileid": "6213632"
+    "fileid": "6213632",
+    "side": "client"
   },
   {
     "filename": "Jade-1.21.1-NeoForge-15.10.0.jar",
-    "fileid": "6291517"
+    "fileid": "6291517",
+    "side": "both"
   },
   {
     "filename": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
-    "fileid": "6315149"
+    "fileid": "6315149",
+    "side": "both"
   },
   {
     "filename": "justenoughbreeding-neoforge-1.21-1.21.1-1.5.0.jar",
-    "fileid": "6007770"
+    "fileid": "6007770",
+    "side": "both"
   },
   {
     "filename": "jeed-1.21-2.2.18.jar.disabled",
-    "fileid": "6320523"
+    "fileid": "6320523",
+    "side": "both"
   },
   {
     "filename": "Kiwi-1.21.1-NeoForge-15.5.0.jar",
-    "fileid": "6367362"
+    "fileid": "6367362",
+    "side": "both"
   },
   {
     "filename": "kleeslabs-neoforge-1.21.1-21.1.3.jar",
-    "fileid": "6147686"
+    "fileid": "6147686",
+    "side": "both"
   },
   {
     "filename": "konkrete_neoforge_1.9.9_MC_1.21.jar",
-    "fileid": "5453385"
+    "fileid": "5453385",
+    "side": "both"
   },
   {
     "filename": "kotlinforforge-5.7.0-all.jar",
-    "fileid": "5978393"
+    "fileid": "5978393",
+    "side": "both"
   },
   {
     "filename": "language-reload-1.7.3+1.21.1.jar",
-    "fileid": "6348638"
+    "fileid": "6348638",
+    "side": "both"
   },
   {
     "filename": "lithium-neoforge-0.15.0+mc1.21.1.jar",
-    "fileid": "6290413"
+    "fileid": "6290413",
+    "side": "both"
   },
   {
     "filename": "lithostitched-neoforge-1.21.1-1.4.5.jar",
-    "fileid": "6201869"
+    "fileid": "6201869",
+    "side": "both"
   },
   {
     "filename": "lootr-neoforge-1.21-1.10.35.91.jar",
-    "fileid": "6354238"
+    "fileid": "6354238",
+    "side": "both"
   },
   {
     "filename": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
-    "fileid": "5824111"
+    "fileid": "5824111",
+    "side": "both"
   },
   {
     "filename": "melody_neoforge_1.0.10_MC_1.21.jar",
-    "fileid": "5453382"
+    "fileid": "5453382",
+    "side": "both"
   },
   {
     "filename": "modelfix-1.21-1.10.jar",
-    "fileid": "5591286"
+    "fileid": "5591286",
+    "side": "both"
   },
   {
     "filename": "modernfix-neoforge-5.20.2+mc1.21.1.jar",
-    "fileid": "6125147"
+    "fileid": "6125147",
+    "side": "both"
   },
   {
     "filename": "moonlight-1.21-2.18.4-neoforge.jar",
-    "fileid": "6380678"
+    "fileid": "6380678",
+    "side": "both"
   },
   {
     "filename": "More Crafting Tables-neoforge-1.21-7.0.2.jar",
-    "fileid": "6002554"
+    "fileid": "6002554",
+    "side": "both"
   },
   {
     "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
-    "fileid": "5637846"
+    "fileid": "5637846",
+    "side": "client"
   },
   {
     "filename": "netherportalfix-neoforge-1.21.1-21.1.1.jar.disabled",
-    "fileid": "5623547"
+    "fileid": "5623547",
+    "side": "both"
   },
   {
     "filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
-    "fileid": "5885735"
+    "fileid": "5885735",
+    "side": "both"
   },
   {
     "filename": "Not Enough Recipe Book-NEOFORGE-0.4.1.jar",
-    "fileid": "5632777"
+    "fileid": "5632777",
+    "side": "both"
   },
   {
     "filename": "notenoughanimations-neoforge-1.9.3-mc1.21.jar",
-    "fileid": "6356217"
+    "fileid": "6356217",
+    "side": "both"
   },
   {
     "filename": "Nullscape_1.21.x_v1.2.10.jar",
-    "fileid": "5962256"
+    "fileid": "5962256",
+    "side": "both"
   },
   {
     "filename": "OctoLib-NEOFORGE-0.5.0.1.jar",
-    "fileid": "6011408"
+    "fileid": "6011408",
+    "side": "both"
   },
   {
     "filename": "ok_zoomer-neo-10.0.0-beta.9.jar",
-    "fileid": "6381142"
+    "fileid": "6381142",
+    "side": "both"
   },
   {
     "filename": "open-parties-and-claims-neoforge-1.21.1-0.24.0.jar",
-    "fileid": "6242909"
+    "fileid": "6242909",
+    "side": "both"
   },
   {
     "filename": "overloadedarmorbar-neoforge-1.21-2.jar",
-    "fileid": "5537850"
+    "fileid": "5537850",
+    "side": "both"
   },
   {
     "filename": "Patchouli-1.21-88-NEOFORGE.jar",
-    "fileid": "6164617"
+    "fileid": "6164617",
+    "side": "both"
   },
   {
     "filename": "Placebo-1.21.1-9.7.1.jar",
-    "fileid": "6337156"
+    "fileid": "6337156",
+    "side": "both"
   },
   {
     "filename": "plonk-1.21.1-10.0.6-neo.jar",
-    "fileid": "6343120"
+    "fileid": "6343120",
+    "side": "both"
   },
   {
     "filename": "plushies-neoforge-1.5.1.jar",
-    "fileid": "5786351"
+    "fileid": "5786351",
+    "side": "both"
   },
   {
     "filename": "prickle-neoforge-1.21.1-21.1.6.jar",
-    "fileid": "5836410"
+    "fileid": "5836410",
+    "side": "both"
   },
   {
     "filename": "PuzzlesLib-v21.1.33-1.21.1-NeoForge.jar",
-    "fileid": "6311123"
+    "fileid": "6311123",
+    "side": "both"
   },
   {
     "filename": "redstonepen-1.21-neoforge-1.11.42.jar",
-    "fileid": "6102752"
+    "fileid": "6102752",
+    "side": "both"
   },
   {
     "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
-    "fileid": "5973188"
+    "fileid": "5973188",
+    "side": "both"
   },
   {
     "filename": "seamless-loading-screen-2.2.1+1.21-neoforge.jar",
-    "fileid": "5774794"
+    "fileid": "5774794",
+    "side": "both"
   },
   {
     "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
-    "fileid": "5831692"
+    "fileid": "5831692",
+    "side": "both"
   },
   {
     "filename": "voicechat-neoforge-1.21.1-2.5.29.jar",
-    "fileid": "6374621"
+    "fileid": "6374621",
+    "side": "both"
   },
   {
     "filename": "connector-2.0.0-beta.7+1.21.1-full.jar",
-    "fileid": "6237027"
+    "fileid": "6237027",
+    "side": "both"
   },
   {
     "filename": "smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
-    "fileid": "5937999"
+    "fileid": "5937999",
+    "side": "both"
   },
   {
     "filename": "snowundertrees-1.21.1-1.4.10.jar",
-    "fileid": "6378651"
+    "fileid": "6378651",
+    "side": "both"
   },
   {
     "filename": "SnowRealMagic-1.21.1-NeoForge-12.0.4.jar",
-    "fileid": "6374202"
+    "fileid": "6374202",
+    "side": "both"
   },
   {
     "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
-    "fileid": "6382651"
+    "fileid": "6382651",
+    "side": "client"
   },
   {
     "filename": "sodium-shadowy-path-blocks-neoforge-4.0.0.jar",
-    "fileid": "5964065"
+    "fileid": "5964065",
+    "side": "client"
   },
   {
     "filename": "sophisticatedbackpacks-1.21.1-3.24.3.1216.jar",
-    "fileid": "6377608"
+    "fileid": "6377608",
+    "side": "both"
   },
   {
     "filename": "sophisticatedcore-1.21.1-1.3.17.931.jar",
-    "fileid": "6382199"
+    "fileid": "6382199",
+    "side": "both"
   },
   {
     "filename": "sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",
-    "fileid": "6352946"
+    "fileid": "6352946",
+    "side": "both"
   },
   {
     "filename": "starbunclemania-1.21.1-1.3.3.1.jar",
-    "fileid": "6381049"
+    "fileid": "6381049",
+    "side": "both"
   },
   {
     "filename": "tcdcommons-3.12.7+fabric-1.21.jar",
     "mod-id": "Eldc1g37",
-    "version": "RvXDhazY"
+    "version": "RvXDhazY",
+    "side": "both"
   },
   {
     "filename": "tectonic-neoforge-1.21.1-2.4.3.jar",
-    "fileid": "6201964"
+    "fileid": "6201964",
+    "side": "both"
   },
   {
     "filename": "ToastControl-1.21-9.0.0.jar",
-    "fileid": "5530706"
+    "fileid": "5530706",
+    "side": "both"
   },
   {
     "filename": "toofast-1.21.0-0.4.3.5.jar",
-    "fileid": "6010022"
+    "fileid": "6010022",
+    "side": "both"
   },
   {
     "filename": "toomanyrecipeviewers-0.3.3+jei.19.21.0.247.jar",
-    "fileid": "6269681"
+    "fileid": "6269681",
+    "side": "both"
   },
   {
     "filename": "TradingPost-v21.1.0-1.21.1-NeoForge.jar",
-    "fileid": "5733847"
+    "fileid": "5733847",
+    "side": "both"
   },
   {
     "filename": "UniLib-1.0.5+1.21.1-neoforge.jar",
-    "fileid": "6087904"
+    "fileid": "6087904",
+    "side": "client"
   },
   {
     "filename": "VisualWorkbench-v21.1.0-1.21.1-NeoForge.jar",
-    "fileid": "5714956"
+    "fileid": "5714956",
+    "side": "both"
   },
   {
     "filename": "vcinteraction-fabric-1.21.1-1.0.8.jar.disabled",
     "mod-id": "qsSP2ZZ0",
-    "version": "4m0Fd6Fa"
+    "version": "4m0Fd6Fa",
+    "side": "server"
   },
   {
     "filename": "watut-neoforge-1.21.0-1.2.6.jar",
-    "fileid": "6375618"
+    "fileid": "6375618",
+    "side": "both"
   },
   {
     "filename": "wwoo-2.3.4.jar",
-    "fileid": "5486498"
+    "fileid": "5486498",
+    "side": "both"
   },
   {
     "filename": "Xaeros_Minimap_25.2.0_NeoForge_1.21.jar",
     "mod-id": "1bokaNcj",
-    "version": "DHYXuO0J"
+    "version": "DHYXuO0J",
+    "side": "both"
   },
   {
     "filename": "XaerosWorldMap_1.39.4_NeoForge_1.21.jar",
     "mod-id": "NcUtCpym",
-    "version": "JlPz5UbU"
+    "version": "JlPz5UbU",
+    "side": "both"
   },
   {
     "filename": "YungsApi-1.21.1-NeoForge-5.1.4.jar",
-    "fileid": "6262161"
+    "fileid": "6262161",
+    "side": "both"
   },
   {
     "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
-    "fileid": "5954804"
+    "fileid": "5954804",
+    "side": "both"
   },
   {
     "filename": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
-    "fileid": "6300968"
+    "fileid": "6300968",
+    "side": "both"
   },
   {
     "filename": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
-    "fileid": "5812193"
+    "fileid": "5812193",
+    "side": "both"
   },
   {
     "filename": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.4.jar",
-    "fileid": "6272429"
+    "fileid": "6272429",
+    "side": "both"
   },
   {
     "filename": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
-    "fileid": "5924487"
+    "fileid": "5924487",
+    "side": "both"
   },
   {
     "filename": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
-    "fileid": "6272264"
+    "fileid": "6272264",
+    "side": "both"
   },
   {
     "filename": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
-    "fileid": "5812532"
+    "fileid": "5812532",
+    "side": "both"
   },
   {
     "filename": "yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar",
-    "fileid": "6336630"
+    "fileid": "6336630",
+    "side": "both"
   },
   {
     "filename": "e4mc_minecraft-neoforge-5.3.0.jar",
-    "fileid": "6224394"
+    "fileid": "6224394",
+    "side": "both"
   },
   {
     "filename": "owo-lib-neoforge-0.12.15.1-beta.2+1.21.jar",
-    "fileid": "6314117"
+    "fileid": "6314117",
+    "side": "both"
   },
   {
     "filename": "spark-1.10.124-neoforge.jar",
-    "fileid": "6225208"
+    "fileid": "6225208",
+    "side": "both"
   }
 ]
