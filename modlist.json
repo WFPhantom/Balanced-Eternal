@@ -80,11 +80,6 @@
     "side": "client"
   },
   {
-    "filename": "ars_technica-1.21.1-2.0.1.jar",
-    "fileid": "6352030",
-    "side": "both"
-  },
-  {
     "filename": "athena-neoforge-1.21-4.0.1.jar",
     "fileid": "5629395",
     "side": "both"
@@ -808,7 +803,7 @@
     "side": "both"
   },
   {
-    "filename": "wwoo-2.3.4.jar",
+    "filename": "wwoo-2.3.4.jar.disabled",
     "fileid": "5486498",
     "side": "both"
   },
