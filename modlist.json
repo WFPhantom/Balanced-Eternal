@@ -239,11 +239,6 @@
     "side": "both"
   },
   {
-    "filename": "configured-neoforge-1.21.1-2.6.0.jar",
-    "fileid": "5873783",
-    "side": "both"
-  },
-  {
     "filename": "continuity-3.0.0+1.21.neoforge.jar",
     "fileid": "5981335",
     "side": "client"
@@ -355,8 +350,8 @@
     "side": "both"
   },
   {
-    "filename": "Emojiful-Neoforge-1.21-5.1.5-all.jar",
-    "fileid": "5614609",
+    "filename": "Emojiful-Neoforge-1.21-5.2.0-all.jar",
+    "fileid": "6388599",
     "side": "both"
   },
   {
@@ -587,7 +582,7 @@
   },
   {
     "filename": "moonlight-1.21-2.18.4-neoforge.jar",
-    "fileid": "6380678",
+    "fileid": "6386855",
     "side": "both"
   },
   {
@@ -643,11 +638,6 @@
   {
     "filename": "overloadedarmorbar-neoforge-1.21-2.jar",
     "fileid": "5537850",
-    "side": "both"
-  },
-  {
-    "filename": "Patchouli-1.21-88-NEOFORGE.jar",
-    "fileid": "6164617",
     "side": "both"
   },
   {
@@ -803,7 +793,7 @@
     "side": "both"
   },
   {
-    "filename": "wwoo-2.3.4.jar.disabled",
+    "filename": "wwoo-2.3.4.jar",
     "fileid": "5486498",
     "side": "both"
   },

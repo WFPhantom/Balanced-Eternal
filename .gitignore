@@ -22,8 +22,6 @@
 usernamecache.json
 usercache.json
 realms_persistence.json
-patchouli_data.json
-/patchouli_books
 **/*.zip
 /logs
 /ESM
