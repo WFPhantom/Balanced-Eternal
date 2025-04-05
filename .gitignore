@@ -50,6 +50,7 @@ options.txt
 !/config/drippyloadingscreen/options.txt
 !/config/fancymenu/options.txt
 command_history.txt
+/debug
 
 # Prism stuff
 icon.png
