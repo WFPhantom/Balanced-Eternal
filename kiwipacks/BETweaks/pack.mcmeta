@@ -1,7 +1,8 @@
 {
     "pack": {
         "description": "Tweaks for Balanced Eternal",
-        "pack_format": 48
+        "pack_format": 48,
+        "supported_formats": [34, 48]
     },
     "filter": {
         "block": [

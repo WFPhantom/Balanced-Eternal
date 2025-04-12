@@ -83,7 +83,7 @@
 	# Range: 0.0 ~ 2.0
 	torch_item_size = 1.0
 	#Gives a special animation to supplementaries candle holders when held in hand
-	candle_holder_item_holding = true
+	candle_holder_item_holding = false
 	#Size lanterns when held in hand
 	# Default: 0.625
 	# Range: 0.0 ~ 2.0

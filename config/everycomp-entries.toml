@@ -235,15 +235,6 @@
 		[entries.wood_type.mctb]
 			crafting_table = true
 
-		[entries.wood_type.another_furniture]
-			bench = true
-			flower_box = true
-			shutter = true
-			drawer = true
-			shelf = true
-			table = true
-			chair = true
-
 		[entries.wood_type.create]
 			window_pane = true
 			window = true
