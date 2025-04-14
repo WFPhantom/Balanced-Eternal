@@ -1,8 +1,7 @@
 {
     "pack": {
         "description": "Tweaks for Balanced Eternal",
-        "pack_format": 48,
-        "supported_formats": [34, 48]
+        "pack_format": 48    
     },
     "filter": {
         "block": [
@@ -78,34 +77,34 @@
             "namespace": "lootr",
             "path": "advancement/social"
         },
-                {
+        {
             "namespace": "betterdungeons",
             "path": "advancement/all_dungeons"
         },
-                {
+        {
             "namespace": "betterdungeons",
             "path": "advancement/root"
         },
-                {
+        {
             "namespace": "betterdungeons",
             "path": "advancement/skeleton_dungeon"
         },
-                {
+        {
             "namespace": "betterdungeons",
             "path": "advancement/small_dungeon"
         },
-                {
+        {
             "namespace": "betterdungeons",
             "path": "advancement/small_nether_dungeon"
         },
-                {
+        {
             "namespace": "betterdungeons",
             "path": "advancement/spider_dungeon"
         },
-                {
+        {
             "namespace": "betterdungeons",
             "path": "advancement/zombie_dungeon"
-        }
+        },
     ]
   }
 }
