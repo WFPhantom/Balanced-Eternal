@@ -1,0 +1,118 @@
+{
+    "pack": {
+        "description": "Tweaks for Balanced Eternal",
+        "pack_format": 48
+    },
+    "filter": {
+        "block": [
+        {
+            "namespace": "minecraft",
+            "path": "recipe/crafter"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "recipe/spyglass"
+        },
+        {
+            "namespace": "redstonepen",
+            "path": "recipe/remote_recipe"
+        },
+        {
+            "namespace": "redstonepen",
+            "path": "recipe/basic_gauge_recipe"
+        },
+        {
+            "namespace": "computercraft",
+            "path": "recipe/computer_command"
+        },
+        {
+            "namespace": "framedblocks",
+            "path": "recipe/framed_tank"
+        },
+        {
+            "namespace": "framedblocks",
+            "path": "recipe/powered_framing_saw"
+        },
+        {
+            "namespace": "framedblocks",
+            "path": "recipe/framed_wrench"
+        },
+        {
+            "namespace": "lootr",
+            "path": "advancement/root"
+        },
+        {
+            "namespace": "lootr",
+            "path": "advancement/100loot"
+        },
+        {
+            "namespace": "lootr",
+            "path": "advancement/10loot"
+        },
+        {
+            "namespace": "lootr",
+            "path": "advancement/1barrel"
+        },
+        {
+            "namespace": "lootr",
+            "path": "advancement/1cart"
+        },
+        {
+            "namespace": "lootr",
+            "path": "advancement/1chest"
+        },
+        {
+            "namespace": "lootr",
+            "path": "advancement/1shulker"
+        },
+        {
+            "namespace": "lootr",
+            "path": "advancement/25loot"
+        },
+        {
+            "namespace": "lootr",
+            "path": "advancement/50loot"
+        },
+        {
+            "namespace": "lootr",
+            "path": "advancement/social"
+        },
+        {
+            "namespace": "betterdungeons",
+            "path": "advancement/all_dungeons"
+        },
+        {
+            "namespace": "betterdungeons",
+            "path": "advancement/root"
+        },
+        {
+            "namespace": "betterdungeons",
+            "path": "advancement/skeleton_dungeon"
+        },
+        {
+            "namespace": "betterdungeons",
+            "path": "advancement/small_dungeon"
+        },
+        {
+            "namespace": "betterdungeons",
+            "path": "advancement/small_nether_dungeon"
+        },
+        {
+            "namespace": "betterdungeons",
+            "path": "advancement/spider_dungeon"
+        },
+        {
+            "namespace": "betterdungeons",
+            "path": "advancement/zombie_dungeon"
+        },
+        {
+            "namespace": "apotheosis",
+            "path": "/worldgen/placed_feature/*"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "worldgen/placed_feature/lake_lava_surface"
+        }
+    ]
+  }
+}
