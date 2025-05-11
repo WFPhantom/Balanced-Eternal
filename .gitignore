@@ -41,14 +41,14 @@ config/NoChatReports/README.md
 config/xaeropatreon.txt
 /xaero
 /XaeroWaypoints_BACKUP240807
-/configtest
 /config/konkrete
 /schematics
 options.txt
-!/config/drippyloadingscreen/options.txt
 !/config/fancymenu/options.txt
 command_history.txt
 /debug
+!/config/defaultoptions/options.txt
+knownkeys.txt
 
 # Prism stuff
 icon.png
