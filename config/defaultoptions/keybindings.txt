@@ -1,0 +1,9 @@
+key_key.inventory:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_accessories.key.open_accessories_screen:key.keyboard.e
+key_gui.xaero_minimap_settings:key.keyboard.unknown
+key_gui.xaero_enlarge_map:key.keyboard.unknown
+key_placebo.toggleTrails:key.keyboard.unknown
+key_placebo.toggleWings:key.keyboard.unknown
+key_key.toastcontrol.clear:key.keyboard.unknown
+key_key.jade.config:key.keyboard.unknown

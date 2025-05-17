@@ -1,0 +1,14 @@
+version:3955
+enableVsync:false
+entityDistanceScaling:1.0
+entityShadows:false
+gamma:1.0
+guiScale:2
+renderClouds:"false"
+realmsNotifications:false
+bobView:false
+darkMojangStudiosBackground:true
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","continuity:default","continuity:glass_pane_culling_fix"]
+pauseOnLostFocus:false
+tutorialStep:none
+skipMultiplayerWarning:true

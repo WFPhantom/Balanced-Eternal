@@ -108,10 +108,6 @@
         {
             "namespace": "apotheosis",
             "path": "/worldgen/placed_feature/*"
-        },
-        {
-            "namespace": "minecraft",
-            "path": "worldgen/placed_feature/lake_lava_surface"
         }
     ]
   }
