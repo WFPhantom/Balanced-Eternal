@@ -22,10 +22,6 @@
             "path": "recipe/basic_gauge_recipe"
         },
         {
-            "namespace": "computercraft",
-            "path": "recipe/computer_command"
-        },
-        {
             "namespace": "framedblocks",
             "path": "recipe/framed_tank"
         },
