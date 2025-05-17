@@ -1,5 +1,5 @@
 {
-  "_schemaVersion": 6,
+  "_schemaVersion": 7,
   "_lastMCVersionId": 767,
   "generalSettings": {
     "detectATLauncherInstance": true,
@@ -101,8 +101,7 @@
     "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
     "allowDuplicatePackets": false,
     "maxConnectionAttempts": 10,
-    "enableClassGraph": false,
-    "useClassLoader": false
+    "enableClassGraph": false
   },
   "accessibilitySettings": {
     "languageId": "en_us",
@@ -126,20 +125,13 @@
       "smallImageText": "{getOrDefault(server.message)} Balanced Eternal",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
-      "buttons": {
-        "default": {
-          "label": "Example Text",
-          "url": "https://google.com"
-        }
-      }
+      "buttons": {}
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png",
       "BE": "https://i.imgur.com/lycXFWw.png",
       "WFPhantom": "https://mc-heads.net/avatar/637e69c830a64f409fd41b6710fdb7f6"
     },
     "dynamicVariables": {
-      "default": "Example Text",
       "mods": "{general.mods} Mod(s)",
       "player_info_coordinate": "At {player.position.x}, {player.position.z}",
       "players": "{server.players.current} / {server.players.max} Players",
