@@ -49,6 +49,8 @@ command_history.txt
 /debug
 !/config/defaultoptions/options.txt
 knownkeys.txt
+/shaderpacks
+!/shaderpacks/*.txt
 
 # Prism stuff
 icon.png
