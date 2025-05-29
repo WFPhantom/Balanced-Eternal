@@ -1,3 +1,5 @@
+#!/bin/sh
+
 cd ..
 MODLIST=modlist.json
 
