@@ -5,13 +5,13 @@
     "side": "both"
   },
   {
-    "filename": "accessories-neoforge-1.1.0-beta.42+1.21.1.jar",
-    "fileid": "6454790",
+    "filename": "accessories-neoforge-1.1.0-beta.43+1.21.1.jar",
+    "fileid": "6549393",
     "side": "both"
   },
   {
-    "filename": "AmbientSounds_NEOFORGE_v6.1.10_mc1.21.1.jar",
-    "fileid": "6525171",
+    "filename": "AmbientSounds_NEOFORGE_v6.1.11_mc1.21.1.jar",
+    "fileid": "6558580",
     "side": "client"
   },
   {
@@ -25,8 +25,8 @@
     "side": "both"
   },
   {
-    "filename": "Apotheosis-1.21.1-8.3.5.jar",
-    "fileid": "6514626",
+    "filename": "Apotheosis-1.21.1-8.3.6.jar",
+    "fileid": "6545942",
     "side": "both"
   },
   {
@@ -35,8 +35,8 @@
     "side": "both"
   },
   {
-    "filename": "ApothicEnchanting-1.21.1-1.4.1.jar",
-    "fileid": "6514634",
+    "filename": "ApothicEnchanting-1.21.1-1.4.2.jar",
+    "fileid": "6563643",
     "side": "both"
   },
   {
@@ -90,8 +90,8 @@
     "side": "both"
   },
   {
-    "filename": "balm-neoforge-1.21.1-21.0.44.jar",
-    "fileid": "6520602",
+    "filename": "balm-neoforge-1.21.1-21.0.46.jar",
+    "fileid": "6588901",
     "side": "both"
   },
   {
@@ -120,8 +120,8 @@
     "side": "client"
   },
   {
-    "filename": "BetterGrassify-1.6.0+neoforge.1.21.1.jar",
-    "fileid": "6351921",
+    "filename": "BetterGrassify-1.6.1+neoforge.1.21.1.jar",
+    "fileid": "6560867",
     "side": "both"
   },
   {
@@ -130,8 +130,8 @@
     "side": "both"
   },
   {
-    "filename": "bookshelf-neoforge-1.21.1-21.1.62.jar",
-    "fileid": "6503278",
+    "filename": "bookshelf-neoforge-1.21.1-21.1.63.jar",
+    "fileid": "6581827",
     "side": "both"
   },
   {
@@ -180,8 +180,8 @@
     "side": "both"
   },
   {
-    "filename": "[neoforge]ctov-3.5.8.jar",
-    "fileid": "6459807",
+    "filename": "[neoforge]ctov-3.5.9a.jar",
+    "fileid": "6543958",
     "side": "both"
   },
   {
@@ -205,8 +205,8 @@
     "side": "client"
   },
   {
-    "filename": "comforts-neoforge-9.0.3+1.21.1.jar",
-    "fileid": "5821146",
+    "filename": "comforts-neoforge-9.0.4+1.21.1.jar",
+    "fileid": "6559909",
     "side": "both"
   },
   {
@@ -245,8 +245,8 @@
     "side": "both"
   },
   {
-    "filename": "CreativeCore_NEOFORGE_v2.13.3_mc1.21.1.jar",
-    "fileid": "6525609",
+    "filename": "CreativeCore_NEOFORGE_v2.13.5_mc1.21.1.jar",
+    "fileid": "6550281",
     "side": "both"
   },
   {
@@ -320,8 +320,8 @@
     "side": "both"
   },
   {
-    "filename": "elytratrims-neoforge-3.5.8+1.21.jar",
-    "fileid": "6196569",
+    "filename": "elytratrims-neoforge-3.5.9+1.21.1.jar",
+    "fileid": "6563745",
     "side": "both"
   },
   {
@@ -352,6 +352,11 @@
   {
     "filename": "entityculling-neoforge-1.7.4-mc1.21.jar",
     "fileid": "6355874",
+    "side": "both"
+  },
+  {
+    "filename": "EuphoriaPatcher-1.6.4-r5.5.1-neoforge.jar",
+    "fileid": "6564319",
     "side": "both"
   },
   {
@@ -390,10 +395,10 @@
     "side": "both"
   },
   {
-    "filename": "Flashback-0.32.0-for-MC1.21.1.jar.disabled",
+    "filename": "Flashback-0.34.0-for-MC1.21.1.jar.disabled",
     "mod-id": "4das1Fjq",
-    "version": "DVhTJtW8",
-    "side": "client"
+    "version": "rNCr1Rbs",
+    "side": "both"
   },
   {
     "filename": "flickerfix-1.21.0.jar",
@@ -491,8 +496,8 @@
     "side": "both"
   },
   {
-    "filename": "lithostitched-neoforge-1.21.1-1.4.7.jar",
-    "fileid": "6533426",
+    "filename": "lithostitched-neoforge-1.21.1-1.4.8.jar",
+    "fileid": "6541324",
     "side": "both"
   },
   {
@@ -511,8 +516,8 @@
     "side": "both"
   },
   {
-    "filename": "modernfix-neoforge-5.22.0+mc1.21.1.jar",
-    "fileid": "6534276",
+    "filename": "modernfix-neoforge-5.23.0+mc1.21.1.jar",
+    "fileid": "6548599",
     "side": "both"
   },
   {
@@ -596,8 +601,8 @@
     "side": "both"
   },
   {
-    "filename": "prickle-neoforge-1.21.1-21.1.6.jar",
-    "fileid": "5836410",
+    "filename": "prickle-neoforge-1.21.1-21.1.8.jar",
+    "fileid": "6546240",
     "side": "both"
   },
   {
@@ -662,13 +667,13 @@
     "side": "client"
   },
   {
-    "filename": "sophisticatedbackpacks-1.21.1-3.24.13.1245.jar",
-    "fileid": "6538419",
+    "filename": "sophisticatedbackpacks-1.21.1-3.24.15.1250.jar",
+    "fileid": "6586226",
     "side": "both"
   },
   {
-    "filename": "sophisticatedcore-1.21.1-1.3.41.983.jar",
-    "fileid": "6538415",
+    "filename": "sophisticatedcore-1.21.1-1.3.49.1002.jar",
+    "fileid": "6587856",
     "side": "both"
   },
   {
@@ -697,8 +702,8 @@
     "side": "both"
   },
   {
-    "filename": "toomanyrecipeviewers-0.4.1+mc.21.1.jar",
-    "fileid": "6486051",
+    "filename": "toomanyrecipeviewers-0.4.2+mc.21.1.jar",
+    "fileid": "6556004",
     "side": "client"
   },
   {
