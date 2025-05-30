@@ -27,7 +27,7 @@ B:game_intro_fade_out = 'true';
 B:show_custom_window_icon = 'false';
 S:custom_window_icon_macos = '';
 S:custom_window_icon_32 = '';
-S:custom_window_title = 'Balanced Eternal 1.0.0';
+S:custom_window_title = 'Balanced Eternal 1.0.0 - Alpha 8';
 S:custom_window_icon_16 = '';
 
 
