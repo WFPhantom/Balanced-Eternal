@@ -45,8 +45,8 @@
     "side": "both"
   },
   {
-    "filename": "appleskin-neoforge-mc1.21-3.0.5.jar",
-    "fileid": "5586600",
+    "filename": "appleskin-neoforge-mc1.21-3.0.7.jar",
+    "fileid": "6616291",
     "side": "both"
   },
   {
@@ -130,8 +130,8 @@
     "side": "both"
   },
   {
-    "filename": "bookshelf-neoforge-1.21.1-21.1.63.jar",
-    "fileid": "6581827",
+    "filename": "bookshelf-neoforge-1.21.1-21.1.64.jar",
+    "fileid": "6618780",
     "side": "both"
   },
   {
@@ -210,8 +210,8 @@
     "side": "both"
   },
   {
-    "filename": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.63.jar.disabled",
-    "fileid": "6473768",
+    "filename": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.68.jar.disabled",
+    "fileid": "6598774",
     "side": "both"
   },
   {
@@ -240,8 +240,8 @@
     "side": "client"
   },
   {
-    "filename": "create-1.21.1-6.0.4.jar",
-    "fileid": "6323264",
+    "filename": "create-1.21.1-6.0.5.jar",
+    "fileid": "6624071",
     "side": "both"
   },
   {
@@ -461,8 +461,8 @@
     "side": "both"
   },
   {
-    "filename": "jeed-1.21-2.2.18.jar.disabled",
-    "fileid": "6320523",
+    "filename": "jeed-1.21-2.2.19.jar.disabled",
+    "fileid": "6550600",
     "side": "both"
   },
   {
@@ -516,13 +516,13 @@
     "side": "both"
   },
   {
-    "filename": "modernfix-neoforge-5.23.0+mc1.21.1.jar",
-    "fileid": "6548599",
+    "filename": "modernfix-neoforge-5.23.1+mc1.21.1.jar",
+    "fileid": "6609557",
     "side": "both"
   },
   {
-    "filename": "moonlight-1.21-2.18.13-neoforge.jar",
-    "fileid": "6462396",
+    "filename": "moonlight-1.21-2.18.18-neoforge.jar",
+    "fileid": "6612980",
     "side": "both"
   },
   {
@@ -541,7 +541,7 @@
     "side": "both"
   },
   {
-    "filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+    "filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar.disabled",
     "fileid": "5885735",
     "side": "both"
   },
@@ -702,8 +702,8 @@
     "side": "both"
   },
   {
-    "filename": "toomanyrecipeviewers-0.4.2+mc.21.1.jar",
-    "fileid": "6556004",
+    "filename": "toomanyrecipeviewers-0.5.0+mc.21.1.jar",
+    "fileid": "6615764",
     "side": "client"
   },
   {
@@ -768,8 +768,8 @@
     "side": "both"
   },
   {
-    "filename": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.4.jar",
-    "fileid": "6272429",
+    "filename": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+    "fileid": "6606621",
     "side": "both"
   },
   {
