@@ -36,7 +36,6 @@ config/ars_nouveau/search_index
 config/voicechat/username-cache.json
 servers.dat_old
 servers.dat
-config/NoChatReports/README.md
 /.bobby
 config/xaeropatreon.txt
 /xaero
@@ -47,10 +46,8 @@ options.txt
 !/config/fancymenu/options.txt
 command_history.txt
 /debug
-!/config/defaultoptions/options.txt
 knownkeys.txt
 /shaderpacks
-!/shaderpacks/*.txt
 
 # Prism stuff
 icon.png
