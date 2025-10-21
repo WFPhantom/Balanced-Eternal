@@ -125,7 +125,7 @@
 	# Range: 0 ~ 1000
 	thrown_cooldown = 10
 	#Adds dragons charge item
-	dragon_charge = true
+	dragon_charge = false
 	#Makes fire & dragon charges have gravity
 	gravity = true
 	#Makes fire charges deflectable by punching

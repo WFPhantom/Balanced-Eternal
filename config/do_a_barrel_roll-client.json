@@ -28,7 +28,7 @@
       "thrust_particles": true
     },
     "misc": {
-      "enable_easter_eggs": true
+      "enable_easter_eggs": false
     }
   },
   "sensitivity": {

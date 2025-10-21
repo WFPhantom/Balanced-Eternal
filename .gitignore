@@ -48,6 +48,7 @@ command_history.txt
 /debug
 knownkeys.txt
 /shaderpacks
+!/shaderpacks/*.txt
 
 # Prism stuff
 icon.png
