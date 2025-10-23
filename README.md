@@ -1,6 +1,6 @@
 # Balanced Eternal
 
-Neoforge: 21.1.211
+Neoforge: 21.1.212
 
 Issue tracker and source for [Balanced Eternal](https://www.curseforge.com/minecraft/modpacks/balanced-eternal), a Minecraft modpack.
 
