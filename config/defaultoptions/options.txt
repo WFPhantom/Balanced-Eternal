@@ -5,10 +5,11 @@ entityShadows:false
 gamma:1.0
 guiScale:2
 renderClouds:"false"
+autoJump:false
 realmsNotifications:false
 bobView:false
 darkMojangStudiosBackground:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","lambdabettergrass:default","continuity:default","continuity:glass_pane_culling_fix"]
 pauseOnLostFocus:false
 tutorialStep:none
 skipMultiplayerWarning:true
