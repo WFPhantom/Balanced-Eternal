@@ -1,8 +1,6 @@
 # Balanced Eternal
 
-```
-What makes me a good modpack? If I were a bad modpack, I wouldn't be sittin' here, discussin' it with you now would I?
-```
+> What makes me a good modpack? If I were a bad modpack, I wouldn't be sittin' here, discussin' it with you now would I?
 
 Neoforge: 21.1.213
 
