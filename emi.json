@@ -162,6 +162,7 @@
     "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"deeperdarker:long_sculk_affinity\"}}",
     "item:apothic_enchanting:flimsy_ender_lead",
     "item:apothic_enchanting:ender_lead",
-    "item:apothic_enchanting:occult_ender_lead"
+    "item:apothic_enchanting:occult_ender_lead",
+    "item:ars_nouveau:thread_undying"
   ]
 }

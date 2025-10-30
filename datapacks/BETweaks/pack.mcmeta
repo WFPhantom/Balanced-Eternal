@@ -14,6 +14,26 @@
             "path": "recipe/spyglass"
         },
         {
+            "namespace": "minecraft",
+            "path": "recipe/iron_sword"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "recipe/iron_axe"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "recipe/iron_pickaxe"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "recipe/iron_shovel"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "recipe/iron_hoe"
+        },
+        {
             "namespace": "redstonepen",
             "path": "recipe/remote_recipe"
         },
@@ -104,6 +124,10 @@
         {
             "namespace": "apotheosis",
             "path": "/worldgen/placed_feature/*"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/thread_undying"
         }
     ]
   }
