@@ -163,6 +163,17 @@
     "item:apothic_enchanting:flimsy_ender_lead",
     "item:apothic_enchanting:ender_lead",
     "item:apothic_enchanting:occult_ender_lead",
-    "item:ars_nouveau:thread_undying"
+    "item:ars_nouveau:thread_undying",
+    "item:ars_nouveau:thread_high_step",
+    "item:minecraft:spawner",
+    "item:minecraft:trial_spawner",
+    "item:gateways:gate_pearl{\"gateways:gateway\":\"gateways:basic/blaze\"}",
+    "item:gateways:gate_pearl{\"gateways:gateway\":\"gateways:basic/enderman\"}",
+    "item:gateways:gate_pearl{\"gateways:gateway\":\"gateways:basic/slime\"}",
+    "item:amendments:dragon_charge",
+    "item:gateways:gate_pearl{\"gateways:gateway\":\"gateways:emerald_grove\"}",
+    "item:gateways:gate_pearl{\"gateways:gateway\":\"gateways:overworldian_nights\"}",
+    "item:gateways:gate_pearl{\"gateways:gateway\":\"gateways:hellish_fortress\"}",
+    "item:gateways:gate_pearl{\"gateways:gateway\":\"gateways:endless/blaze\"}"
   ]
 }

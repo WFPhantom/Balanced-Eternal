@@ -128,6 +128,30 @@
         {
             "namespace": "ars_nouveau",
             "path": "recipe/thread_undying"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/thread_high_step"
+        },
+        {
+            "namespace": "gateways",
+            "path": "recipe/basic"
+        },
+        {
+            "namespace": "gateways",
+            "path": "recipe/emerald_grove"
+        },
+        {
+            "namespace": "gateways",
+            "path": "recipe/hellish_fortress"
+        },
+        {
+            "namespace": "gateways",
+            "path": "recipe/overworldian_nights"
+        },
+        {
+            "namespace": "gateways",
+            "path": "recipe/endless"
         }
     ]
   }
