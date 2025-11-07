@@ -34,14 +34,6 @@
             "path": "recipe/iron_hoe"
         },
         {
-            "namespace": "redstonepen",
-            "path": "recipe/remote_recipe"
-        },
-        {
-            "namespace": "redstonepen",
-            "path": "recipe/basic_gauge_recipe"
-        },
-        {
             "namespace": "framedblocks",
             "path": "recipe/framed_tank"
         },

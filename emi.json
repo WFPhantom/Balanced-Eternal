@@ -10,8 +10,6 @@
   },
   "hidden_stacks": [
     "item:minecraft:crafter",
-    "item:redstonepen:remote",
-    "item:redstonepen:basic_gauge",
     "item:ars_nouveau:debug",
     "item:ars_nouveau:creative_spell_book",
     "item:ars_nouveau:creative_source_jar",

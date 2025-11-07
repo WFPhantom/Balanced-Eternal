@@ -67,7 +67,7 @@
     "placard": true
   },
   "apothic_spawners": {
-    "spawner": true
+    "spawner": false
   },
   "jade_access": {
     "held_item": true,
@@ -89,6 +89,9 @@
   },
   "apotheosis": {
     "adventure": true
+  },
+  "redstonequill": {
+    "track_power": true
   },
   "balm": {
     "jade": true
