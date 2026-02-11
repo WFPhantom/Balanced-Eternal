@@ -18,12 +18,13 @@
     "spaghetti_enabled": true
   },
   "continents": {
-    "continents_scale": 0.13,
+    "continents_scale": 0.45,
     "erosion_scale": 0.25,
     "flat_terrain_skew": 0.1,
     "jungle_pillars": true,
-    "ocean_offset": -0.8,
+    "ocean_offset": -0.5,
     "ridge_scale": 0.25,
+    "river_ice": false,
     "river_lanterns": false,
     "rolling_hills": true,
     "underground_rivers": true
@@ -44,7 +45,7 @@
     "enabled": true,
     "noise_multiplier": 1.0,
     "noise_offset": 0.0,
-    "noise_scale": 0.11
+    "noise_scale": 1.0
   },
   "minor_version": 1,
   "oceans": {

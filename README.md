@@ -2,7 +2,7 @@
 
 > What makes me a good modpack? If I were a bad modpack, I wouldn't be sittin' here, discussin' it with you now would I?
 
-Neoforge: 21.1.214
+Neoforge: 21.1.219
 
 Issue tracker and source for [Balanced Eternal](https://www.curseforge.com/minecraft/modpacks/balanced-eternal), a Minecraft modpack.
 

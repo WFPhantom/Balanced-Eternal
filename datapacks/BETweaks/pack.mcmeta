@@ -126,6 +126,11 @@
             "path": "recipe/thread_high_step"
         },
         {
+            "namespace": "ars_nouveau",
+            "path": "recipe/planarium"
+
+        },
+        {
             "namespace": "gateways",
             "path": "recipe/basic"
         },
