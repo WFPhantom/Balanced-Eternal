@@ -1,4 +1,5 @@
 version:3955
+biomeBlendRadius:7
 enableVsync:false
 entityDistanceScaling:1.0
 entityShadows:false
