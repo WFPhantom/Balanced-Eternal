@@ -131,6 +131,26 @@
 
         },
         {
+            "namespace": "ars_nouveau",
+            "path": "recipe/warp_scroll"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/stable_warp_scroll"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/reset_warp_scroll"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/reset_stable_warp_scroll"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/ritual_warping"
+        },
+        {
             "namespace": "gateways",
             "path": "recipe/basic"
         },

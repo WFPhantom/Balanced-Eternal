@@ -171,6 +171,9 @@
     "item:gateways:gate_pearl{\"gateways:gateway\":\"gateways:hellish_fortress\"}",
     "item:gateways:gate_pearl{\"gateways:gateway\":\"gateways:endless/blaze\"}",
     "item:ars_nouveau:planarium",
-    "item:ars_nouveau:planarium_projector"
+    "item:ars_nouveau:planarium_projector",
+    "item:ars_nouveau:warp_scroll",
+    "item:ars_nouveau:stable_warp_scroll",
+    "item:ars_nouveau:ritual_warping"
   ]
 }
