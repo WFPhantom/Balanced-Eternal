@@ -46,34 +46,6 @@
             "path": "recipe/framed_wrench"
         },
         {
-            "namespace": "betterdungeons",
-            "path": "advancement/all_dungeons"
-        },
-        {
-            "namespace": "betterdungeons",
-            "path": "advancement/root"
-        },
-        {
-            "namespace": "betterdungeons",
-            "path": "advancement/skeleton_dungeon"
-        },
-        {
-            "namespace": "betterdungeons",
-            "path": "advancement/small_dungeon"
-        },
-        {
-            "namespace": "betterdungeons",
-            "path": "advancement/small_nether_dungeon"
-        },
-        {
-            "namespace": "betterdungeons",
-            "path": "advancement/spider_dungeon"
-        },
-        {
-            "namespace": "betterdungeons",
-            "path": "advancement/zombie_dungeon"
-        },
-        {
             "namespace": "apotheosis",
             "path": "/worldgen/placed_feature/*"
         },
@@ -129,6 +101,10 @@
         {
             "namespace": "gateways",
             "path": "recipe/endless"
+        },
+        {
+            "namespace": "endrem",
+            "path": "recipe/undead_eye"
         }
     ]
   }
