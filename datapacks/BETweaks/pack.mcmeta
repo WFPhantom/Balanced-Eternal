@@ -46,46 +46,6 @@
             "path": "recipe/framed_wrench"
         },
         {
-            "namespace": "lootr",
-            "path": "advancement/root"
-        },
-        {
-            "namespace": "lootr",
-            "path": "advancement/100loot"
-        },
-        {
-            "namespace": "lootr",
-            "path": "advancement/10loot"
-        },
-        {
-            "namespace": "lootr",
-            "path": "advancement/1barrel"
-        },
-        {
-            "namespace": "lootr",
-            "path": "advancement/1cart"
-        },
-        {
-            "namespace": "lootr",
-            "path": "advancement/1chest"
-        },
-        {
-            "namespace": "lootr",
-            "path": "advancement/1shulker"
-        },
-        {
-            "namespace": "lootr",
-            "path": "advancement/25loot"
-        },
-        {
-            "namespace": "lootr",
-            "path": "advancement/50loot"
-        },
-        {
-            "namespace": "lootr",
-            "path": "advancement/social"
-        },
-        {
             "namespace": "betterdungeons",
             "path": "advancement/all_dungeons"
         },

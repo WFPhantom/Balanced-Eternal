@@ -47,7 +47,7 @@
 	#list of modids whose loot tables shouldn't be converted (in the format of ["modid", "other_modid"])
 	loot_modid_blacklist = []
 	#list of loot tables whose conversion causes problems (in the same format as `loot_table_blacklist`)
-	problematic_loot_tables = ["twilightforest:structures/stronghold_boss", "atum:chests/pharaoh"]
+	problematic_loot_tables = []
 
 [breaking]
 	#configuration options for breaking containers
