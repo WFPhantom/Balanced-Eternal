@@ -174,7 +174,6 @@
     "item:ars_nouveau:planarium_projector",
     "item:ars_nouveau:warp_scroll",
     "item:ars_nouveau:stable_warp_scroll",
-    "item:ars_nouveau:ritual_warping",
-    "item:endrem:undead_eye"
+    "item:ars_nouveau:ritual_warping"
   ]
 }

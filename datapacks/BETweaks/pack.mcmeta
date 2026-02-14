@@ -101,10 +101,6 @@
         {
             "namespace": "gateways",
             "path": "recipe/endless"
-        },
-        {
-            "namespace": "endrem",
-            "path": "recipe/undead_eye"
         }
     ]
   }
