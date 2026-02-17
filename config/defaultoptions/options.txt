@@ -10,7 +10,7 @@ autoJump:false
 realmsNotifications:false
 bobView:false
 darkMojangStudiosBackground:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","lambdabettergrass:default","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","lambdabettergrass:default","continuity:default","continuity:glass_pane_culling_fix","BETweaks"]
 pauseOnLostFocus:false
 tutorialStep:none
 skipMultiplayerWarning:true
