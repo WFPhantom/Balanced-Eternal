@@ -50,6 +50,7 @@ knownkeys.txt
 /shaderpacks
 !/shaderpacks/*.txt
 /datadev
+/dynamic-resource-pack-cache
 
 # Prism stuff
 icon.png
