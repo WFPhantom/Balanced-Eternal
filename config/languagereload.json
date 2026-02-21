@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "multilingualItemSearch": true,
+  "multilingualItemSearch": false,
   "removableDefaultLanguage": false,
   "fallbacks": [],
   "previousFallbacks": [],
