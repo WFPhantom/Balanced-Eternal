@@ -174,6 +174,10 @@
     "item:ars_nouveau:planarium_projector",
     "item:ars_nouveau:warp_scroll",
     "item:ars_nouveau:stable_warp_scroll",
-    "item:ars_nouveau:ritual_warping"
+    "item:ars_nouveau:ritual_warping",
+    "item:sophisticatedbackpacks:tool_swapper_upgrade",
+    "item:sophisticatedbackpacks:advanced_tool_swapper_upgrade",
+    "item:sophisticatedbackpacks:advanced_alchemy_upgrade",
+    "item:sophisticatedbackpacks:alchemy_upgrade"
   ]
 }

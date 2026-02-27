@@ -40,7 +40,7 @@
 	# In case of multiple names, separate them with a comma
 	# You can also use {baseVersion} or {patchVersion} in names to insert the base shader or Euphoria Patches version.
 	# Example: Euphoria Saturated, Comp_{baseVersion} + EP_{patchVersion} Dark Settings, EP High Performance, etc...
-	alternativeShaderNames = ""
+	alternativeShaderNames = "BE Potato, BE Very Low, BE Medium, BE High (Default), BE Very High, BE Ultra"
 
 	# Option that enables or disables automatic merging of the fragmented block.properties files into the main block.properties file.
 	# The properties files inside "Euphoria Patches/shaders/properties/" will be merged into a single block.properties file at the specified interval if any of them have changed.

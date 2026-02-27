@@ -47,7 +47,8 @@ options.txt
 command_history.txt
 /debug
 knownkeys.txt
-/shaderpacks
+/shaderpacks/*
+!/shaderpacks/
 !/shaderpacks/*.txt
 /datadev
 /dynamic-resource-pack-cache
