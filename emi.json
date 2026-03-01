@@ -178,6 +178,15 @@
     "item:sophisticatedbackpacks:tool_swapper_upgrade",
     "item:sophisticatedbackpacks:advanced_tool_swapper_upgrade",
     "item:sophisticatedbackpacks:advanced_alchemy_upgrade",
-    "item:sophisticatedbackpacks:alchemy_upgrade"
+    "item:sophisticatedbackpacks:alchemy_upgrade",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:flying\"}}",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:long_flying\"}}",
+    "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:extra_long_flying\"}}",
+    "item:minecraft:splash_potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:flying\"}}",
+    "item:minecraft:splash_potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:long_flying\"}}",
+    "item:minecraft:splash_potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:extra_long_flying\"}}",
+    "item:minecraft:lingering_potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:flying\"}}",
+    "item:minecraft:lingering_potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:long_flying\"}}",
+    "item:minecraft:lingering_potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:extra_long_flying\"}}"
   ]
 }

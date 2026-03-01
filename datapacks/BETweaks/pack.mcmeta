@@ -50,6 +50,18 @@
             "path": "/worldgen/placed_feature/*"
         },
         {
+            "namespace": "apothic_attributes",
+            "path": "brewing_mixes/flying_from_levitation"
+        },
+        {
+            "namespace": "apothic_attributes",
+            "path": "brewing_mixes/long_flying_from_flying"
+        },
+        {
+            "namespace": "apothic_attributes",
+            "path": "brewing_mixes/extra_long_flying_from_long_flying"
+        },
+        {
             "namespace": "ars_nouveau",
             "path": "recipe/thread_undying"
         },
