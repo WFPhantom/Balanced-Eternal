@@ -2,7 +2,7 @@
 {
 "loader": ["NeoForge", "21.1.219"],
 "mods":[
-  ["[neoforge]ctov-3.6.2-beta.1.jar", "623908", "7653085", "both"],
+  ["[neoforge]ctov-3.6.2-beta.1.jar", "623908", "7653085", "server"],
   ["accessories-neoforge-1.1.0-beta.53+1.21.1.jar", "938917", "7583320", "both"],
   ["accessories_compat_layer-neoforge-0.1.12+1.21.1.jar", "ySnjMzLg", "JMgVNypu", "both"],
   ["accessoriestweaks-1.0.0.jar", "1365253", "7107025", "client"],

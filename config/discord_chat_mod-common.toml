@@ -77,8 +77,8 @@ utcOffsetHours = 0
 	minecraftChatLinkColor = "#00b7ff"
 	# Style for displaying Discord messages in game chat
 	# Parameters: {guild}, {member}, {message}
-	# Default: "<{member}> {message}"
-	minecraftDiscordMessagesStyle = "**<#5f78d9>[discord]<#5f78d9/>** <{member}> {message}"
+	# Default: "**<#5f78d9>[discord]<#5f78d9/>** <{member}> {message}"
+	minecraftDiscordMessagesStyle = "<{member}> {message}"
 	# Chat message from player
 	# Parameters: {player}, {message}
 	# Default: "<{player}> {message}"
