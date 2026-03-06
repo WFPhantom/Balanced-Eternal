@@ -14,3 +14,4 @@ resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","lambd
 pauseOnLostFocus:false
 tutorialStep:none
 skipMultiplayerWarning:true
+allowServerListing :false

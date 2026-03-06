@@ -72,17 +72,17 @@ utcOffsetHours = 0
 	# {HH}, {MM}, {SS} — Hours, minutes, and seconds at the time the message was sent. Example usage: "[{HH}:{MM}] <{player}> {message}"
 	# You can read more about this configuration section and see examples here: https://github.com/denisnumb/discord-chat-mod/wiki/Minecraft-Chat-Customization
 	# [!] If enabled, make sure you don't have any other chat styling mods installed.
-	enableMinecraftChatCustomization = false
+	enableMinecraftChatCustomization = true
 	# Color of links in game chat
 	minecraftChatLinkColor = "#00b7ff"
 	# Style for displaying Discord messages in game chat
 	# Parameters: {guild}, {member}, {message}
 	# Default: "**<#5f78d9>[discord]<#5f78d9/>** <{member}> {message}"
-	minecraftDiscordMessagesStyle = "<{member}> {message}"
+	minecraftDiscordMessagesStyle = "{member}: {message}"
 	# Chat message from player
 	# Parameters: {player}, {message}
 	# Default: "<{player}> {message}"
-	minecraftPlayerMessageStyle = "<{player}> {message}"
+	minecraftPlayerMessageStyle = "[{HH}:{MM}] {player} {message}"
 	# Player joined the game
 	# Parameters: {player}, {multiplayer.player.joined}
 	# Default: "<yellow>{player} {multiplayer.player.joined}<yellow/>"
@@ -409,7 +409,7 @@ utcOffsetHours = 0
 		tellrawChannelId = ""
 		# Overrides the default channel for messages sent using /say command. If empty, uses defaultChannelId.
 		# Specify "-1" to disable sending messages send using /say command to Discord
-		sayChannelId = ""
+		sayChannelId = "-1"
 		# Overrides the default channel for messages sent using /me command. If empty, uses defaultChannelId.
 		# Specify "-1" to disable sending messages send using /me command to Discord
 		meChannelId = ""
