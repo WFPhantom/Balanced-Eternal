@@ -39,7 +39,7 @@
 	},
 	"modifiers": [
 		{
-			"slotType": "Back",
+			"slotType": "back",
 			"amount": 1
 		}
 	]
