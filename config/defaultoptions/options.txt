@@ -11,7 +11,7 @@ realmsNotifications:false
 bobView:false
 darkMojangStudiosBackground:true
 resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","lambdabettergrass:default","continuity:default","continuity:glass_pane_culling_fix","BETweaks"]
-pauseOnLostFocus:false
+pauseOnLostFocus:true
 tutorialStep:none
 skipMultiplayerWarning:true
-allowServerListing :false
+allowServerListing:false
