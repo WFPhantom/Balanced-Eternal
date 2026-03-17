@@ -187,6 +187,15 @@
     "item:minecraft:splash_potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:extra_long_flying\"}}",
     "item:minecraft:lingering_potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:flying\"}}",
     "item:minecraft:lingering_potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:long_flying\"}}",
-    "item:minecraft:lingering_potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:extra_long_flying\"}}"
+    "item:minecraft:lingering_potion{\"minecraft:potion_contents\":{potion:\"apothic_attributes:extra_long_flying\"}}",
+    "item:ars_nouveau:mundane_belt",
+    "item:ars_nouveau:belt_of_levitation",
+    "item:ars_nouveau:belt_of_unstable_gifts",
+    "item:ars_nouveau:jump_ring",
+    "item:ars_nouveau:enchanters_shield",
+    "item:ars_nouveau:repository_controller",
+    "item:ars_nouveau:repository",
+    "item:ars_nouveau:storage_lectern",
+    "item:ars_nouveau:redstone_relay"
   ]
 }

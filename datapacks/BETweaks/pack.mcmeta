@@ -95,6 +95,42 @@
             "path": "recipe/ritual_warping"
         },
         {
+            "namespace": "ars_nouveau",
+            "path": "recipe/mundane_belt"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/belt_of_levitation"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/belt_of_unstable_gifts"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/jump_ring"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/enchanters_shield"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/repository"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/repository_controller"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/storage_lectern"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/redstone_relay"
+        },
+        {
             "namespace": "gateways",
             "path": "recipe/basic"
         },
