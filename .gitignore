@@ -5,10 +5,11 @@
 **/*.jar.meta
 
 !Modpackstuff/**
-/ModpackStuff/secrets.ps1
-/ModpackStuff/get-game-versions.ps1
-/ModpackStuff/settings.ps1
-/ModpackStuff/modpack-uploader.ps1
+/ModpackUtils/secrets.ps1
+/ModpackUtils/get-game-versions.ps1
+/ModpackUtils/settings.ps1
+/ModpackUtils/modpack-uploader.ps1
+/ModpackUtils/changes
 
 # Modpack Stuff
 **/*.log
@@ -55,4 +56,4 @@ knownkeys.txt
 
 # Prism stuff
 icon.png
-ModpackStuff/devsetup.bat
+ModpackUtils/devsetup.bat

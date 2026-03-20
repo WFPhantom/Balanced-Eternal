@@ -41,6 +41,10 @@
 		{
 			"slotType": "back",
 			"amount": 1
+		},
+		{
+			"slotType": "belt",
+			"amount": -1
 		}
 	]
 }

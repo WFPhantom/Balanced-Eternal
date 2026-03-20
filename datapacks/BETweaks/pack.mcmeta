@@ -131,6 +131,22 @@
             "path": "recipe/redstone_relay"
         },
         {
+            "namespace": "ars_nouveau",
+            "path": "recipe/ritual_harvest"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/lingering_flask_cannon"
+        },
+        {         
+            "namespace": "ars_nouveau",
+            "path": "recipe/splash_flask_cannon"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/potion_flask_extend_time"
+        },
+        {
             "namespace": "gateways",
             "path": "recipe/basic"
         },
@@ -149,6 +165,10 @@
         {
             "namespace": "gateways",
             "path": "recipe/endless"
+        },
+        {
+            "namespace": "apothic_enchanting",
+            "path": "recipe/flimsy_ender_lead"
         }
     ]
   }
