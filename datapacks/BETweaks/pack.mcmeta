@@ -169,6 +169,18 @@
         {
             "namespace": "apothic_enchanting",
             "path": "recipe/flimsy_ender_lead"
+        },
+        {
+            "namespace": "apothic_enchanting",
+            "path": "recipe/boon_of_the_earth"
+        },
+        {
+            "namespace": "apothic_enchanting",
+            "path": "recipe/natures_blessing"
+        },
+        {
+            "namespace": "apothic_enchanting",
+            "path": "recipe/scavenger"
         }
     ]
   }

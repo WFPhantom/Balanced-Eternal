@@ -1,0 +1,9 @@
+{
+  "values":[],
+  "replace": false,
+  "remove": [
+    "apothic_enchanting:boon_of_the_earth",
+    "apothic_enchanting:natures_blessing",
+    "apothic_enchanting:scavenger"
+    ]
+}

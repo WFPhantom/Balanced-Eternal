@@ -2,26 +2,26 @@
     "type": "placebo:basic_trade",
     "input_1": {
         "count": 1,
-        "id": "minecraft:diamond_axe"
+        "id": "minecraft:diamond_pickaxe"
     },
     "input_2": {
-        "count": 64,
+        "count": 45,
         "id": "minecraft:emerald"
     },
     "output": {
         "components": {
-            "minecraft:custom_name": "{\"color\":\"#9AB091\",\"italic\":false,\"translate\":\"name.apotheosis.bonesplitter\"}",
+            "minecraft:custom_name": "{\"color\":\"#1ABBE0\",\"italic\":false,\"translate\":\"name.apotheosis.stonebreaker\"}",
             "minecraft:enchantments": {
                 "levels": {
-                    "minecraft:looting": 5,
+                    "minecraft:efficiency": 5,
+                    "minecraft:fortune": 4,
                     "minecraft:mending": 1,
-                    "minecraft:sharpness": 10,
-                    "minecraft:unbreaking": 3
+                    "minecraft:unbreaking": 5
                 }
             }
         },
         "count": 1,
-        "id": "minecraft:diamond_axe"
+        "id": "minecraft:diamond_pickaxe"
     },
     "rare": true,
     "xp": 500
