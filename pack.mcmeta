@@ -1,0 +1,199 @@
+{
+    "pack": {
+        "description": "Tweaks for Balanced Eternal",
+        "pack_format": 48
+    },
+    "filter": {
+        "block": [
+        {
+            "namespace": "minecraft",
+            "path": "recipe/crafter"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "recipe/spyglass"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "recipe/iron_sword"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "recipe/iron_axe"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "recipe/iron_pickaxe"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "recipe/iron_shovel"
+        },
+        {
+            "namespace": "minecraft",
+            "path": "recipe/iron_hoe"
+        },
+        {
+            "namespace": "framedblocks",
+            "path": "recipe/framed_tank"
+        },
+        {
+            "namespace": "framedblocks",
+            "path": "recipe/powered_framing_saw"
+        },
+        {
+            "namespace": "framedblocks",
+            "path": "recipe/framed_wrench"
+        },
+        {
+            "namespace": "apotheosis",
+            "path": "/worldgen/placed_feature/*"
+        },
+        {
+            "namespace": "apothic_attributes",
+            "path": "brewing_mixes/flying_from_levitation"
+        },
+        {
+            "namespace": "apothic_attributes",
+            "path": "brewing_mixes/long_flying_from_flying"
+        },
+        {
+            "namespace": "apothic_attributes",
+            "path": "brewing_mixes/extra_long_flying_from_long_flying"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/thread_undying"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/thread_high_step"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/planarium"
+
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/warp_scroll"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/stable_warp_scroll"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/reset_warp_scroll"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/reset_stable_warp_scroll"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/ritual_warping"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/mundane_belt"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/belt_of_levitation"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/belt_of_unstable_gifts"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/jump_ring"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/enchanters_shield"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/repository"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/repository_controller"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/storage_lectern"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/redstone_relay"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/ritual_harvest"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/lingering_flask_cannon"
+        },
+        {         
+            "namespace": "ars_nouveau",
+            "path": "recipe/splash_flask_cannon"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/potion_flask_extend_time"
+        },
+        {
+            "namespace": "gateways",
+            "path": "recipe/basic"
+        },
+        {
+            "namespace": "gateways",
+            "path": "recipe/emerald_grove"
+        },
+        {
+            "namespace": "gateways",
+            "path": "recipe/hellish_fortress"
+        },
+        {
+            "namespace": "gateways",
+            "path": "recipe/overworldian_nights"
+        },
+        {
+            "namespace": "gateways",
+            "path": "recipe/endless"
+        },
+        {
+            "namespace": "apothic_enchanting",
+            "path": "recipe/flimsy_ender_lead"
+        },
+        {
+            "namespace": "apothic_enchanting",
+            "path": "enchantment/boon_of_the_earth"
+        },
+        {
+            "namespace": "apothic_enchanting",
+            "path": "enchantment/natures_blessing"
+        },
+        {
+            "namespace": "apothic_enchanting",
+            "path": "enchantment/scavenger"
+        },
+        {
+            "namespace": "apotheosis",
+            "path": "affixes/breaker/ability/enlightened"
+        },
+        {
+            "namespace": "apotheosis",
+            "path": "affixes/breaker/ability/sandforming"
+        },
+        {
+            "namespace": "apotheosis",
+            "path": "affixes/breaker/ability/stoneforming"
+        }
+    ]
+  }
+}
