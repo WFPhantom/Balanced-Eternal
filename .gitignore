@@ -10,6 +10,7 @@
 /ModpackUtils/settings.ps1
 /ModpackUtils/modpack-uploader.ps1
 /ModpackUtils/changes
+ModpackUtils/devsetup.bat
 
 # Modpack Stuff
 **/*.log
@@ -43,17 +44,16 @@ config/xaeropatreon.txt
 /XaeroWaypoints_BACKUP240807
 /config/konkrete
 /schematics
-options.txt
+/options.txt
 !/config/fancymenu/options.txt
 command_history.txt
 /debug
-knownkeys.txt
 /shaderpacks/*
 !/shaderpacks/
 !/shaderpacks/*.txt
 /datadev
 /dynamic-resource-pack-cache
+/datapacks/.index
 
 # Prism stuff
 icon.png
-ModpackUtils/devsetup.bat

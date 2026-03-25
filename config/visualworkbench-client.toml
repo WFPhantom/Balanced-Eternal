@@ -7,4 +7,4 @@ rotate_ingredients = "CRAFTING_PLAYER"
 flat_rendering = true
 #Render the result of the crafting operation in addition to crafting table contents.
 #Default Value: true
-render_result = true
+render_result = false

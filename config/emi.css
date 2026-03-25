@@ -66,7 +66,7 @@
 	/**
 	 * Whether to add mod name to item tooltips, in case another mod provides behavior
 	 */
-	append-item-mod-id: false;
+	append-item-mod-id: true;
 
 	/**
 	 * Prevents recipes being quick crafted from shifting around under the cursor.
@@ -202,7 +202,7 @@
 	/**
 	 * The pages in the right sidebar
 	 */
-	right-sidebar-pages: index, craftables, empty;
+	right-sidebar-pages: index, empty;
 
 	/**
 	 * The subpanels in the right sidebar
@@ -430,7 +430,7 @@
 	/**
 	 * Copies the hovered recipe's ID to the clipboard
 	 */
-	copy-recipe-id: "ctrl alt shift key.mouse.left";
+	copy-recipe-id: "key.keyboard.unknown";
 
 	/**
 	 * In edit mode, hide the hovered stack
@@ -468,7 +468,7 @@
 	/**
 	 * Whether hovering the output of a recipe should show the recipe's EMI ID.
 	 */
-	show-recipe-ids: true;
+	show-recipe-ids: false;
 
 	/**
 	 * Whether to display additional widgets added to recipes from other mods.

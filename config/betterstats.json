@@ -2,12 +2,12 @@
   "client-guiSmoothScroll": true,
   "client-guiMobsFollowCursor": true,
   "client-trustAllServersBssNet": true,
-  "client-allowStatsSharing": true,
+  "client-allowStatsSharing": false,
   "client-wideStatsPanel": false,
   "client-centeredStatsPanel": false,
   "client-updateItemGroupsOnJoin": true,
   "client-hidePlayerInfo": false,
-  "server-registerCommands": false,
+  "server-registerCommands": true,
   "server-enableSAS": false,
   "server-sasConfig": {
     "firstMinedBlocks": [
