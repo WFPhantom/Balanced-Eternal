@@ -193,6 +193,86 @@
         {
             "namespace": "apotheosis",
             "path": "affixes/breaker/ability/stoneforming"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_craft"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_ender_inventory"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_wololo"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_smelt"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_summon_steed"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_harvest"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_invisibility"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_ignite"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_name"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_glide"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_firework"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_grow"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_break"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_fell"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_evaporate"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_crush"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_cut"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_blink"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_leap"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_slowfall"
         }
     ]
   }
