@@ -226,6 +226,9 @@
     "item:ars_nouveau:glyph_evaporate",
     "item:ars_nouveau:glyph_crush",
     "item:ars_nouveau:glyph_cut",
-    "item:ars_nouveau:potion_flask_extend_time"
+    "item:ars_nouveau:potion_flask_extend_time",
+    "item:ars_nouveau:glyph_blink",
+    "item:ars_nouveau:glyph_leap",
+    "item:ars_nouveau:glyph_slowfall"
   ]
 }
