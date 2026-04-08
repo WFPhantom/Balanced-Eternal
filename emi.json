@@ -229,6 +229,16 @@
     "item:ars_nouveau:potion_flask_extend_time",
     "item:ars_nouveau:glyph_blink",
     "item:ars_nouveau:glyph_leap",
-    "item:ars_nouveau:glyph_slowfall"
+    "item:ars_nouveau:glyph_slowfall",
+    "item:apotheosis:boss_summoner",
+    "item:ars_nouveau:glyph_animate_block",
+    "item:ars_nouveau:drygmy_charm",
+    "item:ars_nouveau:ritual_harvest",
+    "item:ars_nouveau:ritual_sunrise",
+    "item:ars_nouveau:ritual_cloudshaping",
+    "item:ars_nouveau:drygmy_stone",
+    "item:ars_nouveau:whirlisprig_charm",
+    "item:ars_nouveau:whirlisprig_flower",
+    "item:ars_nouveau:wixie_charm"
   ]
 }
