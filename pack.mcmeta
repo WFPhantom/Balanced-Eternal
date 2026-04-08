@@ -273,6 +273,42 @@
         {
             "namespace": "ars_nouveau",
             "path": "recipe/glyph_slowfall"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/glyph_animate_block"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/clear_drygmy_charm"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/drygmy_charm"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/ritual_sunrise"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/ritual_cloudshaping"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/wixie_charm"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/clear_wixie_charm"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/whirlisprig_charm"
+        },
+        {
+            "namespace": "ars_nouveau",
+            "path": "recipe/clear_whirlisprig_charm"
         }
     ]
   }
