@@ -224,10 +224,6 @@
         },
         {
             "namespace": "ars_nouveau",
-            "path": "recipe/glyph_ignite"
-        },
-        {
-            "namespace": "ars_nouveau",
             "path": "recipe/glyph_name"
         },
         {
@@ -309,6 +305,278 @@
         {
             "namespace": "ars_nouveau",
             "path": "recipe/clear_whirlisprig_charm"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/towerwood_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/blackwood_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/palm_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/baobab_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/larch_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/ad_ancient_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/aeronos_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/alpha_alternative_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/alpha_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/ancient_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/ancient_planks_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/azalea_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/blossom_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/blue_bioshroom_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/bop_cherry_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/bop_maple_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/bop_pine_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/brimwood_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/canopy_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/chorus_planks_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/cobalt_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/cypress_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/dark_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/dead_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/demonic_planks_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/echo_planks_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/empyreal_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/eucalyptus_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/fir_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/glacian_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/green_bioshroom_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/grongle_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/hellbark_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/jacaranda_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/joshua_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/kapok_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/magic_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/magnolia_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/mahogany_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/maple_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/mauve_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/menril_planks_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/mining_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/pink_bioshroom_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/redwood_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/ru_dead_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/ru_palm_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/ru_redwood_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/ru_willow_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/rubber_planks_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/smogstem_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/socotra_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/sorting_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/redwood_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/soul_planks_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/strophar_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/time_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/transformation_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/twilight_mangrove_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/twilight_oak_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/umbran_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/walnut_planks_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/wigglewood_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/willow_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/yellow_bioshroom_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/pine_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/global_oak_crafting_table"
+        },
+        {
+            "namespace": "mctb",
+            "path": "recipe/twilight_to_oak_crafting_table"
         }
     ]
   }
