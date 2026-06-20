@@ -27,7 +27,7 @@
     "ocean_offset": -0.8,
     "ridge_scale": 0.25,
     "river_ice": false,
-    "river_lanterns": true,
+    "river_lanterns": false,
     "rolling_hills": true,
     "underground_rivers": true
   },

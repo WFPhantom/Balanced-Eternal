@@ -18,26 +18,6 @@
                 "flawless": 0.425,
                 "perfect": 0.55
             }
-        },
-        {
-            "type": "apotheosis:attribute",
-            "attribute": "minecraft:generic.movement_speed",
-            "gem_class": {
-                "key": "lower_armor",
-                "types": [
-                    "apotheosis:leggings",
-                    "apotheosis:boots"
-                ]
-            },
-            "operation": "add_multiplied_total",
-            "values": {
-                "cracked": 0.1,
-                "chipped": 0.225,
-                "flawed": 0.375,
-                "normal": 0.45,
-                "flawless": 0.55,
-                "perfect": 0.7
-            }
         }
     ]
 }

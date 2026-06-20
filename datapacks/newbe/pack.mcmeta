@@ -12,6 +12,14 @@
         {
             "namespace": "framedblocks",
             "path": "recipe/phantom_paste_from_chorus_fruit"
+        },
+        {
+            "namespace": "framedblocks",
+            "path": "recipe/framed_tank"
+        },
+        {
+            "namespace": "framedblocks",
+            "path": "recipe/framing_saw/framed_tank"
         }
     ]
   }

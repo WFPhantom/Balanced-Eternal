@@ -1,11 +1,6 @@
 {
   "favorites": [],
-  "lookup_history": [
-    "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"minecraft:strength\"}}",
-    "item:framedblocks:phantom_paste",
-    "item:apotheosis:gem{\"apotheosis:gem\":\"apotheosis:core/lightning\",\"apotheosis:purity\":\"perfect\"}",
-    "item:framedblocks:framed_axe"
-  ],
+  "lookup_history": [],
   "craft_history": [],
   "recipe_defaults": {
     "added": [],
@@ -15,6 +10,8 @@
   },
   "hidden_stacks": [
     "item:framedblocks:phantom_paste",
-    "item:apotheosis:boss_summoner"
+    "item:apotheosis:boss_summoner",
+    "item:sophisticatedbackpacks:infinity_upgrade",
+    "item:framedblocks:framed_tank"
   ]
 }
