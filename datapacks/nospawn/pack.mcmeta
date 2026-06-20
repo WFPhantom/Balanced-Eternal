@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "Disabled apotheosis spawner module",
+    "pack_format": 48
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "apothic_spawners"
+      }
+    ]
+  }
+}

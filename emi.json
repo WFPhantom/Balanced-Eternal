@@ -1,0 +1,20 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:apotheosis:potion_charm{\"minecraft:potion_contents\":{potion:\"minecraft:strength\"}}",
+    "item:framedblocks:phantom_paste",
+    "item:apotheosis:gem{\"apotheosis:gem\":\"apotheosis:core/lightning\",\"apotheosis:purity\":\"perfect\"}",
+    "item:framedblocks:framed_axe"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": [
+    "item:framedblocks:phantom_paste",
+    "item:apotheosis:boss_summoner"
+  ]
+}
