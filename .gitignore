@@ -54,6 +54,15 @@ command_history.txt
 /datadev
 /dynamic-resource-pack-cache
 /datapacks/.index
+/.sable
+/.cache
+ponders_watched.json
+/bluemap/logs
+/config/spark/tmp
+/config/spark/tmp-client
+/config/fancymenu/ui_themes
+/config/catalogue_favourites.txt
+/config/sodium-fingerprint.json
 
 # Prism stuff
 icon.png
