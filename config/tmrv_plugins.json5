@@ -1,0 +1,15 @@
+{
+	"allowDefaultAsync": null,
+	"defaultDisableDuplicatePlugins": false,
+	"typeOverrides": {
+		"visualworkbench:crafting": "DISABLED"
+	},
+	"defaultPhaseOverrides": {
+	
+	},
+	"pluginPhaseOverrides": {
+		"apothic_enchanting:enchantment": {
+			"registerRecipes": "SYNC_MAIN"
+		}
+	}
+}

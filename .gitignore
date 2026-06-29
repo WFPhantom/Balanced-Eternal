@@ -63,6 +63,7 @@ ponders_watched.json
 /config/fancymenu/ui_themes
 /config/catalogue_favourites.txt
 /config/sodium-fingerprint.json
+/cache
 
 # Prism stuff
 icon.png

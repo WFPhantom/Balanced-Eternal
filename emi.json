@@ -12,6 +12,19 @@
     "item:framedblocks:phantom_paste",
     "item:apotheosis:boss_summoner",
     "item:sophisticatedbackpacks:infinity_upgrade",
-    "item:framedblocks:framed_tank"
+    "item:framedblocks:framed_tank",
+    {
+      "type": "fluid",
+      "id": "sophisticatedcore:xp_still",
+      "amount": 0
+    },
+    "item:sophisticatedcore:xp_bucket",
+    "item:hexerei:creative_waxing_kit",
+    "item:simulated:creative_physics_staff",
+    "item:create:handheld_worldshaper",
+    "item:create:creative_motor",
+    "item:create:creative_fluid_tank",
+    "item:create:creative_crate",
+    "item:create:creative_blaze_cake"
   ]
 }
