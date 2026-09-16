@@ -1,7 +1,7 @@
 {
   "apotheosis:adventure": null,
   "apothic_enchanting:ench": null,
-  "apothic_spawners:spawner": null,
+  "apothic_enchanting:raven_stats": null,
   "balm:jade": null,
   "corpse:corpse": null,
   "framedblocks:framed_block_generic": null,
@@ -78,5 +78,6 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
+  "quark:oretoise_eating_cooldown": null,
   "redstonequill:track_power": null
 }

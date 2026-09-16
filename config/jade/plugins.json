@@ -56,9 +56,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -96,13 +93,19 @@
   "redstonequill": {
     "track_power": true
   },
-  "corpse": {
-    "corpse": true
-  },
   "balm": {
     "jade": true
   },
   "apothic_enchanting": {
     "ench": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "quark": {
+    "oretoise_eating_cooldown": true
+  },
+  "corpse": {
+    "corpse": true
   }
 }

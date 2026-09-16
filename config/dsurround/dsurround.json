@@ -2,7 +2,7 @@
   "logging": {
     "enableDebugLogging": false,
     "traceMask": 0,
-    "enableModUpdateChatMessage": true,
+    "enableModUpdateChatMessage": false,
     "filteredTagView": true,
     "registerCommands": true
   },
@@ -12,9 +12,9 @@
     "enableSoundPruning": true
   },
   "enhancedSounds": {
-    "enableEnhancedSounds": true,
+    "enableEnhancedSounds": false,
     "backgroundThreadWorkers": 0,
-    "enableMonoConversion": true,
+    "enableMonoConversion": false,
     "enableOcclusionProcessing": false,
     "reverbRays": 32,
     "reverbBounces": 4,
@@ -25,12 +25,12 @@
     "replaceThunderSounds": true,
     "allowScarySounds": true,
     "playBiomeMusicWhileCreative": false,
-    "displayToastMessagesForMusic": true,
+    "displayToastMessagesForMusic": false,
     "remapSounds": true
   },
   "blockEffects": {
     "blockEffectRange": 32,
-    "steamColumnEnabled": true,
+    "steamColumnEnabled": false,
     "flameJetEnabled": true,
     "bubbleColumnEnabled": true,
     "firefliesEnabled": true,
@@ -58,18 +58,18 @@
     "suppressProjectileParticleTrails": false
   },
   "compassAndClockOptions": {
-    "enableClock": true,
-    "enableCompass": true,
+    "enableClock": false,
+    "enableCompass": false,
     "compassStyle": "TRANSPARENT_WITH_INDICATOR",
     "scale": 1.0
   },
   "fogOptions": {
-    "enableFogEffects": true,
-    "enableMorningFog": true,
-    "enableBiomeFog": true,
-    "enableWeatherFog": true
+    "enableFogEffects": false,
+    "enableMorningFog": false,
+    "enableBiomeFog": false,
+    "enableWeatherFog": false
   },
   "otherOptions": {
-    "playRandomSoundOnStartup": true
+    "playRandomSoundOnStartup": false
   }
 }

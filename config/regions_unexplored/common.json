@@ -71,7 +71,7 @@
         "can_replace": [
           "minecraft:mushroom_fields"
         ],
-        "enabled": true,
+        "enabled": false,
         // By default, all other biomes have a weight of 100.
         "weight": 20
       },
@@ -145,7 +145,7 @@
         "can_replace": [
           "minecraft:lush_caves"
         ],
-        "enabled": true,
+        "enabled": false,
         // Advanced feature! Edit this with caution.
         "parameters": {
           "erosion": {
@@ -166,7 +166,7 @@
         "can_replace": [
           "minecraft:dark_forest"
         ],
-        "enabled": true,
+        "enabled": false,
         // By default, all other biomes have a weight of 100.
         "weight": 50
       },
@@ -228,7 +228,7 @@
         "can_replace": [
           "minecraft:wooded_badlands"
         ],
-        "enabled": true,
+        "enabled": false,
         // By default, all other biomes have a weight of 100.
         "weight": 50
       },
@@ -269,7 +269,7 @@
         "can_replace": [
           "minecraft:swamp"
         ],
-        "enabled": true,
+        "enabled": false,
         "group": "swamps",
         // Advanced feature! Edit this with caution.
         "parameters": {
@@ -427,7 +427,7 @@
           "minecraft:nether_wastes"
         ],
         "dimension": "minecraft:the_nether",
-        "enabled": true,
+        "enabled": false,
         // By default, all other biomes have a weight of 100.
         "weight": 60
       },

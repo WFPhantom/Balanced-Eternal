@@ -1,5 +1,57 @@
 [
   {
+    "block": true,
+    "soundEventId": "dsurround:bees"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:biome.crickets"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:biome.crickets.deep"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:biome.ocean"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:biome.ocean.deep"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:biome.ocean.deep.under"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:biome.ocean.under"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:biome.wind"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:biome.wind.arctic"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:biome.wind.desert"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:biome.wind.hills"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:biome.wind.mountains"
+  },
+  {
+    "block": true,
+    "soundEventId": "dsurround:electricarc"
+  },
+  {
     "startup": true,
     "soundEventId": "minecraft:ambient.underwater.exit"
   },

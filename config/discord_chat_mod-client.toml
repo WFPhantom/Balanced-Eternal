@@ -9,3 +9,17 @@ emojifulCompatibility = false
 # Default: 500
 # Range: > 20
 maxChatHistory = 500
+# Maximum number of images in the cache.
+# The image cache stores images sent by players, custom discord emojis and stickers.
+# If the set limit is exceeded, the least frequently used images will be removed from the cache.
+# Default: 500
+# Range: 50 ~ 10000
+maxImageCacheSize = 500
+# Maximum time in seconds for establishing a connection and reading data when loading an image via a link.
+# Default: 15
+# Range: 5 ~ 300
+imageLoadTimeout = 15
+# When set to "true" it adds a button to the right corner of the chat for selecting and sending an image from your computer.
+enableAttachImageButton = true
+# When set to "true" it allows pasting images from the clipboard into the chat by pressing Ctrl+V.
+enableClipboardImagePaste = true

@@ -1,0 +1,14 @@
+{
+  "values":[],
+  "replace": false,
+  "remove": [
+    "apothic_enchanting:boon_of_the_earth",
+    "apothic_enchanting:natures_blessing",
+    "apothic_enchanting:scavenger",
+    "apothic_enchanting:worker_exploitation",
+    "apothic_enchanting:chromatic",
+    "apothic_enchanting:growth_serum",
+    "apothic_enchanting:miners_fervor",
+    "apothic_enchanting:stable_footing"
+    ]
+}

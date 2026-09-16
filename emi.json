@@ -11,20 +11,32 @@
   "hidden_stacks": [
     "item:framedblocks:phantom_paste",
     "item:apotheosis:boss_summoner",
-    "item:sophisticatedbackpacks:infinity_upgrade",
     "item:framedblocks:framed_tank",
-    {
-      "type": "fluid",
-      "id": "sophisticatedcore:xp_still",
-      "amount": 0
-    },
-    "item:sophisticatedcore:xp_bucket",
     "item:hexerei:creative_waxing_kit",
     "item:simulated:creative_physics_staff",
     "item:create:handheld_worldshaper",
     "item:create:creative_motor",
     "item:create:creative_fluid_tank",
     "item:create:creative_crate",
-    "item:create:creative_blaze_cake"
+    "item:create:creative_blaze_cake",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:worker_exploitation\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:chromatic\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:boon_of_the_earth\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:natures_blessing\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:scavenger\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:growth_serum\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:miners_fervor\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:stable_footing\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:infusion\":1}}}",
+    "item:regions_unexplored:alpha_dandelion",
+    "item:regions_unexplored:alpha_rose",
+    "item:regions_unexplored:alpha_sapling",
+    "item:regions_unexplored:alpha_leaves",
+    "item:regions_unexplored:alpha_grass_block",
+    "item:regions_unexplored:alpha_log",
+    "item:regions_unexplored:alpha_planks",
+    "item:regions_unexplored:alpha_stairs",
+    "item:regions_unexplored:alpha_slab",
+    "item:mctb:alpha_crafting_table"
   ]
 }
