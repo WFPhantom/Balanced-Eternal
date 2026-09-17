@@ -277,7 +277,7 @@
 	"Hotbar Changer" = false
 	"Inventory Sorting" = false
 	"Item Sharing" = false
-	"Quick Armor Swapping" = true
+	"Quick Armor Swapping" = false
 
 	[management.automatic_tool_restock]
 		#Enchantments deemed important enough to have special priority when finding a replacement

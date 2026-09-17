@@ -28,6 +28,7 @@
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:miners_fervor\":1}}}",
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:stable_footing\":1}}}",
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:infusion\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:chainsaw\":1}}}",
     "item:regions_unexplored:alpha_dandelion",
     "item:regions_unexplored:alpha_rose",
     "item:regions_unexplored:alpha_sapling",
