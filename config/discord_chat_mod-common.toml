@@ -428,42 +428,6 @@ mentionBots = true
 	# If true, slash commands will be enabled for this guild (/list, /uptime, /tps, /cmd)
 	enableSlashCommands = true
 
-	[guilds.channelOverrides]
-		# If true, messages will still be sent to the main channel, but will also be duplicated to the specified channels.
-		duplicateMessages = false
-		# Overrides the default channel for pinned server status message. If empty, uses defaultChannelId.
-		pinnedStatusMessageChannelId = ""
-		# Overrides the default channel for player death messages. If empty, uses defaultChannelId.
-		# Specify "-1" to disable sending death messages to Discord
-		deathsChannelId = ""
-		# Overrides the default channel for player advancement messages. If empty, uses defaultChannelId.
-		# Specify "-1" to disable sending player advancement messages to Discord
-		advancementsChannelId = ""
-		# Overrides the default channel for server started/closed messages. If empty, uses defaultChannelId.
-		# Specify "-1" to disable sending server started/closed messages to Discord
-		serverStartStopChannelId = ""
-		# Overrides the default channel for player join/leave messages. If empty, uses defaultChannelId.
-		# Specify "-1" to disable sending player join/leave messages to Discord
-		playerJoinLeaveChannelId = ""
-		# Overrides the default channel for messages from players in Minecraft chat. If empty, uses defaultChannelId.
-		# Specify "-1" to disable sending messages from Minecraft players chat to Discord
-		playerChatMessagesChannelId = ""
-		# Overrides the default channel for messages sent using /tellraw @a command. If empty, uses defaultChannelId.
-		# Specify "-1" to disable sending messages sent using /tellraw @a command to Discord
-		tellrawChannelId = ""
-		# Overrides the default channel for messages sent using /say command. If empty, uses defaultChannelId.
-		# Specify "-1" to disable sending messages send using /say command to Discord
-		sayChannelId = ""
-		# Overrides the default channel for messages sent using /me command. If empty, uses defaultChannelId.
-		# Specify "-1" to disable sending messages send using /me command to Discord
-		meChannelId = ""
-		# Overrides the default channel for logged player commands. If empty, uses defaultChannelId.
-		# Specify "-1" to disable sending command log messages to Discord
-		commandLogChannelId = ""
-		# Overrides the default channel for images sent from Minecraft. If empty, uses defaultChannelId.
-		# Specify "-1" to disable sending images from Minecraft to Discord
-		imagesChannelId = ""
-
 	# Configuration section for permissions to execute server commands using the /cmd slash command
 	# You can read more about this configuration section and see examples here: https://github.com/denisnumb/discord-chat-mod/wiki/Discord-server-configuration#slash-commands
 	[guilds.slashCommandPermissions]
@@ -495,3 +459,39 @@ mentionBots = true
 			allow = []
 			# List of /cmd server commands denied for this role.
 			deny = []
+
+	[guilds.channelOverrides]
+		# If true, messages will still be sent to the main channel, but will also be duplicated to the specified channels.
+		duplicateMessages = false
+		# Overrides the default channel for pinned server status message. If empty, uses defaultChannelId.
+		pinnedStatusMessageChannelId = ""
+		# Overrides the default channel for player death messages. If empty, uses defaultChannelId.
+		# Specify "-1" to disable sending death messages to Discord
+		deathsChannelId = ""
+		# Overrides the default channel for player advancement messages. If empty, uses defaultChannelId.
+		# Specify "-1" to disable sending player advancement messages to Discord
+		advancementsChannelId = ""
+		# Overrides the default channel for server started/closed messages. If empty, uses defaultChannelId.
+		# Specify "-1" to disable sending server started/closed messages to Discord
+		serverStartStopChannelId = ""
+		# Overrides the default channel for player join/leave messages. If empty, uses defaultChannelId.
+		# Specify "-1" to disable sending player join/leave messages to Discord
+		playerJoinLeaveChannelId = ""
+		# Overrides the default channel for messages from players in Minecraft chat. If empty, uses defaultChannelId.
+		# Specify "-1" to disable sending messages from Minecraft players chat to Discord
+		playerChatMessagesChannelId = ""
+		# Overrides the default channel for images sent from Minecraft. If empty, uses defaultChannelId.
+		# Specify "-1" to disable sending images from Minecraft to Discord
+		imagesChannelId = ""
+		# Overrides the default channel for messages sent using /tellraw @a command. If empty, uses defaultChannelId.
+		# Specify "-1" to disable sending messages sent using /tellraw @a command to Discord
+		tellrawChannelId = ""
+		# Overrides the default channel for messages sent using /say command. If empty, uses defaultChannelId.
+		# Specify "-1" to disable sending messages send using /say command to Discord
+		sayChannelId = ""
+		# Overrides the default channel for messages sent using /me command. If empty, uses defaultChannelId.
+		# Specify "-1" to disable sending messages send using /me command to Discord
+		meChannelId = ""
+		# Overrides the default channel for logged player commands. If empty, uses defaultChannelId.
+		# Specify "-1" to disable sending command log messages to Discord
+		commandLogChannelId = ""

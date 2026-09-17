@@ -5,5 +5,6 @@
   "capeMovement": "BASIC_SIMULATION_3D",
   "gravity": 25,
   "heightMultiplier": 6,
-  "straveMultiplier": 2
+  "straveMultiplier": 2,
+  "computeGravityVector": false
 }

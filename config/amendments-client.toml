@@ -80,6 +80,8 @@
 [lantern]
 	#Makes wall lantern use a simple block model instead of the animated tile entity renderer. This will make them render much faster but will also remove the animationNote that this option only affect lanterns close by as the one far away render as fast by default
 	fast_lanterns = false
+	#Renders the swaying wall lantern through the item renderer so its shading comes from the model's normals instead of the block model's baked per-face shading. This makes the lantern shade correctly no matter which wall it faces, at the cost of losing block ambient occlusion. Only affects the animated (close-up) renderer
+	entity_shading = true
 	#Size lanterns when held in hand
 	# Default: 0.625
 	# Range: 0.0 ~ 2.0
@@ -88,8 +90,6 @@
 	lantern_item_holding = true
 	#Makes lantern holding animation have the arm angled more upwards. Looks better if you have dynamic lights on
 	lantern_item_holding_up = false
-	#Renders the swaying wall lantern through the item renderer so its shading comes from the model's normals instead of the block model's baked per-face shading. This makes the lantern shade correctly no matter which wall it faces, at the cost of losing block ambient occlusion. Only affects the animated (close-up) renderer
-	entity_shading = true
 
 	[lantern.swing_physics]
 		min_angle = 0.7999999523162842
@@ -117,6 +117,8 @@
 	# Default: 1.0
 	# Range: 0.0 ~ 2.0
 	torch_item_size = 1.0
+	#Renders a flame particle on top of held torches
+	torch_item_flame = false
 	#Gives a special animation to supplementaries candle holders when held in hand
 	candle_holder_item_holding = true
 	#Size lanterns when held in hand
@@ -127,7 +129,5 @@
 	fixed_holding_animations = false
 	#Prevents campfire smoke from rendering if there is a solid block above it
 	campfire_smoke_through_blocks = false
-	#Renders a flame particle on top of held torches
-	torch_item_flame = false
 	#Gives the villager trade buttons the same look loom and stonecutter buttons have
 	villager_trade_buttons = true
