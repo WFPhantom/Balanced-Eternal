@@ -91,7 +91,7 @@
         "can_replace": [
           "minecraft:mushroom_fields"
         ],
-        "enabled": true,
+        "enabled": false,
         // By default, all other biomes have a weight of 100.
         "weight": 20
       },
@@ -537,7 +537,7 @@
       },
       "regions_unexplored:prismachasm": {
         // This biome has special placement rules. It can only be enabled or disabled.
-        "special_enabled": true
+        "special_enabled": false
       },
       "regions_unexplored:rainforest": {
         "can_replace": [
