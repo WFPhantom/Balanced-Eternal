@@ -167,6 +167,11 @@
     "item:regions_unexplored:ashen_leaves",
     "item:regions_unexplored:ashen_dirt",
     "item:regions_unexplored:ashen_log",
-    "item:regions_unexplored:ashen_wood"
+    "item:regions_unexplored:ashen_wood",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:crescendo_of_bolts\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:endless_quiver\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:reflective_defenses\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:shield_bash\":1}}}",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"apothic_enchanting:rebounding\":1}}}"
   ]
 }
