@@ -20,10 +20,6 @@
         {
             "namespace": "framedblocks",
             "path": "recipe/framing_saw/framed_tank"
-        },
-        {
-            "namespace": "apotheosis",
-            "path": "recipe/infusion/potion_charm"
         }
     ]
   }

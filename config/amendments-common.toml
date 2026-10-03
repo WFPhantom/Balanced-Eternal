@@ -1,6 +1,6 @@
 [lectern]
 	#Improved lectern screen allowing to edit font of a book while on it
-	improved_screen = true
+	improved_screen = false
 
 [fireball]
 	#Cooldown for fire & dragon charges in ticks
@@ -14,11 +14,11 @@
 	#Makes fire charges deflectable by punching
 	deflectable = false
 	#Allows throwing fire & dragon charges
-	fire_charges_throwable = true
+	fire_charges_throwable = false
 	#Makes dispensers shoot fire charges (the ones with gravity added by the mod) instead of blaze charges. Technically a breaking changes as it could break existing contraptions while allowing for new ones
-	fire_charges_dispenser_behavior = true
+	fire_charges_dispenser_behavior = false
 	#Improves ghast & fire charges fireballs by giving them a unique explosion particles and set on fire on hit
-	improved_explosions = true
+	improved_explosions = false
 
 [snowball]
 	#Allows snowballs to freeze entities on hit. Config is for how many ticks it will freeze
@@ -49,13 +49,13 @@
 	potion_recipes_per_layer = 2
 	#Allows mixin potions in cauldrons
 	#Allowed Values: OFF, ONLY_BOILING, ON
-	potions_mixing = "ON"
+	potions_mixing = "OFF"
 	#Max amount of effects allowed in a mixed potion
 	# Default: 8
 	# Range: 1 ~ 64
 	potion_mixing_limit = 8
 	#Makes cauldrons connect to fences
-	connect_to_fences = true
+	connect_to_fences = false
 	#Makes it so a dripstone drop only increments a cauldron by 1 layer(buttle) instead of a full bottle, making it just like a water cauldron
 	consistent_lava_layers = false
 
@@ -107,11 +107,11 @@
 	high_priority = true
 	#Allows ceiling lanterns to fall if their support is broken.Additionally if they fall from high enough they will break creating a fire where they land
 	#Allowed Values: ON, OFF, NO_FIRE
-	falling_lanterns = "ON"
+	falling_lanterns = "OFF"
 
 [bell]
 	#Ring a bell by clicking on a chain that's connected to it
-	chain_ringing = true
+	chain_ringing = false
 	#Max chain length that allows a bell to ring
 	# Default: 16
 	# Range: 0 ~ 256
@@ -129,7 +129,7 @@
 
 [torch]
 	#Allows torches to set entities on fire
-	torch_fire = true
+	torch_fire = false
 	#Allows torches to set entities on fire when held in offhand given you are attacking with a sword
 	torch_fire_offhand = false
 	#Duration of the on fire effect applied by torches. In seconds

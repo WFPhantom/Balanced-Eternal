@@ -9,7 +9,7 @@
 
 [sign]
 	#Gives signs a pixel consistent model and texture. Also affects other mods. This also makes them use a Block Model, making them render much much much faster than as block entities
-	pixel_consistent = true
+	pixel_consistent = false
 	#A scalar multiplier that will be applied to sign text making it brighter, supposedly more legible
 	# Default: 1.2
 	# Range: 0.0 ~ 5.0
@@ -19,21 +19,21 @@
 
 [projectiles]
 	#Makes snowballs render in 3D
-	snowball_3d = true
+	snowball_3d = false
 	#Makes ghast & blazes fireballs render in 3D
-	fireball_3d = true
+	fireball_3d = false
 	#Makes ghast & blazes fireballs leave a trail of particles when moving
-	ghast_fireball_trail = true
+	ghast_fireball_trail = false
 	#Makes dragon fireballs leave a trail of particles when moving
-	dragon_fireball_trail = true
+	dragon_fireball_trail = false
 	#Makes 3D charges tumble in the air when moving
-	charges_tumble = true
+	charges_tumble = false
 	#Makes 3D snowballs and slimeballs (supp compat) tumble in the air when moving
 	projectiles_tumble = false
 
 	[projectiles.dragon_fireball]
 		#Makes dragon's breath particles emissive to better match new visuals
-		dragon_breath_emissive = true
+		dragon_breath_emissive = false
 
 [lily_pad]
 	#set to 0 tho have lilypads at the same exact position as vanilla.negative numbers will place them in their own blockspace right below avoiding any clipping.best of both worlds at default as its barely within its space
@@ -102,7 +102,7 @@
 
 [cauldron]
 	#Gives a unique texture to potion cauldrons
-	potion_texture = true
+	potion_texture = false
 
 [jukebox]
 	#Use the new jukebox model
@@ -120,7 +120,7 @@
 	#Renders a flame particle on top of held torches
 	torch_item_flame = false
 	#Gives a special animation to supplementaries candle holders when held in hand
-	candle_holder_item_holding = true
+	candle_holder_item_holding = false
 	#Size lanterns when held in hand
 	# Default: 0.625
 	# Range: 0.0 ~ 2.0

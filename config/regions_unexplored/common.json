@@ -548,7 +548,7 @@
       },
       "regions_unexplored:redstone_caves": {
         // This biome has special placement rules. It can only be enabled or disabled.
-        "special_enabled": true
+        "special_enabled": false
       },
       "regions_unexplored:redwoods": {
         "can_replace": [
@@ -759,7 +759,7 @@
     // Small bushes will generate in Savannas.
     "savanna_bushes": true,
     // Frozen Grass will generate in snowy biomes.
-    "snowy_frozen_grass": true,
+    "snowy_frozen_grass": false,
     // Cattails will generate in Swamp and Mangrove Swamps.
     "swamp_cattails": true,
     // Swamps will generate with rooted Willow and Oak trees.

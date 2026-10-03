@@ -21,19 +21,21 @@
     "reverbRayTraceDistance": 256
   },
   "soundOptions": {
+    "discardNonClientSoundPlays": true,
+    "logStacktraceWhenDiscarding": false,
     "ambientVolumeScaling": 100,
     "replaceThunderSounds": true,
     "allowScarySounds": true,
     "playBiomeMusicWhileCreative": false,
     "displayToastMessagesForMusic": false,
-    "remapSounds": true
+    "remapSounds": false
   },
   "blockEffects": {
     "blockEffectRange": 32,
     "steamColumnEnabled": false,
-    "flameJetEnabled": true,
-    "bubbleColumnEnabled": true,
-    "firefliesEnabled": true,
+    "flameJetEnabled": false,
+    "bubbleColumnEnabled": false,
+    "firefliesEnabled": false,
     "waterfallsEnabled": true,
     "enableWaterfallSounds": true,
     "enableWaterfallParticles": false,
@@ -52,7 +54,7 @@
     "enableAccents": true,
     "enableArmorAccents": true,
     "enableWetSurfaceAccents": true,
-    "enableFloorSqueaks": true
+    "enableFloorSqueaks": false
   },
   "particleTweaks": {
     "suppressProjectileParticleTrails": false
@@ -70,7 +72,7 @@
     "enableWeatherFog": false
   },
   "musicManagerOptions": {
-    "replaceMusicManager": true,
+    "replaceMusicManager": false,
     "reduceWaitTime": 0
   },
   "otherOptions": {
