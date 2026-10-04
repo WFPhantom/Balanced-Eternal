@@ -1,0 +1,89 @@
+{
+  "___comment": "Unplugged-AFK-1.21.1-0.2.6 Config",
+  "config_date": "Sun, 4 Oct 2026 19:08:39 +0300",
+  "last_start": 1791130204007,
+  "last_stop": 1791130310361,
+  "main": {
+    "unpluggedAfkEnabled": true,
+    "debugMode": false,
+    "reducedListDebugInfo": true,
+    "advancedAdminOptions": false
+  },
+  "commands": {
+    "unplugCommandPermissions": 0,
+    "unpluggedAdminCommandPermissions": 4,
+    "afkCommandPermissions": 0,
+    "enableUnplugCommand": true,
+    "enableAfkCommand": false
+  },
+  "unplugged": {
+    "defaultUnpluggedTimeout": 129600,
+    "resetHealthUponDeath": false,
+    "unpluggedDisableDamage": false,
+    "unpluggedHidePlayer": false,
+    "unpluggedHideFromOps": false
+  },
+  "messages": {
+    "broadcastMessages": false,
+    "hideUnpluggedJoin": false,
+    "displayDuration": false,
+    "displayReturnFeedback": false,
+    "defaultUnpluggedReason": "",
+    "unpluggedPlayerPrefix": "§e",
+    "unpluggedPlayerSuffix": "§r",
+    "unpluggedKickMessage": "§6Your player will be AFK§r",
+    "unpluggedExpiredReason": "§eTimeout expired§r",
+    "unpluggedStarted": " §ehas been unplugged§r",
+    "unpluggedPunctuation": "§e,§r ",
+    "unpluggedReplaced": "§6Replaced by player§r",
+    "unpluggedTerminated": "§cAFK session terminated§r",
+    "unpluggedUnsuccessful": "§eYour AFK session was interrupted§r",
+    "unpluggedUnsuccessfulPrefix": " §eafter:§a ",
+    "unpluggedUnsuccessfulPunctuation": "\n §7- For:§r ",
+    "unpluggedSuccessful": "§eYour Session was successful.§r",
+    "unpluggedSuccessfulPrefix": "§eYour §a",
+    "unpluggedSuccessfulSuffix": " §eSession was successful.§r",
+    "unpluggedSuccessfulPunctuation": "\n §7- For:§r ",
+    "whenUnpluggedReturned": " §ehas returned§r",
+    "whenUnpluggedExpired": " §eAFK session expired§r",
+    "whenUnpluggedInterrupted": " §eAFK session interrupted§r",
+    "whenUnpluggedTerminated": " §eAFK session terminated§r",
+    "whenUnpluggedDurationPrefix": " §6for: §a",
+    "whenUnpluggedDurationSuffix": "§7 minutes)",
+    "whenReturnDurationPrefix": " §7(Gone for: §a",
+    "whenReturnDurationSuffix": "§7)§r",
+    "duration": {
+      "option": "PRETTY",
+      "customFormat": ""
+    },
+    "timeDate": {
+      "option": "RFC1123",
+      "customFormat": ""
+    }
+  },
+  "players": [
+    {
+      "uuid": "637e69c8-30a6-4f40-9fd4-1b6710fdb7f6",
+      "name": "WFPhantom",
+      "state": {
+        "status": "INACTIVE",
+        "time": 129600,
+        "timeout": -1,
+        "startTime": -1,
+        "reason": ""
+      },
+      "pos": {
+        "location": "minecraft:overworld",
+        "x": -237.65129598093563,
+        "y": 109.0,
+        "z": -92.76424042297447,
+        "yaw": -38.699085,
+        "pitch": 15.300034
+      },
+      "game": {
+        "gameMode": "creative",
+        "flying": false
+      }
+    }
+  ]
+}

@@ -8,8 +8,6 @@
 	
 	},
 	"pluginPhaseOverrides": {
-		"apothic_enchanting:enchantment": {
-			"registerRecipes": "SYNC_MAIN"
-		}
+	
 	}
 }

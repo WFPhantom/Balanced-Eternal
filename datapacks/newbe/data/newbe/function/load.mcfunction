@@ -1,2 +1,1 @@
-gamerule doInsomnia false
 gamerule playersSleepingPercentage 0
