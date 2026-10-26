@@ -1,12 +1,4 @@
 [general]
-	#Whether ghost blocks are shown when you are holding a framed block
-	showGhostBlocks = true
-	#If true, an alternate renderer will be used for the placement preview. May solve issues with certain shaders
-	altGhostRenderer = false
-	#Set the opacity of the placement preview. 30 is almost completely transparent, 255 is fully opaque
-	# Default: 170
-	# Range: 30 ~ 255
-	ghostRenderOpacity = 170
 	#Whether certain framed blocks should show fancy hitboxes
 	fancyHitboxes = true
 	#If false only full block faces of framed blocks will be culled, if true all outer faces of framed blocks can be culled
@@ -35,9 +27,6 @@
 	#If true, item models will be rendered with their camo, if present.
 	#If false, item models will always be rendered without camo
 	renderItemModelsWithCamo = true
-	#If true, all possible recipes of the Framing Saw will be added to EMI, else only the permutations using the Framed Cube will be added
-	#This setting only has an effect when EMI is installed
-	showAllRecipePermutationsInEmi = true
 	#Configures in which cases a framed block without a camo gets a solid model
 	#If NEVER, the default frame texture will always be used
 	#If DEFAULT, certain blocks will use the default frame texture with a solid background texture
@@ -50,10 +39,8 @@
 	#If enabled, special cube blocks will show a type overlay when a camo is applied
 	#Requires resource reload to take effect
 	showSpecialCubeTypeOverlay = true
-	#If true, framed blocks will be rendered with their camo in Jade, otherwise they will be rendered blank
-	renderCamoInJade = true
-	#If true, camo application recipes will be shown in JEI
-	showCamoCraftingInJei = true
+	#If true, camo application recipes will be shown in EMI
+	showCamoCraftingInEmi = true
 
 [overlay]
 	#Controls the maximum visibility of all overlays
@@ -72,31 +59,6 @@
 	#If set to DETAILED, the Toggle Waterloggable overlay will show detailed info
 	#Allowed Values: HIDDEN, ICON, DETAILED
 	toggleWaterlogMode = "DETAILED"
-	#If set to HIDDEN, the Toggle Slope Face overlay will be completely hidden
-	#If set to ICON, the Toggle Slope Face overlay will only show an icon
-	#If set to DETAILED, the Toggle Slope Face overlay will show detailed info
-	#Allowed Values: HIDDEN, ICON, DETAILED
-	toggleYSlopeMode = "DETAILED"
-	#If set to HIDDEN, the Reinforcement overlay will be completely hidden
-	#If set to ICON, the Reinforcement overlay will only show an icon
-	#If set to DETAILED, the Reinforcement overlay will show detailed info
-	#Allowed Values: HIDDEN, ICON, DETAILED
-	reinforcedMode = "DETAILED"
-	#If set to HIDDEN, the Prism Offset overlay will be completely hidden
-	#If set to ICON, the Prism Offset overlay will only show an icon
-	#If set to DETAILED, the Prism Offset overlay will show detailed info
-	#Allowed Values: HIDDEN, ICON, DETAILED
-	prismOffsetMode = "DETAILED"
-	#If set to HIDDEN, the Collapsible Block Split Line overlay will be completely hidden
-	#If set to ICON, the Collapsible Block Split Line overlay will only show an icon
-	#If set to DETAILED, the Collapsible Block Split Line overlay will show detailed info
-	#Allowed Values: HIDDEN, ICON, DETAILED
-	splitLineMode = "DETAILED"
-	#If set to HIDDEN, the One-Way Window overlay will be completely hidden
-	#If set to ICON, the One-Way Window overlay will only show an icon
-	#If set to DETAILED, the One-Way Window overlay will show detailed info
-	#Allowed Values: HIDDEN, ICON, DETAILED
-	oneWayWindowMode = "DETAILED"
 	#If set to HIDDEN, the Item Frame Background overlay will be completely hidden
 	#If set to ICON, the Item Frame Background overlay will only show an icon
 	#If set to DETAILED, the Item Frame Background overlay will show detailed info
@@ -112,8 +74,3 @@
 	#If set to DETAILED, the Trapdoor Texture Rotation overlay will show detailed info
 	#Allowed Values: HIDDEN, ICON, DETAILED
 	trapdoorTextureRotationMode = "DETAILED"
-	#If set to HIDDEN, the Copycat Style overlay will be completely hidden
-	#If set to ICON, the Copycat Style overlay will only show an icon
-	#If set to DETAILED, the Copycat Style overlay will show detailed info
-	#Allowed Values: HIDDEN, ICON, DETAILED
-	copycatStyleMode = "DETAILED"

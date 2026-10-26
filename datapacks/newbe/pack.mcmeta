@@ -5,22 +5,9 @@
     },
     "filter": {
         "block": [
-        {
-            "namespace": "framedblocks",
-            "path": "recipe/phantom_paste_from_phantom_membrane"
-        },
-        {
-            "namespace": "framedblocks",
-            "path": "recipe/phantom_paste_from_chorus_fruit"
-        },
-        {
-            "namespace": "framedblocks",
-            "path": "recipe/framed_tank"
-        },
-        {
-            "namespace": "framedblocks",
-            "path": "recipe/framing_saw/framed_tank"
-        }
+        { "namespace": "^minecraft$", "path": "^recipe/(stone|iron|golden|diamond)_(sword|shovel|pickaxe|axe|hoe)\\.json$" },
+        { "namespace": "^minecraft$", "path": "^recipe/(iron|golden|diamond)_(helmet|chestplate|leggings|boots)\\.json$" },
+        { "namespace": "^minecraft$", "path": "^recipe/netherite_(sword|shovel|pickaxe|axe|hoe|helmet|chestplate|leggings|boots)_smithing\\.json$" }
     ]
   }
 }

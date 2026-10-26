@@ -1,0 +1,5 @@
+key_iris.keybind.toggleShaders:key.keyboard.unknown:
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown:
+key_placebo.toggleTrails:key.keyboard.unknown:
+key_placebo.toggleWings:key.keyboard.unknown:
+key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.unknown:
