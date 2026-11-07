@@ -54,11 +54,6 @@
 	#If set to DETAILED, the State Lock overlay will show detailed info
 	#Allowed Values: HIDDEN, ICON, DETAILED
 	stateLockMode = "DETAILED"
-	#If set to HIDDEN, the Toggle Waterloggable overlay will be completely hidden
-	#If set to ICON, the Toggle Waterloggable overlay will only show an icon
-	#If set to DETAILED, the Toggle Waterloggable overlay will show detailed info
-	#Allowed Values: HIDDEN, ICON, DETAILED
-	toggleWaterlogMode = "DETAILED"
 	#If set to HIDDEN, the Item Frame Background overlay will be completely hidden
 	#If set to ICON, the Item Frame Background overlay will only show an icon
 	#If set to DETAILED, the Item Frame Background overlay will show detailed info
@@ -69,8 +64,3 @@
 	#If set to DETAILED, the Camo Rotation overlay will show detailed info
 	#Allowed Values: HIDDEN, ICON, DETAILED
 	camoRotationMode = "DETAILED"
-	#If set to HIDDEN, the Trapdoor Texture Rotation overlay will be completely hidden
-	#If set to ICON, the Trapdoor Texture Rotation overlay will only show an icon
-	#If set to DETAILED, the Trapdoor Texture Rotation overlay will show detailed info
-	#Allowed Values: HIDDEN, ICON, DETAILED
-	trapdoorTextureRotationMode = "DETAILED"

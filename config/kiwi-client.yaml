@@ -1,9 +1,9 @@
 # Use Cloth Config mod for the descriptions.
 ---
 contributorCosmetic: ''
-cosmeticScreenKeybind: true
+cosmeticScreenKeybind: false
 globalTooltip: false
-noMicrosoftTelemetry: true
+noMicrosoftTelemetry: false
 qol:
   suppressExperimentalSettingsWarning: true
   titleScreenNoFade: false
